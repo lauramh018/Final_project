@@ -1,0 +1,1471 @@
+,Age,Attrition,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Generation
+0,41,Yes,Sales,1,2,Life Sciences,2,Female,94,3,Sales Executive,4,Single,5993,8,Yes,11,1,80,0,8,0,1,6,4,0,5,Gen X
+1,49,No,Research & Development,8,1,Life Sciences,3,Male,61,2,Research Scientist,2,Married,5130,1,No,23,4,80,1,10,3,3,10,7,1,7,Gen X
+2,37,Yes,Research & Development,2,2,Other,4,Male,92,2,Laboratory Technician,3,Single,2090,6,Yes,15,2,80,0,7,3,3,0,0,0,0,Millenials
+3,33,No,Research & Development,3,4,Life Sciences,4,Female,56,3,Research Scientist,3,Married,2909,1,Yes,11,3,80,0,8,3,3,8,7,3,0,Millenials
+4,27,No,Research & Development,2,1,Medical,1,Male,40,3,Laboratory Technician,2,Married,3468,9,No,12,4,80,1,6,3,3,2,2,2,2,Millenials
+5,32,No,Research & Development,2,2,Life Sciences,4,Male,79,3,Laboratory Technician,4,Single,3068,0,No,13,3,80,0,8,2,2,7,7,3,6,Millenials
+6,59,No,Research & Development,3,3,Medical,3,Female,81,4,Laboratory Technician,1,Married,2670,4,Yes,20,1,80,3,12,3,2,1,0,0,0,Baby Boomers
+7,30,No,Research & Development,24,1,Life Sciences,4,Male,67,3,Laboratory Technician,3,Divorced,2693,1,No,22,2,80,1,1,2,3,1,0,0,0,Millenials
+8,38,No,Research & Development,23,3,Life Sciences,4,Male,44,2,Manufacturing Director,3,Single,9526,0,No,21,2,80,0,10,2,3,9,7,1,8,Millenials
+9,36,No,Research & Development,27,3,Medical,3,Male,94,3,Healthcare Representative,3,Married,5237,6,No,13,2,80,2,17,3,2,7,7,7,7,Millenials
+10,35,No,Research & Development,16,3,Medical,1,Male,84,4,Laboratory Technician,2,Married,2426,0,No,13,3,80,1,6,5,3,5,4,0,3,Millenials
+11,29,No,Research & Development,15,2,Life Sciences,4,Female,49,2,Laboratory Technician,3,Single,4193,0,Yes,12,4,80,0,10,3,3,9,5,0,8,Millenials
+12,31,No,Research & Development,26,1,Life Sciences,1,Male,31,3,Research Scientist,3,Divorced,2911,1,No,17,4,80,1,5,1,2,5,2,4,3,Millenials
+13,34,No,Research & Development,19,2,Medical,2,Male,93,3,Laboratory Technician,4,Divorced,2661,0,No,11,3,80,1,3,2,3,2,2,1,2,Millenials
+14,28,Yes,Research & Development,24,3,Life Sciences,3,Male,50,2,Laboratory Technician,3,Single,2028,5,Yes,14,2,80,0,6,4,3,4,2,0,3,Millenials
+15,29,No,Research & Development,21,4,Life Sciences,2,Female,51,4,Manufacturing Director,1,Divorced,9980,1,No,11,3,80,1,10,1,3,10,9,8,8,Millenials
+16,32,No,Research & Development,5,2,Life Sciences,1,Male,80,4,Research Scientist,2,Divorced,3298,0,Yes,12,4,80,2,7,5,2,6,2,0,5,Millenials
+17,22,No,Research & Development,16,2,Medical,4,Male,96,4,Laboratory Technician,4,Divorced,2935,1,Yes,13,2,80,2,1,2,2,1,0,0,0,Gen Z
+18,53,No,Sales,2,4,Life Sciences,1,Female,78,2,Manager,4,Married,15427,2,No,16,3,80,0,31,3,3,25,8,3,7,Gen X
+19,38,No,Research & Development,2,3,Life Sciences,4,Male,45,3,Research Scientist,4,Single,3944,5,Yes,11,3,80,0,6,3,3,3,2,1,2,Millenials
+20,24,No,Research & Development,11,2,Other,1,Female,96,4,Manufacturing Director,3,Divorced,4011,0,No,18,4,80,1,5,5,2,4,2,1,3,Gen Z
+21,36,Yes,Sales,9,4,Life Sciences,3,Male,82,2,Sales Representative,1,Single,3407,7,No,23,2,80,0,10,4,3,5,3,0,3,Millenials
+22,34,No,Research & Development,7,4,Life Sciences,1,Female,53,3,Research Director,2,Single,11994,0,No,11,3,80,0,13,4,3,12,6,2,11,Millenials
+23,21,No,Research & Development,15,2,Life Sciences,3,Male,96,3,Research Scientist,4,Single,1232,1,No,14,4,80,0,0,6,3,0,0,0,0,Gen Z
+24,34,Yes,Research & Development,6,1,Medical,2,Male,83,3,Research Scientist,1,Single,2960,2,No,11,3,80,0,8,2,3,4,2,1,3,Millenials
+25,53,No,Research & Development,5,3,Other,3,Female,58,3,Manager,3,Divorced,19094,4,No,11,4,80,1,26,3,2,14,13,4,8,Gen X
+26,32,Yes,Research & Development,16,1,Life Sciences,2,Female,72,1,Research Scientist,1,Single,3919,1,Yes,22,2,80,0,10,5,3,10,2,6,7,Millenials
+27,42,No,Sales,8,4,Marketing,3,Male,48,3,Sales Executive,2,Married,6825,0,No,11,4,80,1,10,2,3,9,7,4,2,Gen X
+28,44,No,Research & Development,7,4,Medical,1,Female,42,2,Healthcare Representative,4,Married,10248,3,No,14,4,80,1,24,4,3,22,6,5,17,Gen X
+29,46,No,Sales,2,4,Marketing,2,Female,83,3,Manager,1,Single,18947,3,No,12,4,80,0,22,2,2,2,2,2,1,Gen X
+30,33,No,Research & Development,2,3,Medical,3,Male,78,3,Laboratory Technician,4,Single,2496,4,No,11,4,80,0,7,3,3,1,1,0,0,Millenials
+31,44,No,Research & Development,10,4,Other,4,Male,41,3,Healthcare Representative,4,Married,6465,2,Yes,13,4,80,0,9,5,4,4,2,1,3,Gen X
+32,30,No,Research & Development,9,2,Medical,4,Male,83,2,Laboratory Technician,3,Single,2206,1,No,13,1,80,0,10,5,3,10,0,1,8,Millenials
+33,39,Yes,Sales,5,3,Technical Degree,4,Male,56,3,Sales Representative,4,Married,2086,3,No,14,3,80,1,19,6,4,1,0,0,0,Millenials
+34,24,Yes,Research & Development,1,3,Medical,2,Male,61,3,Research Scientist,4,Married,2293,2,Yes,16,1,80,1,6,2,2,2,0,2,0,Gen Z
+35,43,No,Research & Development,2,2,Medical,4,Female,72,4,Research Scientist,3,Divorced,2645,1,No,12,4,80,2,6,3,2,5,3,1,4,Gen X
+36,50,Yes,Sales,3,2,Marketing,1,Male,86,2,Sales Representative,3,Married,2683,1,Yes,14,3,80,0,3,2,3,3,2,0,2,Gen X
+37,35,No,Sales,2,3,Marketing,4,Female,97,3,Sales Representative,4,Married,2014,1,No,13,1,80,0,2,3,3,2,2,2,2,Millenials
+38,36,No,Research & Development,5,4,Life Sciences,2,Female,82,2,Research Scientist,1,Married,3419,9,Yes,14,4,80,1,6,3,4,1,1,0,0,Millenials
+39,33,No,Sales,1,3,Life Sciences,3,Female,42,4,Sales Executive,1,Married,5376,2,No,19,1,80,2,10,3,3,5,3,1,3,Millenials
+40,35,No,Research & Development,4,2,Other,3,Male,75,3,Laboratory Technician,4,Divorced,1951,1,No,12,3,80,1,1,3,3,1,0,0,0,Millenials
+41,27,No,Research & Development,2,4,Life Sciences,4,Female,33,3,Laboratory Technician,1,Divorced,2341,1,No,13,4,80,1,1,6,3,1,0,0,0,Millenials
+42,26,Yes,Research & Development,25,3,Life Sciences,1,Male,48,1,Laboratory Technician,3,Single,2293,1,No,12,3,80,0,1,2,2,1,0,0,1,Millenials
+43,27,No,Sales,8,3,Life Sciences,4,Male,37,3,Sales Executive,3,Single,8726,1,No,15,4,80,0,9,0,3,9,8,1,7,Millenials
+44,30,No,Research & Development,1,2,Medical,3,Female,58,3,Laboratory Technician,4,Single,4011,1,No,23,4,80,0,12,2,3,12,8,3,7,Millenials
+45,41,Yes,Research & Development,12,3,Technical Degree,2,Female,49,3,Research Director,3,Married,19545,1,No,12,4,80,0,23,0,3,22,15,15,8,Gen X
+46,34,No,Sales,23,4,Marketing,2,Male,72,3,Sales Executive,3,Single,4568,0,No,20,3,80,0,10,2,3,9,5,8,7,Millenials
+47,37,No,Research & Development,19,2,Life Sciences,2,Male,73,3,Research Scientist,2,Married,3022,4,No,21,1,80,0,8,1,3,1,0,0,0,Millenials
+48,46,No,Sales,5,4,Marketing,1,Male,98,3,Sales Executive,4,Single,5772,4,Yes,21,3,80,0,14,4,3,9,6,0,8,Gen X
+49,35,No,Research & Development,8,1,Life Sciences,4,Male,36,4,Laboratory Technician,4,Married,2269,1,No,19,4,80,0,1,2,3,1,0,0,1,Millenials
+50,48,Yes,Research & Development,1,2,Life Sciences,1,Male,98,2,Laboratory Technician,3,Single,5381,9,Yes,13,4,80,0,23,2,3,1,0,0,0,Gen X
+51,28,Yes,Research & Development,5,4,Technical Degree,3,Male,50,3,Laboratory Technician,3,Single,3441,1,Yes,13,3,80,0,2,3,2,2,2,2,2,Millenials
+52,44,No,Sales,1,5,Marketing,2,Female,75,3,Sales Executive,1,Divorced,5454,5,Yes,21,3,80,1,9,2,2,4,3,1,3,Gen X
+53,35,No,Research & Development,11,2,Medical,3,Male,79,2,Healthcare Representative,1,Married,9884,2,Yes,13,3,80,1,10,3,3,4,0,2,3,Millenials
+54,26,No,Sales,23,3,Marketing,3,Female,47,2,Sales Executive,4,Married,4157,7,Yes,19,3,80,1,5,2,2,2,2,0,0,Millenials
+55,33,No,Research & Development,1,2,Life Sciences,1,Female,98,3,Research Director,4,Single,13458,1,Yes,12,3,80,0,15,1,3,15,14,8,12,Millenials
+56,35,No,Sales,18,5,Life Sciences,2,Male,71,3,Sales Executive,1,Married,9069,1,No,22,4,80,1,9,3,2,9,8,1,8,Millenials
+57,35,No,Research & Development,23,4,Medical,3,Female,30,3,Laboratory Technician,1,Married,4014,3,Yes,15,3,80,1,4,3,3,2,2,2,2,Millenials
+58,31,No,Research & Development,7,4,Life Sciences,4,Male,48,3,Laboratory Technician,4,Divorced,5915,3,No,22,4,80,1,10,3,2,7,7,1,7,Millenials
+59,37,No,Research & Development,1,4,Life Sciences,1,Male,51,2,Manufacturing Director,3,Divorced,5993,1,No,18,3,80,1,7,2,4,7,5,0,7,Millenials
+60,32,No,Research & Development,1,3,Medical,1,Male,33,3,Manufacturing Director,4,Married,6162,1,Yes,22,2,80,1,9,3,3,9,8,7,8,Millenials
+61,38,No,Research & Development,29,5,Life Sciences,4,Female,50,3,Laboratory Technician,4,Single,2406,1,No,11,4,80,0,10,2,3,10,3,9,9,Millenials
+62,50,No,Research & Development,7,2,Medical,2,Female,43,2,Research Director,3,Divorced,18740,5,Yes,12,4,80,1,29,2,2,27,3,13,8,Gen X
+63,59,No,Sales,25,3,Life Sciences,1,Female,99,3,Sales Executive,1,Single,7637,7,No,11,4,80,0,28,3,2,21,16,7,9,Baby Boomers
+64,36,No,Research & Development,8,3,Technical Degree,3,Female,59,3,Healthcare Representative,3,Divorced,10096,1,No,13,2,80,3,17,2,3,17,14,12,8,Millenials
+65,55,No,Research & Development,8,3,Medical,4,Female,33,3,Manager,3,Divorced,14756,2,Yes,14,3,80,3,21,2,3,5,0,0,2,Gen X
+66,36,No,Research & Development,11,3,Life Sciences,2,Male,95,2,Manufacturing Director,2,Single,6499,1,No,13,3,80,0,6,3,3,6,5,0,3,Millenials
+67,45,No,Research & Development,7,3,Life Sciences,2,Male,59,3,Research Scientist,1,Divorced,9724,2,No,17,3,80,1,25,2,3,1,0,0,0,Gen X
+68,35,No,Research & Development,1,3,Medical,2,Male,79,3,Research Scientist,1,Married,2194,4,No,13,4,80,1,5,2,2,3,2,1,2,Millenials
+69,36,Yes,Research & Development,9,3,Medical,4,Male,79,2,Research Scientist,3,Married,3388,0,Yes,17,1,80,1,2,0,2,1,0,0,0,Millenials
+70,59,No,Sales,1,1,Life Sciences,1,Female,57,2,Sales Executive,3,Single,5473,7,No,11,4,80,0,20,2,2,4,3,1,3,Baby Boomers
+71,29,No,Research & Development,2,3,Life Sciences,3,Male,76,3,Research Scientist,2,Married,2703,0,No,23,4,80,1,6,3,3,5,4,0,4,Millenials
+72,31,No,Research & Development,1,4,Medical,3,Male,87,3,Research Scientist,2,Single,2501,1,No,17,2,80,0,1,4,3,1,1,1,0,Millenials
+73,32,No,Research & Development,1,3,Life Sciences,2,Male,66,3,Research Scientist,2,Married,6220,1,No,17,2,80,2,10,3,3,10,4,0,9,Millenials
+74,36,No,Research & Development,6,3,Life Sciences,2,Female,55,4,Laboratory Technician,4,Married,3038,3,No,12,2,80,0,5,3,3,1,0,0,0,Millenials
+75,31,No,Research & Development,8,4,Life Sciences,3,Female,61,3,Manufacturing Director,4,Single,4424,1,No,23,4,80,0,11,2,3,11,7,1,8,Millenials
+76,35,No,Sales,1,4,Marketing,3,Male,32,2,Sales Executive,1,Single,4312,0,No,14,2,80,0,16,2,3,15,13,2,8,Millenials
+77,45,No,Research & Development,6,4,Other,4,Male,52,3,Research Director,1,Married,13245,4,Yes,14,2,80,0,17,3,4,0,0,0,0,Gen X
+78,37,No,Research & Development,7,4,Medical,1,Male,30,3,Research Director,3,Single,13664,4,No,13,1,80,0,16,3,4,5,2,0,2,Millenials
+79,46,No,Human Resources,5,2,Medical,2,Male,80,3,Human Resources,2,Divorced,5021,8,Yes,22,4,80,1,16,2,3,4,2,0,2,Gen X
+80,30,No,Research & Development,1,1,Life Sciences,4,Male,55,2,Laboratory Technician,4,Married,5126,1,Yes,12,3,80,2,10,1,2,10,8,3,0,Millenials
+81,35,No,Research & Development,1,3,Medical,2,Male,30,2,Research Scientist,3,Single,2859,1,No,18,1,80,0,6,3,3,6,4,0,4,Millenials
+82,55,No,Sales,1,2,Life Sciences,1,Male,70,3,Sales Executive,4,Married,10239,3,No,14,4,80,1,24,4,3,1,0,1,0,Gen X
+83,38,No,Research & Development,6,3,Medical,2,Female,79,1,Research Scientist,4,Divorced,5329,7,Yes,12,4,80,3,17,3,3,13,11,1,9,Millenials
+84,34,No,Research & Development,1,2,Medical,1,Male,94,3,Manufacturing Director,2,Married,4325,1,No,15,3,80,0,5,2,3,5,2,1,3,Millenials
+85,56,No,Research & Development,7,3,Life Sciences,4,Male,49,1,Manufacturing Director,4,Single,7260,4,No,11,1,80,0,37,3,2,6,4,0,2,Baby Boomers
+86,23,No,Sales,2,1,Technical Degree,3,Male,62,3,Sales Representative,1,Divorced,2322,3,No,13,3,80,1,3,3,3,0,0,0,0,Gen Z
+87,51,No,Research & Development,9,4,Life Sciences,4,Male,96,3,Laboratory Technician,4,Married,2075,3,No,23,2,80,2,10,4,3,4,2,0,3,Gen X
+88,30,No,Research & Development,2,3,Life Sciences,3,Male,99,2,Healthcare Representative,4,Married,4152,1,No,19,1,80,3,11,3,3,11,10,10,8,Millenials
+89,46,Yes,Sales,9,2,Medical,3,Male,64,2,Sales Executive,4,Single,9619,1,No,16,4,80,0,9,3,3,9,8,4,7,Gen X
+90,40,No,Research & Development,1,4,Life Sciences,3,Male,78,2,Healthcare Representative,2,Married,13503,1,No,22,4,80,1,22,3,2,22,3,11,11,Millenials
+91,51,No,Sales,21,4,Marketing,3,Male,71,3,Sales Executive,4,Single,5441,0,Yes,22,4,80,0,11,2,1,10,7,1,0,Gen X
+92,30,No,Sales,4,2,Medical,3,Female,63,2,Sales Executive,2,Divorced,5209,1,Yes,12,2,80,3,11,4,2,11,8,2,7,Millenials
+93,46,No,Research & Development,1,3,Medical,3,Male,40,2,Healthcare Representative,1,Married,10673,2,Yes,13,3,80,1,21,5,2,10,9,9,5,Gen X
+94,32,No,Sales,6,4,Medical,2,Male,87,3,Sales Executive,3,Single,5010,1,No,16,1,80,0,12,0,3,11,8,5,7,Millenials
+95,54,No,Research & Development,2,4,Technical Degree,1,Female,60,3,Research Director,3,Married,13549,9,No,12,1,80,1,16,5,1,4,3,0,3,Gen X
+96,24,No,Sales,3,2,Other,1,Female,33,3,Sales Executive,3,Married,4999,0,No,21,1,80,1,4,2,2,3,2,0,2,Gen Z
+97,28,No,Sales,4,3,Medical,2,Male,43,3,Sales Executive,3,Married,4221,1,No,15,2,80,0,5,3,4,5,4,0,4,Millenials
+98,58,No,Sales,10,4,Medical,4,Male,37,3,Sales Executive,3,Single,13872,0,No,13,3,80,0,38,1,2,37,10,1,8,Baby Boomers
+99,44,No,Research & Development,23,3,Medical,2,Male,67,3,Laboratory Technician,2,Married,2042,4,No,12,3,80,1,17,3,4,3,2,1,2,Gen X
+100,37,Yes,Human Resources,6,4,Human Resources,3,Male,63,3,Human Resources,1,Divorced,2073,4,Yes,22,4,80,0,7,3,3,3,2,0,2,Millenials
+101,32,No,Research & Development,1,1,Life Sciences,4,Male,71,3,Research Scientist,1,Single,2956,1,No,13,4,80,0,1,2,3,1,0,0,0,Millenials
+102,20,Yes,Research & Development,6,3,Life Sciences,4,Female,66,2,Laboratory Technician,4,Single,2926,1,Yes,18,2,80,0,1,5,3,1,0,1,0,Gen Z
+103,34,No,Research & Development,6,4,Other,1,Female,41,3,Research Scientist,3,Single,4809,1,No,14,3,80,0,16,3,3,16,13,2,10,Millenials
+104,37,No,Research & Development,2,2,Life Sciences,3,Male,100,2,Healthcare Representative,4,Divorced,5163,5,No,14,4,80,1,17,2,4,1,0,0,0,Millenials
+105,59,No,Human Resources,2,4,Human Resources,3,Female,32,2,Manager,4,Married,18844,9,No,21,4,80,1,30,3,3,3,2,2,2,Baby Boomers
+106,50,No,Research & Development,1,3,Life Sciences,1,Female,73,3,Research Director,2,Married,18172,3,Yes,19,1,80,0,28,1,2,8,3,0,7,Gen X
+107,25,Yes,Sales,5,3,Marketing,3,Male,46,2,Sales Executive,3,Single,5744,1,Yes,11,4,80,0,6,1,3,6,4,0,3,Gen Z
+108,25,No,Research & Development,7,1,Medical,4,Male,64,2,Research Scientist,4,Married,2889,1,No,11,3,80,2,2,2,3,2,2,2,1,Gen Z
+109,22,No,Research & Development,15,3,Medical,2,Female,59,3,Laboratory Technician,4,Single,2871,1,No,15,3,80,0,1,5,3,0,0,0,0,Gen Z
+110,51,No,Research & Development,1,4,Medical,1,Female,30,2,Healthcare Representative,1,Single,7484,3,No,20,3,80,0,23,1,2,13,12,12,8,Gen X
+111,34,Yes,Research & Development,7,3,Life Sciences,1,Male,66,1,Laboratory Technician,3,Single,6074,1,Yes,24,4,80,0,9,3,3,9,7,0,6,Millenials
+112,54,No,Human Resources,26,3,Human Resources,4,Female,30,4,Manager,4,Single,17328,2,Yes,12,3,80,0,23,3,3,5,3,4,4,Gen X
+113,24,No,Research & Development,18,1,Life Sciences,2,Male,52,3,Laboratory Technician,3,Married,2774,0,No,12,3,80,1,6,2,3,5,3,1,2,Gen Z
+114,34,No,Research & Development,6,4,Life Sciences,3,Female,45,2,Research Scientist,2,Divorced,4505,6,No,15,3,80,1,12,3,3,1,0,0,0,Millenials
+115,37,No,Sales,3,3,Life Sciences,3,Male,87,3,Sales Executive,4,Single,7428,2,No,12,1,80,0,12,3,3,5,3,1,3,Millenials
+116,34,No,Research & Development,5,3,Medical,3,Female,45,2,Manager,1,Single,11631,2,No,12,4,80,0,14,6,3,11,10,5,8,Millenials
+117,36,No,Sales,11,2,Technical Degree,2,Female,92,3,Sales Executive,4,Married,9738,0,No,14,3,80,1,10,6,3,9,7,2,8,Millenials
+118,36,No,Research & Development,3,2,Life Sciences,1,Female,39,3,Laboratory Technician,4,Divorced,2835,5,No,22,1,80,1,7,2,3,1,0,0,0,Millenials
+119,43,No,Sales,26,2,Life Sciences,3,Male,92,3,Manager,4,Married,16959,1,Yes,12,4,80,2,25,3,4,25,12,4,12,Gen X
+120,30,No,Research & Development,23,3,Life Sciences,1,Male,96,1,Research Scientist,3,Divorced,2613,1,No,25,3,80,3,10,2,2,10,7,0,9,Millenials
+121,33,No,Sales,22,2,Marketing,3,Male,95,3,Sales Executive,2,Married,6146,0,No,13,1,80,1,8,2,4,7,7,0,7,Millenials
+122,56,Yes,Research & Development,14,4,Life Sciences,2,Female,72,3,Research Scientist,2,Married,4963,9,Yes,18,1,80,3,7,2,3,5,4,4,3,Baby Boomers
+123,51,No,Research & Development,6,3,Life Sciences,1,Male,51,3,Research Director,3,Single,19537,7,No,13,3,80,0,23,5,3,20,18,15,15,Gen X
+124,31,Yes,Sales,6,4,Life Sciences,2,Male,76,1,Sales Executive,3,Married,6172,4,Yes,18,2,80,0,12,3,2,7,7,7,7,Millenials
+125,26,No,Research & Development,6,3,Other,3,Female,46,2,Research Scientist,2,Married,2368,1,No,19,3,80,0,5,3,2,5,4,4,3,Millenials
+126,58,Yes,Research & Development,23,4,Medical,4,Female,94,3,Healthcare Representative,4,Married,10312,1,No,12,4,80,1,40,3,2,40,10,15,6,Baby Boomers
+127,19,Yes,Sales,22,1,Marketing,4,Male,50,3,Sales Representative,3,Single,1675,1,Yes,19,4,80,0,0,2,2,0,0,0,0,Gen Z
+128,22,No,Research & Development,2,1,Technical Degree,3,Male,100,3,Laboratory Technician,4,Married,2523,0,No,14,3,80,1,3,2,3,2,1,2,1,Gen Z
+129,49,No,Research & Development,20,4,Medical,3,Female,96,3,Manufacturing Director,1,Married,6567,1,No,14,3,80,0,16,2,2,15,11,5,11,Gen X
+130,43,No,Research & Development,28,3,Medical,2,Female,72,4,Research Scientist,3,Single,4739,4,No,12,4,80,0,18,2,3,3,2,1,2,Gen X
+131,50,No,Sales,12,3,Marketing,3,Female,77,3,Sales Executive,4,Single,9208,4,No,11,4,80,0,16,3,3,2,2,2,1,Gen X
+132,31,Yes,Sales,20,3,Life Sciences,2,Female,71,1,Sales Executive,3,Married,4559,3,Yes,11,3,80,1,4,2,3,2,2,2,2,Millenials
+133,41,No,Sales,9,1,Life Sciences,3,Male,96,3,Sales Executive,3,Divorced,8189,3,Yes,13,3,80,1,12,2,3,9,7,0,7,Gen X
+134,26,No,Human Resources,25,1,Life Sciences,3,Female,61,3,Human Resources,3,Married,2942,1,No,23,4,80,1,8,3,3,8,7,5,7,Millenials
+135,36,No,Research & Development,6,2,Medical,2,Male,84,3,Manufacturing Director,2,Divorced,4941,6,No,20,4,80,2,7,0,3,3,2,0,1,Millenials
+136,51,Yes,Research & Development,8,4,Life Sciences,1,Male,53,1,Manufacturing Director,4,Single,10650,2,No,15,4,80,0,18,2,3,4,2,0,3,Gen X
+137,39,No,Sales,4,4,Life Sciences,4,Female,47,2,Sales Executive,3,Married,5902,4,No,14,3,80,1,17,1,4,15,11,5,9,Millenials
+138,25,No,Sales,28,3,Life Sciences,1,Male,41,2,Sales Executive,3,Married,8639,2,No,18,4,80,0,6,3,3,2,2,2,2,Gen Z
+139,30,No,Human Resources,9,3,Human Resources,3,Male,48,3,Human Resources,4,Married,6347,0,Yes,19,4,80,0,12,2,1,11,9,4,7,Millenials
+140,32,Yes,Research & Development,9,3,Medical,1,Female,41,3,Laboratory Technician,1,Single,4200,7,No,22,1,80,0,10,2,4,5,4,0,4,Millenials
+141,45,No,Research & Development,29,3,Medical,3,Male,83,3,Research Scientist,4,Single,3452,5,No,13,2,80,0,9,2,2,6,5,0,3,Gen X
+142,38,No,Research & Development,3,5,Technical Degree,4,Female,32,3,Research Scientist,3,Single,4317,3,Yes,20,2,80,0,19,2,3,3,2,2,2,Millenials
+143,30,No,Research & Development,18,3,Life Sciences,1,Female,75,3,Research Scientist,3,Single,2632,1,No,14,3,80,0,5,4,2,5,4,0,4,Millenials
+144,32,No,Sales,9,2,Medical,4,Male,35,1,Sales Executive,4,Divorced,4668,0,No,17,4,80,3,9,2,4,8,7,0,7,Millenials
+145,30,No,Research & Development,5,3,Technical Degree,4,Female,84,3,Research Scientist,1,Divorced,3204,5,No,14,4,80,1,8,3,3,3,2,2,2,Millenials
+146,30,No,Research & Development,2,1,Medical,2,Male,35,2,Laboratory Technician,4,Single,2720,0,No,13,4,80,0,6,3,3,5,3,1,2,Millenials
+147,41,No,Research & Development,10,3,Life Sciences,4,Male,91,2,Manager,1,Divorced,17181,4,No,13,2,80,1,21,2,2,7,6,7,7,Gen X
+148,41,No,Research & Development,9,4,Life Sciences,3,Male,94,3,Laboratory Technician,1,Married,2238,2,No,21,4,80,1,7,2,3,5,0,1,4,Gen X
+149,19,No,Research & Development,3,1,Medical,2,Female,79,3,Laboratory Technician,2,Single,1483,1,No,14,4,80,0,1,3,3,1,0,0,0,Gen Z
+150,40,No,Research & Development,26,3,Medical,2,Female,54,3,Research Scientist,2,Divorced,5605,1,No,11,1,80,1,20,2,3,20,7,2,13,Millenials
+151,35,No,Sales,1,5,Marketing,3,Male,94,3,Sales Executive,2,Married,7295,1,No,13,1,80,2,10,3,3,10,8,0,6,Millenials
+152,53,No,Sales,6,2,Marketing,2,Male,34,3,Sales Representative,3,Married,2306,2,Yes,20,4,80,1,13,3,1,7,7,4,5,Gen X
+153,45,No,Research & Development,9,3,Life Sciences,2,Male,60,3,Laboratory Technician,2,Divorced,2348,8,No,18,3,80,1,20,2,1,17,9,0,15,Gen X
+154,32,No,Sales,8,3,Marketing,2,Female,43,3,Sales Executive,4,Single,8998,1,No,14,4,80,0,9,2,3,9,8,3,7,Millenials
+155,29,No,Research & Development,1,1,Technical Degree,4,Male,41,3,Manufacturing Director,3,Married,4319,1,No,13,1,80,1,10,1,3,10,7,0,9,Millenials
+156,51,No,Research & Development,7,4,Medical,2,Male,34,2,Manufacturing Director,3,Married,6132,2,No,17,3,80,0,10,2,3,1,0,0,0,Gen X
+157,58,No,Research & Development,9,3,Medical,2,Female,75,2,Research Scientist,2,Married,3346,4,Yes,20,2,80,1,9,3,2,1,0,0,0,Baby Boomers
+158,40,No,Sales,4,4,Marketing,3,Male,67,2,Sales Executive,4,Married,10855,7,No,11,1,80,1,15,2,2,12,11,2,11,Millenials
+159,34,No,Sales,2,4,Marketing,3,Female,75,3,Sales Representative,3,Married,2231,6,No,18,4,80,1,6,3,3,4,3,1,2,Millenials
+160,22,No,Research & Development,19,1,Medical,3,Male,80,3,Research Scientist,4,Married,2323,1,No,24,1,80,2,2,6,3,2,2,2,2,Gen Z
+161,27,No,Research & Development,9,3,Medical,4,Male,57,3,Research Scientist,2,Divorced,2024,6,No,18,4,80,1,6,1,1,2,2,2,2,Millenials
+162,28,No,Research & Development,21,3,Medical,3,Male,42,3,Research Scientist,4,Married,2713,1,No,11,3,80,1,5,2,1,5,2,0,2,Millenials
+163,57,No,Research & Development,24,2,Life Sciences,3,Male,83,4,Healthcare Representative,4,Divorced,9439,3,Yes,16,2,80,1,12,2,1,5,3,1,4,Baby Boomers
+164,27,No,Research & Development,3,3,Medical,3,Male,79,2,Research Scientist,3,Divorced,2566,1,Yes,15,4,80,1,1,2,2,1,1,0,1,Millenials
+165,50,No,Research & Development,11,3,Life Sciences,3,Female,53,3,Manager,2,Single,19926,3,No,15,2,80,0,21,5,3,5,4,4,4,Gen X
+166,41,No,Research & Development,14,3,Life Sciences,1,Male,56,3,Research Scientist,3,Divorced,2451,4,No,12,1,80,1,13,2,3,9,8,1,8,Gen X
+167,30,No,Sales,5,3,Life Sciences,2,Female,41,3,Sales Executive,4,Married,9419,2,No,12,3,80,1,12,2,3,10,9,7,4,Millenials
+168,38,No,Sales,1,4,Life Sciences,1,Female,59,2,Sales Executive,4,Single,8686,4,No,22,3,80,0,12,2,4,8,3,0,7,Millenials
+169,32,No,Research & Development,6,5,Life Sciences,3,Male,43,3,Research Scientist,3,Single,3038,3,No,20,1,80,0,8,2,3,5,4,1,4,Millenials
+170,27,No,Research & Development,17,3,Technical Degree,3,Male,51,3,Research Scientist,2,Married,3058,0,Yes,16,4,80,1,6,3,2,5,2,1,1,Millenials
+171,19,Yes,Sales,1,1,Technical Degree,3,Female,100,1,Sales Representative,1,Single,2325,0,No,21,1,80,0,1,5,4,0,0,0,0,Gen Z
+172,36,No,Research & Development,3,2,Medical,4,Male,30,3,Laboratory Technician,2,Single,2088,4,No,12,3,80,0,13,3,2,8,7,7,2,Millenials
+173,30,No,Research & Development,9,3,Medical,3,Male,66,3,Laboratory Technician,1,Divorced,3072,1,No,11,3,80,2,12,4,3,12,9,6,10,Millenials
+174,45,No,Sales,4,2,Life Sciences,3,Female,30,3,Sales Executive,1,Divorced,5006,4,Yes,11,1,80,1,9,3,4,5,4,0,3,Gen X
+175,56,No,Research & Development,8,3,Life Sciences,3,Female,67,3,Research Scientist,1,Divorced,4257,4,Yes,18,3,80,1,19,3,3,2,2,2,2,Baby Boomers
+176,33,No,Research & Development,2,3,Life Sciences,3,Male,90,3,Research Scientist,4,Single,2500,0,No,14,1,80,0,4,2,4,3,1,0,2,Millenials
+177,19,Yes,Research & Development,2,3,Life Sciences,2,Male,47,2,Laboratory Technician,4,Single,1102,1,No,22,3,80,0,1,3,2,1,0,1,0,Gen Z
+178,46,No,Sales,1,2,Marketing,2,Female,92,3,Sales Executive,1,Divorced,10453,1,No,25,3,80,3,24,2,3,24,13,15,7,Gen X
+179,38,No,Research & Development,9,2,Life Sciences,3,Female,75,3,Laboratory Technician,4,Single,2288,1,No,12,3,80,0,2,3,3,2,2,2,1,Millenials
+180,31,No,Research & Development,12,1,Medical,3,Female,95,3,Research Scientist,4,Married,3929,8,Yes,23,3,80,1,7,0,3,4,2,0,2,Millenials
+181,34,No,Research & Development,27,2,Medical,4,Female,95,3,Research Scientist,2,Single,2311,2,No,15,4,80,0,9,3,3,3,2,1,2,Millenials
+182,41,Yes,Sales,20,2,Marketing,2,Female,70,3,Sales Representative,2,Single,3140,1,Yes,22,4,80,0,4,5,2,4,3,0,2,Gen X
+183,50,No,Research & Development,1,3,Medical,3,Male,86,2,Laboratory Technician,3,Married,3690,2,No,15,4,80,1,5,2,2,3,2,0,2,Gen X
+184,53,No,Research & Development,13,2,Medical,4,Female,57,4,Manufacturing Director,1,Divorced,4450,1,No,11,3,80,2,5,3,3,4,2,1,3,Gen X
+185,33,No,Research & Development,14,3,Medical,4,Female,72,3,Research Scientist,2,Married,2756,1,No,13,4,80,1,8,5,3,8,7,1,6,Millenials
+186,40,No,Research & Development,4,1,Medical,4,Female,46,3,Manager,3,Married,19033,1,No,14,2,80,1,21,2,3,20,8,9,9,Millenials
+187,55,No,Research & Development,14,4,Medical,3,Male,61,4,Research Director,2,Single,18722,8,No,11,4,80,0,36,3,3,24,15,2,15,Gen X
+188,34,No,Research & Development,2,1,Life Sciences,4,Male,45,2,Manufacturing Director,3,Married,9547,1,No,17,3,80,0,10,2,2,10,9,1,9,Millenials
+189,51,No,Research & Development,3,3,Medical,4,Female,98,3,Healthcare Representative,2,Single,13734,3,No,18,3,80,0,21,6,3,7,7,1,0,Gen X
+190,52,No,Research & Development,1,4,Life Sciences,3,Male,65,2,Manager,3,Married,19999,0,No,14,1,80,1,34,5,3,33,18,11,9,Gen X
+191,27,No,Research & Development,9,3,Medical,4,Female,99,3,Research Scientist,2,Single,2279,1,No,16,4,80,0,7,2,2,7,7,0,3,Millenials
+192,35,Yes,Research & Development,23,2,Life Sciences,2,Male,50,2,Manufacturing Director,3,Married,5916,3,Yes,13,1,80,0,8,1,3,1,0,0,1,Millenials
+193,43,No,Research & Development,7,3,Medical,4,Male,37,4,Research Scientist,4,Divorced,2089,4,No,14,4,80,3,7,3,4,5,4,2,2,Gen X
+194,45,No,Research & Development,2,2,Medical,1,Male,65,2,Manager,4,Married,16792,9,No,23,4,80,1,22,1,3,20,8,11,8,Gen X
+195,37,No,Research & Development,21,3,Life Sciences,2,Male,65,4,Research Scientist,1,Married,3564,1,Yes,12,1,80,1,8,3,2,8,7,1,7,Millenials
+196,35,No,Research & Development,2,3,Medical,2,Female,37,3,Laboratory Technician,2,Single,4425,5,No,11,4,80,0,10,5,3,6,2,1,2,Millenials
+197,42,No,Research & Development,21,2,Medical,3,Female,36,3,Manufacturing Director,3,Divorced,5265,2,No,16,2,80,1,11,5,3,5,3,0,2,Gen X
+198,38,No,Research & Development,2,4,Life Sciences,4,Male,88,3,Manufacturing Director,3,Married,6553,9,No,14,2,80,0,14,3,3,1,0,0,0,Millenials
+199,38,No,Research & Development,29,3,Technical Degree,4,Male,54,3,Manufacturing Director,4,Married,6261,3,No,18,1,80,1,9,3,1,7,7,1,7,Millenials
+200,27,No,Research & Development,1,1,Technical Degree,3,Male,60,2,Manufacturing Director,1,Married,4298,5,No,19,3,80,1,6,1,3,2,2,2,0,Millenials
+201,49,No,Research & Development,18,4,Life Sciences,4,Male,92,3,Manufacturing Director,4,Divorced,6804,1,Yes,15,1,80,2,7,0,3,7,7,1,7,Gen X
+202,34,No,Research & Development,10,4,Medical,4,Male,43,3,Research Scientist,3,Divorced,3815,1,Yes,17,4,80,1,5,4,4,5,3,2,0,Millenials
+203,40,No,Research & Development,19,2,Medical,3,Male,99,3,Laboratory Technician,4,Married,2741,8,Yes,15,3,80,1,15,2,4,7,2,3,7,Millenials
+204,38,Yes,Research & Development,29,1,Medical,2,Male,70,3,Healthcare Representative,1,Married,6673,7,Yes,19,2,80,0,17,2,3,1,0,0,0,Millenials
+205,29,Yes,Sales,27,3,Marketing,2,Female,35,3,Sales Executive,4,Married,7639,1,No,22,4,80,3,10,3,2,10,4,1,9,Millenials
+206,22,No,Research & Development,5,3,Life Sciences,4,Male,60,4,Research Scientist,2,Divorced,2328,1,Yes,16,1,80,1,4,2,2,4,2,2,2,Gen Z
+207,36,No,Research & Development,18,1,Medical,2,Female,73,3,Laboratory Technician,4,Single,2153,1,No,13,1,80,0,8,2,3,8,1,1,7,Millenials
+208,40,No,Research & Development,9,5,Life Sciences,4,Male,63,2,Healthcare Representative,4,Married,4876,9,No,14,4,80,1,5,5,1,3,2,0,2,Millenials
+209,46,No,Research & Development,1,4,Medical,4,Male,97,3,Healthcare Representative,1,Divorced,9396,7,No,16,3,80,1,17,3,3,4,2,0,3,Gen X
+210,32,Yes,Sales,4,4,Medical,4,Male,32,1,Sales Executive,4,Married,10400,1,No,11,3,80,0,14,2,2,14,8,9,8,Millenials
+211,30,No,Research & Development,1,1,Life Sciences,3,Male,88,2,Manufacturing Director,3,Single,8474,1,No,22,3,80,0,12,2,3,11,8,5,8,Millenials
+212,27,No,Sales,20,3,Life Sciences,4,Female,90,3,Sales Executive,3,Single,9981,1,No,14,4,80,0,7,2,3,7,7,0,7,Millenials
+213,51,No,Research & Development,8,4,Life Sciences,2,Male,81,2,Research Director,2,Married,12490,5,No,16,4,80,2,16,5,1,10,9,4,7,Gen X
+214,30,Yes,Research & Development,3,3,Technical Degree,4,Female,88,3,Research Scientist,1,Single,2657,5,Yes,11,3,80,0,8,5,3,5,2,0,4,Millenials
+215,41,No,Sales,6,3,Life Sciences,4,Female,75,3,Manager,4,Single,13591,3,Yes,18,3,80,0,16,3,3,1,0,0,0,Gen X
+216,30,Yes,Sales,26,4,Marketing,3,Female,52,2,Sales Executive,1,Single,6696,5,No,15,3,80,0,9,5,2,6,3,0,1,Millenials
+217,29,Yes,Research & Development,1,3,Technical Degree,3,Male,85,3,Research Scientist,3,Single,2058,0,No,14,4,80,0,7,1,2,6,2,1,5,Millenials
+218,45,No,Sales,6,3,Medical,4,Female,57,2,Sales Executive,4,Single,8865,6,No,12,4,80,0,23,2,3,19,7,12,8,Gen X
+219,54,No,Sales,3,3,Marketing,4,Female,52,3,Sales Executive,1,Married,5940,2,No,14,4,80,1,16,4,3,6,2,0,5,Gen X
+220,36,No,Research & Development,5,2,Life Sciences,4,Male,62,3,Laboratory Technician,2,Single,5914,8,No,16,4,80,0,16,3,4,13,11,3,7,Millenials
+221,33,No,Research & Development,4,4,Medical,3,Female,47,2,Research Scientist,2,Married,2622,6,No,21,4,80,0,7,3,3,3,2,1,1,Millenials
+222,37,No,Research & Development,11,3,Other,2,Male,47,3,Research Director,4,Divorced,12185,1,Yes,14,3,80,3,10,1,3,10,8,0,7,Millenials
+223,38,No,Sales,3,3,Life Sciences,1,Male,76,3,Sales Executive,3,Divorced,10609,0,No,12,3,80,2,17,6,2,16,10,5,13,Millenials
+224,31,No,Research & Development,1,4,Medical,3,Male,90,1,Manufacturing Director,3,Married,4345,0,No,12,4,80,1,6,2,3,5,4,1,4,Millenials
+225,59,No,Research & Development,3,3,Life Sciences,3,Male,70,2,Research Scientist,4,Married,2177,3,No,17,1,80,1,7,6,3,1,0,0,0,Baby Boomers
+226,37,No,Sales,4,4,Marketing,1,Male,41,3,Sales Representative,4,Divorced,2793,4,No,17,3,80,1,13,2,3,9,8,5,8,Millenials
+227,29,No,Sales,1,1,Medical,2,Female,42,3,Sales Executive,4,Married,7918,1,No,14,4,80,1,11,5,3,11,10,4,1,Millenials
+228,35,No,Sales,1,3,Marketing,3,Female,92,3,Sales Executive,3,Single,8789,1,No,14,1,80,0,10,3,4,10,7,0,8,Millenials
+229,29,Yes,Research & Development,18,1,Medical,3,Male,86,2,Research Scientist,4,Single,2389,1,Yes,13,3,80,0,4,3,2,4,3,0,1,Millenials
+230,52,No,Research & Development,2,3,Life Sciences,3,Female,89,2,Laboratory Technician,4,Single,3212,7,No,15,2,80,0,6,3,2,2,2,2,2,Gen X
+231,42,No,Research & Development,4,2,Technical Degree,3,Male,58,3,Manager,4,Married,19232,1,No,11,4,80,0,22,3,3,22,17,11,15,Gen X
+232,59,No,Human Resources,6,2,Medical,2,Male,52,3,Human Resources,3,Married,2267,8,No,17,4,80,0,7,2,2,2,2,2,2,Baby Boomers
+233,50,No,Sales,1,4,Medical,4,Female,68,3,Manager,4,Divorced,19517,3,No,11,3,80,1,32,3,2,7,0,0,6,Gen X
+234,33,Yes,Research & Development,14,3,Medical,3,Male,58,3,Laboratory Technician,4,Married,2436,5,Yes,13,3,80,1,8,2,1,5,4,0,4,Millenials
+235,43,No,Sales,16,3,Marketing,4,Female,80,3,Manager,4,Married,16064,5,Yes,22,3,80,1,22,3,3,17,13,1,9,Gen X
+236,33,Yes,Research & Development,2,2,Life Sciences,1,Female,39,3,Laboratory Technician,1,Married,2707,7,No,20,1,80,0,13,3,4,9,7,1,7,Millenials
+237,52,No,Sales,2,4,Life Sciences,1,Male,79,2,Manager,3,Single,19068,1,Yes,18,4,80,0,33,2,4,33,7,15,12,Gen X
+238,32,No,Sales,4,2,Life Sciences,3,Female,56,3,Sales Representative,2,Married,3931,2,No,11,1,80,1,6,5,3,4,3,1,2,Millenials
+239,32,Yes,Research & Development,1,3,Life Sciences,4,Male,62,2,Laboratory Technician,3,Single,3730,0,Yes,14,4,80,0,4,2,1,3,2,1,2,Millenials
+240,39,No,Research & Development,1,4,Medical,3,Female,96,3,Laboratory Technician,3,Divorced,2232,7,No,14,3,80,3,7,1,3,3,2,1,2,Millenials
+241,32,No,Sales,26,4,Marketing,3,Male,100,3,Sales Executive,4,Married,4465,0,No,18,1,80,0,4,2,3,3,2,2,2,Millenials
+242,41,No,Research & Development,19,2,Life Sciences,3,Male,36,3,Research Scientist,1,Divorced,3072,2,No,16,1,80,2,17,2,2,1,0,0,0,Gen X
+243,40,No,Research & Development,24,2,Technical Degree,1,Male,62,3,Research Scientist,4,Divorced,3319,1,No,17,1,80,2,9,3,3,9,8,4,7,Millenials
+244,45,No,Research & Development,1,3,Other,3,Male,70,4,Manager,4,Married,19202,0,No,11,3,80,1,25,2,3,24,0,1,7,Gen X
+245,31,No,Research & Development,3,4,Medical,2,Male,73,3,Research Director,3,Divorced,13675,9,No,12,1,80,1,9,3,3,2,2,2,2,Millenials
+246,33,No,Research & Development,5,4,Life Sciences,3,Female,63,2,Research Scientist,4,Married,2911,1,No,13,3,80,1,2,2,2,2,2,0,2,Millenials
+247,34,No,Research & Development,2,4,Life Sciences,4,Male,84,2,Manufacturing Director,1,Married,5957,6,No,13,2,80,1,13,3,3,11,9,5,9,Millenials
+248,37,No,Research & Development,1,2,Medical,3,Female,83,2,Research Scientist,1,Married,3920,2,No,14,1,80,1,17,2,2,3,1,0,2,Millenials
+249,45,No,Research & Development,7,4,Life Sciences,1,Male,77,4,Manufacturing Director,3,Married,6434,4,No,17,4,80,1,9,1,3,3,2,0,2,Gen X
+250,37,Yes,Research & Development,10,3,Medical,1,Male,61,3,Manufacturing Director,3,Divorced,10048,6,No,11,2,80,2,17,5,3,1,0,0,0,Millenials
+251,39,No,Research & Development,2,4,Technical Degree,3,Female,64,3,Healthcare Representative,3,Single,10938,0,No,25,4,80,0,20,1,3,19,6,11,8,Millenials
+252,29,No,Research & Development,15,3,Life Sciences,3,Male,60,3,Research Scientist,4,Single,2340,1,No,19,1,80,0,6,1,3,6,5,1,5,Millenials
+253,42,No,Research & Development,17,2,Life Sciences,4,Female,82,4,Research Scientist,1,Single,6545,3,Yes,13,3,80,0,10,1,3,3,2,0,2,Gen X
+254,29,No,Sales,20,2,Marketing,4,Male,45,3,Sales Executive,4,Divorced,6931,2,No,14,4,80,1,10,2,3,3,2,0,2,Millenials
+255,25,No,Research & Development,1,3,Life Sciences,1,Female,62,3,Manufacturing Director,3,Married,4898,0,No,12,4,80,2,5,3,3,4,2,1,2,Gen Z
+256,42,No,Research & Development,2,3,Medical,4,Female,56,2,Laboratory Technician,1,Divorced,2593,0,Yes,11,3,80,1,10,4,3,9,6,7,8,Gen X
+257,40,No,Research & Development,2,2,Medical,1,Male,49,3,Research Director,3,Divorced,19436,0,No,19,4,80,1,22,5,3,21,7,3,9,Millenials
+258,51,No,Research & Development,1,3,Life Sciences,3,Male,96,3,Research Scientist,4,Married,2723,1,No,11,2,80,0,1,0,2,1,0,0,0,Gen X
+259,31,Yes,Research & Development,29,2,Medical,3,Male,71,2,Laboratory Technician,2,Single,3479,0,No,11,2,80,0,6,2,4,5,4,1,4,Millenials
+260,32,No,Research & Development,7,3,Life Sciences,2,Male,100,4,Laboratory Technician,2,Married,2794,1,No,20,3,80,0,5,3,1,5,1,0,3,Millenials
+261,38,No,Sales,2,2,Life Sciences,4,Male,39,2,Sales Executive,4,Married,5249,3,No,18,4,80,1,13,0,3,8,7,7,5,Millenials
+262,32,No,Research & Development,2,1,Technical Degree,4,Male,84,2,Laboratory Technician,1,Single,2176,4,No,13,4,80,0,9,5,3,6,2,0,4,Millenials
+263,46,No,Sales,2,3,Technical Degree,3,Female,75,1,Manager,2,Married,16872,3,Yes,12,2,80,1,28,2,2,7,7,7,7,Gen X
+264,28,Yes,Research & Development,2,4,Life Sciences,1,Male,79,3,Laboratory Technician,3,Single,3485,2,No,11,3,80,0,5,5,1,0,0,0,0,Millenials
+265,29,No,Sales,2,3,Medical,1,Male,78,2,Sales Executive,2,Married,6644,2,No,19,2,80,2,10,2,3,0,0,0,0,Millenials
+266,31,No,Research & Development,23,3,Medical,2,Male,64,2,Healthcare Representative,4,Married,5582,0,No,21,2,80,1,10,2,3,9,0,7,8,Millenials
+267,25,No,Research & Development,5,2,Life Sciences,2,Male,85,4,Healthcare Representative,1,Divorced,4000,1,No,12,4,80,2,6,2,3,6,3,1,5,Gen Z
+268,45,No,Research & Development,20,2,Medical,3,Male,79,3,Healthcare Representative,4,Married,13496,0,Yes,14,2,80,0,21,2,3,20,7,4,10,Gen X
+269,36,No,Research & Development,6,3,Life Sciences,4,Male,47,3,Laboratory Technician,4,Married,3210,0,No,11,3,80,1,16,4,3,15,13,10,11,Millenials
+270,55,No,Research & Development,1,3,Medical,4,Male,81,3,Manager,1,Single,19045,0,Yes,14,3,80,0,37,2,3,36,10,4,13,Gen X
+271,47,Yes,Research & Development,29,4,Life Sciences,1,Male,88,3,Manager,2,Married,11849,1,Yes,12,4,80,1,10,2,2,10,7,9,9,Gen X
+272,28,No,Research & Development,9,3,Medical,4,Male,94,3,Research Scientist,4,Married,2070,1,No,23,4,80,1,5,3,2,5,2,0,4,Millenials
+273,37,No,Sales,6,4,Medical,3,Male,98,3,Sales Executive,4,Married,6502,4,No,14,2,80,1,7,5,4,5,4,0,1,Millenials
+274,21,No,Research & Development,3,2,Medical,4,Male,100,2,Research Scientist,3,Single,3230,1,No,17,1,80,0,3,4,4,3,2,1,0,Gen Z
+275,37,No,Research & Development,1,4,Medical,1,Female,80,3,Research Director,4,Divorced,13603,2,Yes,18,1,80,2,15,2,3,5,2,0,2,Millenials
+276,35,No,Research & Development,22,3,Life Sciences,2,Female,71,4,Manager,2,Divorced,11996,7,No,18,2,80,1,10,6,2,7,7,6,2,Millenials
+277,38,No,Sales,7,2,Medical,1,Female,44,4,Sales Executive,1,Divorced,5605,1,Yes,24,3,80,1,8,3,3,8,0,7,7,Millenials
+278,26,No,Research & Development,1,3,Life Sciences,3,Female,84,3,Manufacturing Director,2,Divorced,6397,1,No,20,1,80,1,6,6,1,6,5,1,4,Millenials
+279,50,No,Research & Development,4,1,Life Sciences,1,Male,96,3,Research Director,2,Divorced,19144,3,No,14,1,80,2,28,4,2,10,4,1,6,Gen X
+280,53,No,Research & Development,3,4,Medical,3,Male,45,3,Research Director,3,Married,17584,3,Yes,16,4,80,3,21,5,2,5,3,1,3,Gen X
+281,42,No,Sales,1,1,Life Sciences,2,Male,99,3,Sales Executive,3,Married,4907,1,No,25,3,80,0,20,3,3,20,16,11,6,Gen X
+282,29,No,Sales,2,2,Life Sciences,2,Male,44,3,Sales Executive,4,Single,4554,1,No,18,1,80,0,10,3,2,10,7,0,9,Millenials
+283,55,No,Research & Development,20,2,Technical Degree,2,Male,37,3,Laboratory Technician,4,Married,5415,3,Yes,19,4,80,1,12,4,3,10,7,0,8,Gen X
+284,26,No,Research & Development,11,2,Medical,1,Male,60,3,Healthcare Representative,1,Married,4741,1,Yes,13,3,80,1,5,3,3,5,3,3,3,Millenials
+285,37,No,Research & Development,1,3,Life Sciences,4,Female,42,3,Research Scientist,4,Single,2115,1,No,12,2,80,0,17,3,3,17,12,5,7,Millenials
+286,44,Yes,Research & Development,24,3,Life Sciences,4,Male,43,3,Laboratory Technician,3,Divorced,3161,3,Yes,22,4,80,1,19,0,1,1,0,0,0,Gen X
+287,38,No,Research & Development,23,4,Life Sciences,4,Male,82,3,Healthcare Representative,4,Divorced,5745,9,No,14,2,80,1,10,2,3,2,2,1,2,Millenials
+288,26,Yes,Research & Development,16,4,Medical,1,Male,45,3,Laboratory Technician,2,Divorced,2373,2,Yes,13,4,80,1,5,2,3,3,2,0,2,Millenials
+289,28,No,Research & Development,8,2,Life Sciences,4,Female,66,3,Research Scientist,4,Single,3310,1,No,21,4,80,0,5,3,3,5,3,0,2,Millenials
+290,49,No,Research & Development,10,4,Life Sciences,3,Female,35,3,Research Director,1,Single,18665,9,Yes,11,4,80,0,22,4,3,3,2,1,2,Gen X
+291,36,No,Research & Development,3,3,Technical Degree,3,Male,30,3,Research Scientist,2,Single,4485,4,No,12,4,80,0,10,2,3,8,0,7,7,Millenials
+292,31,No,Sales,5,3,Marketing,4,Female,84,3,Sales Representative,2,Divorced,2789,1,No,11,3,80,1,2,5,2,2,2,2,2,Millenials
+293,26,Yes,Sales,4,4,Marketing,4,Male,48,2,Sales Executive,4,Single,5828,1,Yes,12,2,80,0,8,0,3,8,7,7,4,Millenials
+294,37,No,Research & Development,9,3,Medical,2,Male,53,3,Research Scientist,4,Married,2326,1,Yes,12,3,80,3,4,3,2,4,2,1,2,Millenials
+295,42,No,Sales,26,3,Marketing,3,Female,77,3,Sales Executive,2,Married,13525,5,No,14,4,80,1,23,2,4,20,4,4,8,Gen X
+296,18,Yes,Research & Development,3,3,Life Sciences,3,Male,54,3,Laboratory Technician,3,Single,1420,1,No,13,3,80,0,0,2,3,0,0,0,0,Gen Z
+297,35,No,Sales,16,3,Marketing,3,Male,96,3,Sales Executive,2,Married,8020,0,No,15,3,80,2,12,3,2,11,9,6,9,Millenials
+298,36,No,Research & Development,18,4,Life Sciences,3,Male,81,4,Laboratory Technician,4,Married,3688,4,No,18,4,80,2,4,2,3,1,0,0,0,Millenials
+299,51,No,Research & Development,2,3,Medical,4,Male,84,1,Manufacturing Director,2,Divorced,5482,5,No,18,4,80,1,13,3,3,4,1,1,2,Gen X
+300,41,No,Sales,2,4,Life Sciences,4,Male,88,3,Manager,2,Single,16015,1,No,19,2,80,0,22,2,3,22,10,0,4,Gen X
+301,18,No,Sales,10,3,Medical,4,Female,69,2,Sales Representative,3,Single,1200,1,No,12,1,80,0,0,2,3,0,0,0,0,Gen Z
+302,28,No,Research & Development,16,2,Medical,2,Male,68,4,Healthcare Representative,1,Single,5661,0,No,19,3,80,0,9,2,3,8,3,0,7,Millenials
+303,31,No,Sales,7,3,Technical Degree,2,Male,100,4,Sales Executive,4,Married,6929,4,No,11,2,80,1,10,3,2,8,7,7,7,Millenials
+304,39,No,Research & Development,1,3,Medical,3,Male,48,4,Healthcare Representative,4,Divorced,9613,0,No,17,1,80,3,19,5,2,18,10,3,7,Millenials
+305,36,No,Research & Development,24,4,Life Sciences,2,Female,47,3,Laboratory Technician,2,Married,5674,7,No,15,3,80,1,11,3,3,9,8,0,8,Millenials
+306,32,No,Sales,7,3,Life Sciences,4,Male,91,2,Sales Executive,3,Married,5484,1,No,14,3,80,1,13,3,2,13,8,4,8,Millenials
+307,38,No,Research & Development,25,2,Life Sciences,1,Female,81,2,Research Director,2,Married,12061,3,No,17,3,80,1,19,2,3,10,8,0,1,Millenials
+308,58,No,Research & Development,1,4,Life Sciences,4,Male,32,1,Healthcare Representative,3,Divorced,5660,2,Yes,13,4,80,1,12,2,3,5,3,1,2,Baby Boomers
+309,31,No,Research & Development,5,4,Technical Degree,3,Male,86,3,Research Scientist,4,Married,4821,0,Yes,12,3,80,1,6,4,3,5,2,0,3,Millenials
+310,31,No,Human Resources,2,3,Human Resources,1,Male,62,2,Human Resources,1,Married,6410,3,No,12,4,80,0,9,1,3,2,2,1,0,Millenials
+311,45,No,Research & Development,7,3,Life Sciences,1,Male,97,3,Laboratory Technician,1,Divorced,5210,1,No,18,1,80,1,24,2,3,24,9,9,11,Gen X
+312,31,No,Research & Development,2,4,Life Sciences,3,Male,32,3,Research Scientist,4,Divorced,2695,0,Yes,18,2,80,1,3,2,1,2,2,2,2,Millenials
+313,33,No,Research & Development,5,4,Life Sciences,4,Female,74,3,Manager,2,Married,11878,6,No,11,2,80,2,12,2,3,10,6,8,8,Millenials
+314,39,No,Research & Development,10,1,Medical,3,Male,99,3,Manager,1,Married,17068,1,Yes,14,4,80,0,21,3,3,21,9,11,10,Millenials
+315,43,No,Research & Development,10,4,Life Sciences,3,Female,33,3,Laboratory Technician,4,Single,2455,0,No,19,1,80,0,9,5,3,8,7,1,7,Gen X
+316,49,No,Research & Development,1,2,Technical Degree,3,Female,90,2,Healthcare Representative,3,Single,13964,7,Yes,12,4,80,0,25,2,3,7,1,0,7,Gen X
+317,52,Yes,Research & Development,8,4,Medical,3,Male,85,2,Research Scientist,2,Married,4941,2,No,15,1,80,0,11,3,2,8,2,7,7,Gen X
+318,27,No,Research & Development,5,3,Life Sciences,3,Female,85,3,Research Scientist,2,Single,2478,1,Yes,12,2,80,0,4,2,2,4,3,1,2,Millenials
+319,32,No,Sales,8,2,Technical Degree,3,Female,65,2,Sales Executive,2,Married,5228,1,Yes,11,4,80,0,13,2,3,13,12,11,9,Millenials
+320,27,No,Sales,2,3,Life Sciences,4,Male,74,3,Sales Executive,3,Single,4478,1,Yes,11,1,80,0,5,3,3,5,4,0,4,Millenials
+321,31,No,Sales,7,3,Marketing,4,Male,73,3,Sales Executive,4,Divorced,7547,4,No,12,4,80,3,13,3,3,7,7,1,7,Millenials
+322,32,No,Research & Development,2,4,Medical,1,Female,74,4,Research Scientist,4,Single,5055,7,No,16,3,80,0,10,0,2,7,7,0,7,Millenials
+323,28,Yes,Research & Development,2,4,Medical,1,Male,84,1,Research Scientist,4,Married,3464,5,Yes,13,4,80,0,5,4,2,3,2,2,2,Millenials
+324,30,No,Research & Development,28,2,Medical,4,Female,64,3,Research Scientist,4,Married,5775,1,No,13,4,80,2,11,2,3,10,8,1,9,Millenials
+325,31,No,Research & Development,7,2,Life Sciences,3,Female,48,2,Manufacturing Director,3,Married,8943,1,No,24,1,80,1,10,2,3,10,9,8,9,Millenials
+326,39,No,Research & Development,7,2,Medical,3,Male,54,2,Manager,4,Married,19272,1,No,15,1,80,1,21,2,3,21,9,13,3,Millenials
+327,39,Yes,Sales,3,2,Medical,4,Female,41,3,Sales Executive,3,Married,5238,4,Yes,18,1,80,0,12,3,2,1,0,0,0,Millenials
+328,33,No,Sales,10,3,Marketing,2,Male,46,2,Sales Executive,4,Single,4682,3,No,14,3,80,0,9,6,2,7,7,0,1,Millenials
+329,47,No,Research & Development,5,5,Life Sciences,4,Male,42,3,Research Director,3,Married,18300,4,No,11,2,80,1,21,2,3,3,2,1,1,Gen X
+330,43,No,Research & Development,10,4,Life Sciences,3,Female,82,2,Laboratory Technician,3,Divorced,5257,1,No,11,2,80,1,9,3,4,9,7,0,0,Gen X
+331,27,No,Sales,1,1,Marketing,3,Male,73,3,Sales Executive,2,Married,6349,0,Yes,13,4,80,1,6,0,3,5,4,1,4,Millenials
+332,54,No,Research & Development,20,4,Life Sciences,4,Female,31,3,Research Scientist,3,Single,4869,3,No,12,4,80,0,20,4,2,4,3,0,3,Gen X
+333,43,No,Research & Development,7,3,Life Sciences,3,Female,43,3,Healthcare Representative,1,Married,9985,8,No,16,1,80,1,10,1,2,1,0,0,0,Gen X
+334,45,No,Research & Development,8,4,Other,4,Male,75,3,Research Scientist,4,Married,3697,9,No,14,1,80,2,12,3,3,10,9,9,8,Gen X
+335,40,No,Sales,1,2,Medical,2,Male,57,1,Sales Executive,4,Married,7457,2,Yes,22,3,80,3,6,2,2,4,3,0,2,Millenials
+336,29,Yes,Research & Development,8,4,Other,2,Male,77,1,Laboratory Technician,1,Married,2119,1,Yes,11,4,80,0,7,4,2,7,7,0,7,Millenials
+337,29,No,Research & Development,9,5,Other,2,Male,30,2,Laboratory Technician,4,Single,3983,0,No,17,3,80,0,4,2,3,3,2,2,2,Millenials
+338,30,No,Sales,5,3,Marketing,4,Female,30,2,Sales Executive,3,Divorced,6118,1,No,13,3,80,3,10,2,3,10,9,1,2,Millenials
+339,27,No,Sales,8,4,Marketing,2,Female,56,3,Sales Executive,2,Married,6214,1,No,18,1,80,1,8,3,3,8,7,0,7,Millenials
+340,37,No,Research & Development,5,2,Medical,4,Male,61,3,Manufacturing Director,4,Divorced,6347,7,No,16,3,80,2,8,2,2,6,2,0,4,Millenials
+341,38,No,Research & Development,15,2,Life Sciences,3,Male,92,2,Research Director,4,Divorced,11510,0,Yes,14,2,80,1,12,3,3,11,10,2,9,Millenials
+342,31,No,Research & Development,7,4,Medical,3,Female,39,3,Manufacturing Director,4,Single,7143,1,Yes,14,3,80,0,11,2,2,11,9,4,10,Millenials
+343,29,No,Sales,10,1,Marketing,4,Female,39,2,Sales Executive,2,Divorced,8268,1,Yes,14,1,80,2,7,2,3,7,7,1,7,Millenials
+344,35,No,Research & Development,5,4,Technical Degree,3,Male,62,3,Manufacturing Director,2,Single,8095,0,No,13,4,80,0,17,5,3,16,6,0,13,Millenials
+345,23,No,Research & Development,26,1,Life Sciences,3,Male,83,3,Research Scientist,4,Divorced,2904,1,No,12,3,80,2,4,2,2,4,2,0,2,Gen Z
+346,41,No,Research & Development,6,3,Medical,4,Male,95,2,Manufacturing Director,2,Single,6032,6,Yes,15,4,80,0,8,3,3,5,4,1,2,Gen X
+347,47,No,Sales,4,1,Medical,2,Male,99,3,Sales Representative,3,Single,2976,3,No,19,1,80,0,5,3,3,0,0,0,0,Gen X
+348,42,No,Research & Development,23,5,Life Sciences,1,Female,44,3,Research Director,4,Single,15992,2,No,14,2,80,0,16,2,3,1,0,0,0,Gen X
+349,29,No,Sales,2,3,Life Sciences,4,Male,61,3,Sales Executive,3,Married,4649,1,No,14,1,80,1,4,3,2,4,3,0,2,Millenials
+350,42,No,Human Resources,2,1,Technical Degree,3,Male,52,3,Human Resources,3,Divorced,2696,0,Yes,11,3,80,1,4,5,3,3,2,1,0,Gen X
+351,32,No,Research & Development,2,3,Medical,3,Female,75,3,Laboratory Technician,2,Married,2370,1,No,13,3,80,1,8,4,3,8,0,0,7,Millenials
+352,48,No,Sales,29,1,Medical,1,Female,91,3,Manager,3,Married,12504,3,No,21,2,80,1,15,3,1,0,0,0,0,Gen X
+353,37,No,Research & Development,6,3,Medical,3,Male,51,4,Research Scientist,1,Divorced,5974,4,Yes,13,1,80,2,13,2,3,7,7,6,7,Millenials
+354,30,No,Sales,25,2,Technical Degree,4,Female,85,3,Sales Executive,3,Married,4736,7,Yes,12,2,80,1,4,2,4,2,2,2,2,Millenials
+355,26,No,Sales,1,3,Life Sciences,3,Male,57,3,Sales Executive,3,Married,5296,1,No,17,2,80,1,8,3,3,8,7,7,7,Millenials
+356,42,No,Research & Development,2,4,Other,1,Male,98,2,Healthcare Representative,4,Single,6781,3,No,23,2,80,0,14,6,3,1,0,0,0,Gen X
+357,21,Yes,Sales,1,1,Technical Degree,1,Female,99,2,Sales Representative,2,Single,2174,1,Yes,11,3,80,0,3,3,3,3,2,1,2,Gen Z
+358,36,No,Sales,1,5,Medical,4,Female,45,3,Sales Executive,4,Single,6653,4,No,15,2,80,0,7,6,3,1,0,0,0,Millenials
+359,36,No,Sales,3,4,Medical,1,Male,48,2,Sales Executive,4,Married,9699,4,No,11,1,80,1,16,2,3,13,9,1,12,Millenials
+360,57,No,Research & Development,1,4,Medical,4,Male,88,3,Healthcare Representative,3,Married,6755,2,No,11,3,80,0,15,2,3,3,2,1,2,Baby Boomers
+361,40,No,Research & Development,10,4,Life Sciences,4,Female,46,4,Laboratory Technician,3,Married,2213,3,Yes,13,3,80,1,10,3,3,7,7,1,7,Millenials
+362,21,No,Sales,9,2,Medical,1,Male,39,3,Sales Representative,4,Single,2610,1,No,24,3,80,0,3,3,2,3,2,2,2,Gen Z
+363,33,Yes,Sales,5,3,Marketing,4,Female,34,3,Sales Representative,3,Single,2851,1,Yes,13,2,80,0,1,2,3,1,0,0,0,Millenials
+364,37,No,Research & Development,10,3,Medical,3,Female,98,3,Laboratory Technician,1,Married,3452,6,No,20,2,80,1,17,3,3,5,4,0,3,Millenials
+365,46,No,Research & Development,7,4,Medical,3,Female,30,3,Manufacturing Director,3,Married,5258,2,No,14,3,80,0,7,2,4,1,0,0,0,Gen X
+366,41,Yes,Sales,4,3,Marketing,1,Male,56,3,Sales Executive,2,Single,9355,1,No,18,3,80,0,8,5,3,8,7,7,7,Gen X
+367,50,No,Research & Development,10,3,Technical Degree,4,Male,100,2,Healthcare Representative,4,Single,10496,6,No,15,4,80,0,20,2,3,4,3,1,3,Gen X
+368,40,Yes,Sales,22,2,Marketing,3,Male,68,2,Sales Executive,3,Married,6380,2,Yes,12,1,80,2,8,6,3,6,4,1,0,Millenials
+369,31,No,Research & Development,9,4,Life Sciences,3,Male,42,2,Research Scientist,2,Single,2657,0,Yes,16,4,80,0,3,5,3,2,2,2,2,Millenials
+370,21,Yes,Sales,12,3,Life Sciences,3,Female,90,4,Sales Representative,2,Single,2716,1,No,15,4,80,0,1,0,3,1,0,0,0,Gen Z
+371,29,No,Research & Development,23,3,Life Sciences,4,Male,54,3,Research Scientist,4,Single,2201,9,No,16,4,80,0,6,4,3,3,2,1,2,Millenials
+372,35,No,Research & Development,9,4,Life Sciences,3,Male,97,2,Healthcare Representative,2,Single,6540,9,No,19,3,80,0,10,5,3,1,1,0,0,Millenials
+373,27,No,Research & Development,1,2,Medical,4,Male,82,3,Laboratory Technician,2,Divorced,3816,1,No,11,2,80,1,5,2,3,5,2,0,4,Millenials
+374,28,No,Sales,9,4,Life Sciences,2,Male,92,3,Sales Executive,4,Single,5253,1,No,16,4,80,0,7,1,3,7,5,0,7,Millenials
+375,49,No,Research & Development,7,3,Other,2,Male,31,2,Healthcare Representative,3,Single,10965,8,No,24,3,80,0,26,2,3,5,2,0,0,Gen X
+376,51,No,Sales,14,2,Life Sciences,3,Female,87,3,Sales Executive,4,Married,4936,4,No,11,3,80,1,18,2,2,7,7,0,7,Gen X
+377,36,No,Research & Development,2,3,Life Sciences,4,Female,96,3,Research Scientist,3,Married,2543,4,No,13,2,80,1,6,3,3,2,2,2,2,Millenials
+378,34,Yes,Sales,19,3,Marketing,1,Male,67,4,Sales Executive,4,Single,5304,8,Yes,13,2,80,0,9,3,2,5,2,0,4,Millenials
+379,55,No,Research & Development,2,3,Life Sciences,3,Female,97,3,Manager,4,Single,16659,2,Yes,13,3,80,0,30,2,3,5,4,1,2,Gen X
+380,24,No,Sales,10,4,Marketing,4,Female,77,3,Sales Executive,3,Divorced,4260,1,Yes,12,4,80,1,5,2,4,5,2,0,3,Gen Z
+381,30,No,Sales,2,1,Technical Degree,3,Male,72,3,Sales Representative,2,Married,2476,1,No,18,1,80,1,1,3,3,1,0,0,0,Millenials
+382,26,Yes,Research & Development,3,1,Technical Degree,3,Male,73,3,Research Scientist,1,Single,3102,0,No,22,3,80,0,7,2,3,6,4,0,4,Millenials
+383,22,No,Research & Development,11,3,Medical,1,Female,43,3,Research Scientist,2,Married,2244,1,No,13,4,80,1,2,1,3,2,1,1,2,Gen Z
+384,36,No,Sales,2,2,Medical,2,Male,61,2,Sales Executive,3,Married,7596,1,No,13,2,80,2,10,2,3,10,9,9,0,Millenials
+385,30,Yes,Research & Development,4,3,Technical Degree,3,Male,40,3,Research Scientist,4,Single,2285,9,Yes,23,3,80,0,3,4,3,1,0,0,0,Millenials
+386,37,No,Research & Development,14,3,Life Sciences,4,Female,95,3,Laboratory Technician,1,Divorced,3034,1,No,12,3,80,1,18,2,2,18,7,12,17,Millenials
+387,40,No,Sales,2,2,Marketing,4,Female,46,3,Sales Executive,2,Divorced,5715,7,No,12,3,80,2,8,5,3,5,4,1,3,Millenials
+388,42,No,Research & Development,1,4,Life Sciences,2,Female,95,3,Laboratory Technician,1,Divorced,2576,3,No,16,2,80,1,8,5,3,5,2,1,2,Gen X
+389,37,No,Research & Development,10,4,Life Sciences,3,Male,49,3,Manufacturing Director,2,Single,4197,2,Yes,12,4,80,0,18,2,2,1,0,0,1,Millenials
+390,43,No,Research & Development,12,3,Life Sciences,1,Male,59,2,Research Director,2,Divorced,14336,1,No,11,3,80,1,25,3,3,25,10,3,9,Gen X
+391,40,No,Research & Development,2,3,Medical,2,Female,78,2,Laboratory Technician,3,Married,3448,6,No,22,2,80,1,20,3,3,1,0,0,0,Millenials
+392,54,No,Research & Development,5,2,Medical,1,Male,86,3,Research Director,1,Married,19406,4,No,11,3,80,1,24,4,2,4,2,1,2,Gen X
+393,34,No,Sales,4,4,Marketing,3,Female,72,3,Sales Executive,3,Married,6538,9,No,15,1,80,1,6,3,3,3,2,1,2,Millenials
+394,31,No,Research & Development,7,2,Medical,2,Female,31,3,Manufacturing Director,1,Married,4306,1,No,12,2,80,1,13,5,1,13,10,3,12,Millenials
+395,43,No,Research & Development,21,3,Medical,4,Male,61,3,Laboratory Technician,4,Married,2258,7,No,20,1,80,1,8,1,3,3,2,1,2,Gen X
+396,43,No,Research & Development,8,4,Other,3,Female,74,3,Healthcare Representative,3,Divorced,4522,4,Yes,14,4,80,0,8,3,3,5,2,0,2,Gen X
+397,25,No,Sales,4,2,Life Sciences,2,Female,99,2,Sales Executive,4,Single,4487,1,Yes,11,2,80,0,5,3,3,5,4,1,3,Gen Z
+398,37,No,Research & Development,25,5,Medical,2,Female,72,3,Research Scientist,3,Married,4449,3,Yes,15,1,80,2,15,2,3,13,11,10,7,Millenials
+399,31,No,Research & Development,1,2,Life Sciences,4,Male,98,2,Laboratory Technician,1,Married,2218,1,No,12,3,80,1,4,3,3,4,2,3,2,Millenials
+400,39,No,Research & Development,1,1,Life Sciences,2,Male,52,3,Manager,3,Divorced,19197,1,Yes,14,3,80,1,21,3,3,21,8,1,6,Millenials
+401,56,No,Sales,6,3,Life Sciences,3,Female,86,4,Sales Executive,1,Married,13212,9,No,11,4,80,3,36,0,2,7,7,7,7,Baby Boomers
+402,30,No,Sales,12,3,Technical Degree,2,Female,83,3,Sales Executive,3,Single,6577,0,No,11,2,80,0,6,6,3,5,4,4,4,Millenials
+403,41,No,Sales,1,3,Marketing,2,Male,49,4,Sales Executive,1,Married,8392,1,No,16,3,80,1,10,2,3,10,7,0,7,Gen X
+404,28,No,Research & Development,17,2,Medical,3,Male,79,3,Laboratory Technician,1,Divorced,4558,1,No,12,4,80,1,10,2,3,10,0,1,8,Millenials
+405,25,Yes,Research & Development,3,3,Medical,1,Male,91,3,Laboratory Technician,1,Married,4031,5,No,13,3,80,1,6,5,3,2,2,0,2,Gen Z
+406,52,No,Research & Development,3,3,Medical,4,Male,39,2,Manufacturing Director,3,Married,7969,2,Yes,14,3,80,0,28,4,3,5,4,0,4,Gen X
+407,45,No,Research & Development,10,2,Life Sciences,1,Male,69,3,Research Scientist,4,Married,2654,3,No,21,4,80,2,8,3,2,2,2,0,2,Gen X
+408,52,No,Research & Development,4,2,Life Sciences,4,Female,30,3,Manager,4,Married,16555,2,No,13,4,80,0,31,2,1,5,2,1,4,Gen X
+409,42,No,Research & Development,29,2,Life Sciences,1,Female,92,3,Research Scientist,3,Divorced,4556,2,No,11,2,80,1,19,3,3,5,4,0,2,Gen X
+410,30,No,Research & Development,2,3,Life Sciences,3,Female,43,1,Manufacturing Director,4,Single,6091,2,No,20,3,80,0,11,2,3,5,4,0,2,Millenials
+411,60,No,Research & Development,7,3,Life Sciences,1,Female,41,3,Manager,1,Married,19566,5,No,11,4,80,0,33,5,1,29,8,11,10,Baby Boomers
+412,46,No,Research & Development,18,3,Medical,3,Female,87,3,Manufacturing Director,3,Divorced,4810,2,No,14,3,80,1,19,5,2,10,7,0,8,Gen X
+413,42,No,Research & Development,28,4,Technical Degree,4,Female,88,2,Healthcare Representative,4,Married,4523,0,No,11,4,80,3,7,4,4,6,5,0,4,Gen X
+414,24,Yes,Sales,1,1,Technical Degree,1,Female,62,3,Sales Representative,2,Single,3202,1,Yes,16,2,80,0,6,4,3,5,3,1,4,Gen Z
+415,34,Yes,Sales,6,2,Marketing,4,Female,33,1,Sales Representative,3,Divorced,2351,0,No,16,4,80,1,3,3,2,2,2,1,0,Millenials
+416,38,No,Research & Development,2,2,Life Sciences,4,Male,42,3,Laboratory Technician,4,Married,1702,1,Yes,23,3,80,1,1,3,3,1,0,0,0,Millenials
+417,40,No,Sales,2,4,Life Sciences,3,Female,79,3,Manager,3,Married,18041,0,No,14,4,80,0,21,2,3,20,15,1,12,Millenials
+418,26,No,Research & Development,23,3,Life Sciences,1,Female,90,3,Research Scientist,4,Divorced,2886,1,No,22,2,80,2,3,3,1,3,2,0,2,Millenials
+419,30,No,Research & Development,3,3,Life Sciences,3,Male,53,3,Laboratory Technician,4,Married,2097,4,No,15,3,80,1,9,3,1,5,3,1,4,Millenials
+420,29,No,Research & Development,3,4,Medical,2,Male,93,2,Research Director,3,Married,11935,1,No,18,3,80,0,10,2,3,10,2,0,7,Millenials
+421,29,Yes,Research & Development,25,5,Technical Degree,3,Female,71,2,Research Scientist,2,Married,2546,5,No,16,2,80,0,6,2,4,2,2,1,1,Millenials
+422,19,Yes,Human Resources,2,2,Technical Degree,1,Male,52,2,Human Resources,4,Single,2564,1,No,12,3,80,0,1,3,4,1,0,0,0,Gen Z
+423,30,No,Sales,22,4,Other,3,Female,69,3,Sales Executive,1,Married,8412,0,No,11,3,80,0,10,3,3,9,8,7,8,Millenials
+424,57,No,Sales,29,3,Marketing,1,Male,56,2,Manager,4,Divorced,14118,3,No,12,3,80,1,32,3,2,1,0,0,0,Baby Boomers
+425,50,No,Research & Development,29,4,Life Sciences,2,Male,88,2,Manager,3,Married,17046,0,No,15,2,80,1,28,2,3,27,10,15,7,Gen X
+426,30,No,Research & Development,2,3,Medical,3,Female,49,3,Laboratory Technician,4,Single,2564,0,No,14,3,80,0,12,2,2,11,7,6,7,Millenials
+427,60,No,Sales,28,3,Marketing,3,Female,80,2,Sales Executive,1,Married,10266,4,No,19,4,80,0,22,5,4,18,13,13,11,Baby Boomers
+428,47,No,Research & Development,2,2,Medical,1,Female,65,3,Manufacturing Director,4,Divorced,5070,5,No,13,3,80,3,20,2,3,5,0,0,4,Gen X
+429,46,No,Research & Development,2,3,Life Sciences,1,Male,51,3,Research Director,3,Married,17861,6,No,13,3,80,0,26,2,1,3,2,0,1,Gen X
+430,35,No,Research & Development,22,3,Life Sciences,4,Male,46,1,Laboratory Technician,3,Single,4230,0,No,15,3,80,0,6,2,3,5,4,4,3,Millenials
+431,54,No,Research & Development,8,4,Life Sciences,3,Female,42,3,Laboratory Technician,3,Single,3780,7,No,11,3,80,0,19,3,3,1,0,0,0,Gen X
+432,34,No,Research & Development,2,4,Life Sciences,4,Male,62,2,Research Scientist,3,Divorced,2768,3,No,12,3,80,1,14,3,3,7,3,5,7,Millenials
+433,46,No,Sales,10,3,Marketing,3,Female,94,2,Sales Executive,4,Married,9071,2,Yes,19,3,80,1,15,3,3,3,2,1,2,Gen X
+434,31,No,Research & Development,9,1,Life Sciences,3,Male,33,3,Manufacturing Director,2,Divorced,10648,1,No,25,4,80,1,13,6,4,13,8,0,8,Millenials
+435,33,Yes,Research & Development,15,1,Medical,2,Male,56,3,Manager,3,Married,13610,7,Yes,12,4,80,0,15,2,4,7,6,7,7,Millenials
+436,33,Yes,Research & Development,10,1,Medical,1,Male,38,1,Laboratory Technician,4,Divorced,3408,7,No,13,1,80,3,8,2,3,4,3,1,3,Millenials
+437,30,No,Sales,7,1,Marketing,4,Male,57,3,Sales Representative,2,Single,2983,0,No,14,1,80,0,4,3,3,3,2,1,2,Millenials
+438,35,No,Research & Development,16,3,Life Sciences,4,Male,72,3,Healthcare Representative,3,Married,7632,4,Yes,12,3,80,0,10,2,3,8,7,0,0,Millenials
+439,31,Yes,Research & Development,20,3,Life Sciences,1,Male,66,3,Healthcare Representative,3,Married,9824,3,No,12,1,80,0,12,2,3,1,0,0,0,Millenials
+440,34,Yes,Human Resources,23,3,Human Resources,2,Female,43,3,Human Resources,1,Divorced,9950,9,Yes,15,3,80,3,11,2,3,3,2,0,2,Millenials
+441,42,No,Research & Development,5,2,Other,2,Male,97,3,Laboratory Technician,3,Married,2093,4,No,17,4,80,1,8,4,3,2,2,2,0,Gen X
+442,36,No,Sales,10,4,Medical,2,Male,32,3,Sales Executive,4,Single,9980,1,No,14,4,80,0,10,3,2,10,3,9,7,Millenials
+443,22,Yes,Research & Development,4,1,Technical Degree,3,Male,99,2,Laboratory Technician,3,Single,3894,5,No,16,3,80,0,4,3,3,2,2,1,2,Gen Z
+444,48,No,Sales,2,5,Marketing,2,Female,37,3,Sales Executive,4,Married,4051,2,No,14,1,80,1,14,2,3,9,7,6,7,Gen X
+445,55,No,Sales,18,5,Life Sciences,1,Female,83,3,Manager,2,Single,16835,3,No,23,4,80,0,37,2,3,10,9,7,7,Gen X
+446,41,No,Sales,10,2,Life Sciences,4,Male,56,3,Sales Executive,4,Single,6230,7,No,14,4,80,0,16,3,3,14,3,1,10,Gen X
+447,35,No,Sales,1,3,Marketing,2,Male,85,3,Sales Executive,3,Married,4717,9,No,11,3,80,0,15,2,3,11,9,6,9,Millenials
+448,40,No,Research & Development,6,3,Life Sciences,2,Female,75,3,Manufacturing Director,3,Single,13237,7,No,15,3,80,0,22,3,3,20,6,5,13,Millenials
+449,39,No,Research & Development,8,1,Life Sciences,3,Female,48,3,Laboratory Technician,3,Married,3755,1,No,11,1,80,1,8,3,3,8,3,0,7,Millenials
+450,31,No,Sales,2,1,Life Sciences,2,Male,77,3,Sales Executive,4,Single,6582,4,Yes,13,3,80,0,10,2,4,6,5,0,5,Millenials
+451,42,No,Research & Development,24,3,Medical,4,Male,56,3,Manufacturing Director,1,Married,7406,1,Yes,21,4,80,1,10,5,2,10,9,5,8,Gen X
+452,45,No,Sales,2,3,Other,4,Male,61,3,Sales Executive,2,Married,4805,0,No,19,2,80,1,9,3,4,8,7,3,7,Gen X
+453,26,Yes,Human Resources,17,4,Life Sciences,2,Female,58,3,Human Resources,3,Divorced,2741,0,Yes,11,2,80,1,8,2,2,7,7,1,0,Millenials
+454,29,No,Research & Development,19,3,Technical Degree,4,Male,34,3,Manufacturing Director,4,Divorced,4262,4,No,12,2,80,2,8,2,4,3,2,1,2,Millenials
+455,33,No,Research & Development,1,5,Medical,1,Female,95,4,Research Director,3,Divorced,16184,4,No,19,3,80,1,10,2,3,6,1,0,5,Millenials
+456,31,No,Sales,7,3,Life Sciences,3,Male,44,2,Manager,4,Divorced,11557,9,No,21,3,80,1,10,3,2,5,4,0,1,Millenials
+457,18,Yes,Sales,5,3,Marketing,2,Male,69,3,Sales Representative,2,Single,1878,1,Yes,14,4,80,0,0,3,3,0,0,0,0,Gen Z
+458,40,No,Sales,28,3,Other,3,Male,58,1,Sales Executive,1,Divorced,10932,3,No,15,3,80,1,20,2,3,1,0,0,1,Millenials
+459,41,No,Research & Development,2,4,Other,1,Female,62,2,Healthcare Representative,3,Single,6811,2,Yes,17,1,80,0,10,3,3,8,7,0,7,Gen X
+460,26,No,Sales,29,2,Medical,1,Male,45,3,Sales Executive,3,Divorced,4306,5,No,12,1,80,2,8,5,3,0,0,0,0,Millenials
+461,35,No,Sales,1,3,Medical,1,Female,80,3,Sales Executive,3,Single,4859,1,No,16,4,80,0,5,3,3,5,4,0,3,Millenials
+462,34,No,Sales,21,4,Life Sciences,4,Male,74,4,Sales Executive,4,Single,5337,1,No,12,4,80,0,10,3,3,10,7,5,7,Millenials
+463,26,Yes,Research & Development,24,3,Technical Degree,3,Male,66,1,Laboratory Technician,4,Single,2340,1,Yes,18,2,80,0,1,3,1,1,0,0,0,Millenials
+464,37,No,Research & Development,1,3,Technical Degree,2,Female,59,3,Manufacturing Director,4,Single,7491,4,No,17,4,80,0,12,3,4,6,5,1,2,Millenials
+465,46,No,Research & Development,18,1,Medical,1,Female,86,3,Healthcare Representative,3,Married,10527,5,No,11,4,80,0,28,3,2,2,2,1,2,Gen X
+466,41,No,Sales,2,5,Life Sciences,2,Female,91,3,Manager,1,Married,16595,7,No,16,2,80,1,22,2,3,18,16,11,8,Gen X
+467,37,No,Sales,9,4,Medical,1,Male,69,3,Sales Executive,2,Divorced,8834,1,No,13,4,80,1,9,6,3,9,5,7,7,Millenials
+468,52,No,Research & Development,6,2,Technical Degree,4,Male,78,3,Research Scientist,1,Divorced,5577,3,Yes,12,2,80,2,18,3,3,10,9,6,9,Gen X
+469,32,Yes,Sales,11,4,Other,4,Male,60,4,Sales Executive,3,Married,4707,8,No,12,4,80,0,6,2,3,4,2,1,2,Millenials
+470,24,No,Sales,24,3,Medical,4,Male,38,3,Sales Representative,4,Married,2400,0,No,13,3,80,2,3,3,3,2,2,2,1,Gen Z
+471,38,No,Research & Development,10,3,Medical,3,Female,76,3,Healthcare Representative,3,Married,9824,3,No,19,3,80,1,18,4,3,1,0,0,0,Millenials
+472,37,No,Research & Development,1,4,Life Sciences,2,Female,65,3,Manufacturing Director,2,Married,6447,6,No,12,2,80,1,8,2,2,6,5,4,3,Millenials
+473,49,No,Research & Development,18,4,Life Sciences,4,Male,58,2,Research Director,3,Divorced,19502,1,Yes,17,3,80,1,31,5,3,31,9,0,9,Gen X
+474,24,No,Research & Development,23,3,Medical,2,Male,89,4,Research Scientist,4,Married,2725,1,Yes,11,2,80,2,6,3,3,6,5,1,4,Gen Z
+475,26,No,Sales,28,2,Marketing,1,Male,66,3,Sales Executive,2,Married,6272,1,No,20,4,80,2,6,5,4,5,3,1,4,Millenials
+476,24,No,Research & Development,17,2,Other,4,Male,94,2,Laboratory Technician,2,Married,2127,1,No,21,4,80,1,1,2,3,1,0,0,0,Gen Z
+477,50,No,Human Resources,3,3,Medical,1,Male,99,3,Manager,2,Married,18200,1,No,11,3,80,1,32,2,3,32,5,10,7,Gen X
+478,25,No,Sales,13,1,Medical,2,Male,40,3,Sales Representative,3,Married,2096,1,No,11,3,80,0,7,1,3,7,4,0,6,Gen Z
+479,24,Yes,Research & Development,7,3,Life Sciences,1,Female,55,3,Laboratory Technician,3,Married,2886,1,Yes,16,4,80,1,6,4,3,6,3,1,2,Gen Z
+480,30,Yes,Sales,12,4,Life Sciences,2,Male,74,2,Sales Representative,1,Married,2033,1,No,18,3,80,1,1,2,4,1,0,0,0,Millenials
+481,34,No,Research & Development,1,2,Life Sciences,2,Male,83,2,Research Scientist,4,Married,3622,1,Yes,13,4,80,1,6,3,3,6,5,1,3,Millenials
+482,31,Yes,Sales,13,4,Medical,2,Male,46,3,Sales Executive,1,Divorced,4233,2,No,17,3,80,0,9,2,1,3,1,1,2,Millenials
+483,35,No,Research & Development,25,2,Other,1,Male,54,2,Laboratory Technician,4,Single,3681,4,No,14,4,80,0,9,3,3,3,2,0,2,Millenials
+484,31,No,Sales,6,4,Medical,1,Male,66,4,Sales Executive,4,Divorced,5460,4,No,22,4,80,2,13,4,4,7,7,5,7,Millenials
+485,27,No,Research & Development,6,4,Medical,1,Female,66,2,Research Scientist,3,Divorced,2187,0,No,12,3,80,2,6,5,2,5,3,0,3,Millenials
+486,37,No,Sales,2,3,Marketing,4,Male,75,3,Sales Executive,3,Married,9602,4,Yes,11,3,80,1,17,3,2,3,0,1,0,Millenials
+487,20,No,Research & Development,1,3,Life Sciences,4,Female,83,2,Research Scientist,2,Single,2836,1,No,13,4,80,0,1,0,4,1,0,0,0,Gen Z
+488,42,No,Research & Development,2,4,Life Sciences,3,Female,81,3,Healthcare Representative,4,Married,4089,1,No,13,2,80,2,10,4,3,10,2,2,2,Gen X
+489,43,No,Research & Development,6,4,Other,2,Male,50,2,Research Director,4,Divorced,16627,4,Yes,14,3,80,1,21,3,2,1,0,0,0,Gen X
+490,38,No,Research & Development,1,1,Life Sciences,3,Female,43,3,Research Scientist,1,Single,2619,3,No,17,4,80,0,8,3,2,0,0,0,0,Millenials
+491,43,No,Research & Development,9,5,Medical,4,Male,72,3,Laboratory Technician,3,Divorced,5679,3,Yes,13,2,80,1,10,3,3,8,7,4,7,Gen X
+492,48,No,Research & Development,1,4,Life Sciences,4,Female,40,2,Manager,1,Married,15402,7,No,11,1,80,1,21,3,1,3,2,0,2,Gen X
+493,44,No,Human Resources,1,4,Life Sciences,1,Female,50,2,Human Resources,3,Single,5985,4,No,11,2,80,0,10,1,4,2,2,0,2,Gen X
+494,34,No,Sales,14,3,Technical Degree,3,Female,31,3,Sales Representative,3,Divorced,2579,1,Yes,18,4,80,2,8,3,3,8,2,0,6,Millenials
+495,27,Yes,Sales,2,1,Marketing,3,Male,85,3,Sales Representative,1,Divorced,3041,0,No,11,2,80,1,5,3,3,4,3,0,2,Millenials
+496,21,No,Sales,22,1,Technical Degree,3,Male,49,3,Sales Representative,3,Single,3447,1,No,11,3,80,0,3,2,3,3,2,1,2,Gen Z
+497,44,No,Research & Development,3,4,Other,4,Male,35,3,Manager,4,Married,19513,4,Yes,12,1,80,1,26,2,4,2,2,0,1,Gen X
+498,22,No,Research & Development,6,1,Medical,1,Male,69,3,Research Scientist,3,Married,2773,0,No,20,4,80,0,3,3,3,2,2,2,2,Gen Z
+499,33,No,Sales,8,4,Marketing,3,Male,39,3,Sales Executive,3,Divorced,7104,0,No,12,4,80,0,6,3,3,5,0,1,2,Millenials
+500,32,No,Research & Development,9,4,Life Sciences,1,Female,92,3,Research Scientist,4,Married,6322,1,Yes,12,4,80,1,6,2,2,6,4,0,5,Millenials
+501,30,No,Research & Development,3,3,Medical,3,Female,71,3,Research Scientist,3,Divorced,2083,1,No,20,3,80,1,1,2,3,1,0,0,0,Millenials
+502,53,No,Sales,1,1,Medical,4,Female,34,3,Sales Executive,1,Single,8381,7,No,20,4,80,0,18,2,4,14,7,8,10,Gen X
+503,34,No,Research & Development,1,5,Life Sciences,2,Male,42,3,Research Scientist,4,Married,2691,1,No,12,4,80,1,10,4,2,10,9,8,8,Millenials
+504,45,Yes,Sales,26,4,Life Sciences,1,Female,100,3,Sales Executive,1,Married,4286,2,No,14,4,80,2,5,4,3,1,1,0,0,Gen X
+505,26,No,Research & Development,6,3,Life Sciences,3,Female,71,3,Laboratory Technician,4,Married,2659,1,Yes,13,3,80,1,3,2,3,3,2,0,2,Millenials
+506,37,No,Research & Development,3,3,Other,3,Male,36,3,Manufacturing Director,3,Married,9434,1,No,15,3,80,1,10,2,3,10,7,7,8,Millenials
+507,29,No,Sales,3,2,Medical,2,Female,62,3,Sales Executive,3,Married,5561,1,No,14,1,80,1,6,5,2,6,0,1,2,Millenials
+508,35,No,Research & Development,6,4,Life Sciences,2,Male,82,1,Research Scientist,4,Single,6646,1,No,13,2,80,0,17,3,3,17,11,11,8,Millenials
+509,33,No,Research & Development,6,3,Life Sciences,3,Male,30,3,Healthcare Representative,4,Divorced,7725,3,No,23,3,80,1,15,2,1,13,11,4,7,Millenials
+510,54,No,Human Resources,19,4,Medical,3,Male,88,3,Human Resources,2,Married,10725,2,No,15,3,80,1,16,1,4,9,7,7,1,Gen X
+511,36,No,Research & Development,9,2,Medical,2,Male,48,2,Manufacturing Director,2,Divorced,8847,2,Yes,11,3,80,1,13,2,3,3,2,0,2,Millenials
+512,27,No,Research & Development,3,4,Medical,1,Male,54,2,Research Scientist,4,Single,2045,0,No,13,4,80,0,5,0,3,4,2,1,1,Millenials
+513,20,Yes,Research & Development,10,1,Medical,4,Male,32,3,Research Scientist,3,Single,1009,1,Yes,11,4,80,0,1,5,3,1,0,1,1,Gen Z
+514,33,Yes,Research & Development,3,3,Life Sciences,1,Male,70,3,Research Scientist,1,Single,3348,1,Yes,11,1,80,0,10,3,3,10,8,9,7,Millenials
+515,35,No,Research & Development,3,3,Life Sciences,3,Male,41,2,Laboratory Technician,3,Married,1281,1,No,18,3,80,2,1,3,3,1,0,0,0,Millenials
+516,23,No,Research & Development,4,3,Medical,1,Male,58,4,Research Scientist,1,Married,2819,2,No,16,1,80,1,5,3,4,3,2,0,2,Gen Z
+517,25,No,Sales,8,3,Life Sciences,4,Male,57,4,Sales Executive,2,Married,4851,0,No,22,3,80,1,4,4,3,3,2,1,2,Gen Z
+518,38,No,Sales,7,4,Marketing,4,Female,46,2,Sales Executive,4,Single,4028,0,No,20,1,80,0,8,2,3,7,7,0,5,Millenials
+519,29,No,Research & Development,1,4,Life Sciences,2,Male,76,1,Research Scientist,4,Divorced,2720,1,No,18,4,80,1,10,5,3,10,7,2,8,Millenials
+520,48,No,Sales,2,1,Marketing,2,Male,56,4,Sales Executive,2,Married,8120,3,No,12,4,80,0,12,3,3,2,2,2,2,Gen X
+521,27,No,Sales,3,1,Medical,4,Female,71,4,Sales Executive,4,Divorced,4647,1,Yes,20,2,80,2,6,3,3,6,5,0,4,Millenials
+522,37,No,Research & Development,10,2,Life Sciences,4,Male,80,4,Research Scientist,4,Single,4680,3,No,17,1,80,0,4,2,3,1,0,0,0,Millenials
+523,50,No,Research & Development,28,1,Medical,4,Male,74,4,Laboratory Technician,3,Married,3221,1,Yes,11,3,80,3,20,3,3,20,8,3,8,Gen X
+524,34,No,Research & Development,9,3,Medical,4,Female,46,2,Healthcare Representative,2,Single,8621,1,No,14,2,80,0,9,3,4,8,7,7,7,Millenials
+525,24,Yes,Sales,3,2,Life Sciences,1,Female,65,3,Sales Executive,3,Single,4577,9,No,14,1,80,0,4,3,3,2,2,2,0,Gen Z
+526,39,No,Research & Development,2,4,Technical Degree,4,Female,80,2,Healthcare Representative,3,Single,4553,1,No,11,1,80,0,20,4,3,20,7,11,10,Millenials
+527,32,No,Sales,10,3,Marketing,4,Male,55,3,Sales Executive,4,Single,5396,1,No,12,4,80,0,10,2,2,10,7,0,8,Millenials
+528,50,Yes,Sales,8,2,Technical Degree,2,Male,50,3,Sales Executive,3,Married,6796,3,Yes,14,1,80,1,18,4,3,4,3,1,3,Gen X
+529,38,No,Research & Development,1,4,Life Sciences,2,Female,33,4,Healthcare Representative,4,Single,7625,0,No,13,3,80,0,10,4,2,9,7,1,8,Millenials
+530,27,No,Research & Development,1,2,Life Sciences,3,Female,68,3,Manufacturing Director,1,Married,7412,1,No,11,4,80,0,9,3,3,9,7,0,7,Millenials
+531,32,No,Research & Development,3,2,Life Sciences,3,Female,39,3,Research Director,4,Single,11159,3,No,15,4,80,0,10,6,3,7,7,7,7,Millenials
+532,47,No,Sales,14,4,Marketing,4,Male,42,3,Sales Executive,1,Single,4960,2,No,12,4,80,0,20,2,3,7,7,1,7,Gen X
+533,40,No,Sales,5,4,Life Sciences,4,Male,48,2,Sales Executive,1,Married,10475,5,Yes,21,3,80,1,20,2,3,18,13,1,12,Millenials
+534,53,No,Research & Development,7,3,Life Sciences,3,Male,59,4,Research Director,3,Married,14814,3,No,19,3,80,0,32,3,3,5,1,1,3,Gen X
+535,41,No,Human Resources,10,4,Human Resources,2,Male,73,2,Manager,4,Divorced,19141,3,No,15,2,80,3,23,2,2,21,6,12,6,Gen X
+536,60,No,Sales,16,4,Marketing,1,Male,84,3,Sales Executive,1,Single,5405,8,No,14,4,80,0,10,1,3,2,2,2,2,Baby Boomers
+537,27,No,Research & Development,10,2,Life Sciences,4,Male,32,3,Manufacturing Director,1,Divorced,8793,1,No,21,3,80,2,9,4,2,9,7,1,7,Millenials
+538,41,No,Human Resources,1,3,Human Resources,4,Male,59,2,Manager,3,Married,19189,1,No,12,2,80,1,22,3,3,22,7,2,10,Gen X
+539,50,No,Sales,8,4,Marketing,4,Male,54,3,Sales Representative,2,Married,3875,7,No,15,4,80,1,4,2,3,2,2,2,2,Gen X
+540,28,Yes,Research & Development,1,2,Life Sciences,1,Female,67,1,Research Scientist,2,Single,2216,7,Yes,13,4,80,0,10,4,3,7,7,3,7,Millenials
+541,36,No,Research & Development,8,3,Life Sciences,1,Female,63,4,Research Director,1,Married,11713,9,No,14,1,80,1,10,2,3,8,7,0,5,Millenials
+542,38,No,Research & Development,1,3,Life Sciences,3,Female,81,3,Manufacturing Director,3,Single,7861,4,Yes,14,4,80,0,10,4,4,1,0,0,0,Millenials
+543,44,No,Research & Development,24,3,Medical,1,Male,49,1,Laboratory Technician,3,Single,3708,2,No,14,3,80,0,9,5,3,5,2,1,4,Gen X
+544,47,No,Sales,3,3,Medical,4,Female,49,3,Sales Executive,3,Divorced,13770,9,Yes,12,4,80,2,28,2,2,22,2,11,13,Gen X
+545,30,No,Sales,27,5,Marketing,3,Male,99,3,Sales Executive,4,Divorced,5304,7,No,23,4,80,1,10,2,2,8,7,7,7,Millenials
+546,29,No,Sales,10,3,Life Sciences,3,Male,99,3,Sales Representative,3,Single,2642,1,No,11,3,80,0,1,6,3,1,0,0,0,Millenials
+547,42,Yes,Research & Development,19,3,Medical,3,Male,57,4,Research Scientist,3,Divorced,2759,6,Yes,12,4,80,0,7,2,3,2,2,2,2,Gen X
+548,43,No,Sales,15,3,Life Sciences,4,Male,47,2,Sales Executive,4,Married,6804,3,No,18,3,80,1,7,5,3,2,2,2,2,Gen X
+549,34,No,Research & Development,8,2,Medical,2,Female,96,3,Healthcare Representative,3,Single,6142,3,No,11,4,80,0,10,2,3,5,1,4,3,Millenials
+550,23,No,Research & Development,9,1,Medical,2,Male,37,3,Laboratory Technician,1,Married,2500,1,No,14,4,80,1,5,2,4,4,3,0,2,Gen Z
+551,39,No,Human Resources,3,3,Human Resources,3,Female,44,4,Human Resources,2,Married,6389,9,No,15,3,80,1,12,3,1,8,3,3,6,Millenials
+552,56,No,Research & Development,9,3,Medical,3,Male,81,3,Healthcare Representative,4,Married,11103,7,No,11,3,80,0,30,1,2,10,7,1,1,Baby Boomers
+553,40,No,Research & Development,2,1,Medical,4,Female,86,2,Research Scientist,4,Single,2342,0,Yes,20,4,80,0,5,2,2,4,2,2,3,Millenials
+554,27,No,Research & Development,7,3,Medical,4,Female,55,2,Healthcare Representative,1,Single,6811,8,No,19,1,80,0,9,2,1,7,6,0,7,Millenials
+555,29,No,Sales,10,3,Marketing,4,Male,83,3,Sales Representative,2,Divorced,2297,1,No,14,4,80,2,2,2,3,2,2,2,2,Millenials
+556,53,No,Research & Development,6,3,Life Sciences,4,Male,86,3,Laboratory Technician,4,Single,2450,2,No,17,4,80,0,19,4,3,2,2,2,2,Gen X
+557,35,No,Research & Development,2,4,Life Sciences,4,Female,61,3,Healthcare Representative,1,Divorced,5093,2,No,11,1,80,1,16,2,4,1,0,0,0,Millenials
+558,32,No,Research & Development,24,4,Life Sciences,1,Male,80,3,Laboratory Technician,4,Married,5309,1,No,15,4,80,2,10,2,3,10,8,4,7,Millenials
+559,38,No,Research & Development,2,5,Medical,4,Male,92,3,Research Scientist,3,Married,3057,6,Yes,13,2,80,1,6,0,1,1,0,0,1,Millenials
+560,34,No,Research & Development,8,5,Life Sciences,2,Female,32,3,Manufacturing Director,1,Divorced,5121,3,No,14,3,80,1,7,3,3,0,0,0,0,Millenials
+561,52,No,Sales,3,4,Marketing,3,Male,31,2,Manager,1,Married,16856,1,No,11,1,80,0,34,3,4,34,6,1,16,Gen X
+562,33,Yes,Research & Development,1,4,Other,4,Male,63,3,Research Scientist,4,Single,2686,1,Yes,13,3,80,0,10,2,2,10,9,7,8,Millenials
+563,25,No,Sales,26,1,Medical,3,Female,32,3,Sales Executive,4,Single,6180,1,No,23,2,80,0,6,5,2,6,5,1,4,Gen Z
+564,45,No,Sales,2,2,Technical Degree,2,Male,46,1,Sales Representative,3,Single,6632,0,No,13,1,80,0,9,3,3,8,7,3,1,Gen X
+565,23,No,Research & Development,10,1,Medical,1,Male,79,4,Research Scientist,3,Single,3505,1,No,18,4,80,0,2,3,3,2,2,0,2,Gen Z
+566,47,Yes,Sales,27,2,Life Sciences,2,Female,77,4,Sales Executive,3,Single,6397,4,Yes,12,4,80,0,8,2,3,5,4,1,3,Gen X
+567,34,No,Sales,2,3,Other,4,Male,60,3,Sales Executive,4,Single,6274,1,No,22,3,80,0,6,5,3,6,5,1,4,Millenials
+568,55,Yes,Research & Development,2,3,Medical,4,Male,78,3,Manager,1,Married,19859,5,Yes,13,4,80,1,24,2,3,5,2,1,4,Gen X
+569,36,No,Sales,8,4,Life Sciences,1,Male,76,2,Sales Executive,1,Single,7587,1,No,15,2,80,0,10,1,3,10,7,0,9,Millenials
+570,52,No,Research & Development,19,4,Medical,4,Male,41,3,Research Scientist,4,Married,4258,0,No,18,1,80,1,5,3,3,4,3,1,2,Gen X
+571,26,No,Research & Development,1,2,Life Sciences,1,Female,71,1,Laboratory Technician,4,Divorced,4364,3,No,14,1,80,1,5,2,3,2,2,2,0,Millenials
+572,29,No,Research & Development,27,3,Medical,2,Female,66,3,Healthcare Representative,3,Married,4335,4,No,12,1,80,1,11,3,2,8,7,1,1,Millenials
+573,26,Yes,Sales,8,3,Technical Degree,4,Male,38,2,Sales Executive,1,Single,5326,6,No,17,3,80,0,6,2,2,4,3,1,2,Millenials
+574,34,No,Research & Development,1,4,Life Sciences,2,Female,72,4,Research Scientist,4,Single,3280,2,No,16,3,80,0,10,2,3,4,2,1,3,Millenials
+575,54,No,Research & Development,19,4,Medical,4,Female,95,3,Manufacturing Director,1,Divorced,5485,9,Yes,11,2,80,2,9,4,3,5,3,1,4,Gen X
+576,27,No,Sales,8,1,Marketing,3,Male,84,3,Sales Executive,4,Married,4342,0,No,19,2,80,1,5,3,3,4,2,1,1,Millenials
+577,37,No,Research & Development,10,1,Life Sciences,4,Female,82,3,Research Scientist,1,Divorced,2782,0,Yes,13,2,80,2,6,3,2,5,3,4,3,Millenials
+578,38,No,Research & Development,2,4,Life Sciences,1,Female,75,4,Manufacturing Director,1,Single,5980,6,Yes,12,4,80,0,17,2,3,15,7,4,12,Millenials
+579,34,No,Research & Development,2,4,Medical,3,Female,86,2,Research Scientist,1,Single,4381,1,No,11,3,80,0,6,3,3,6,5,1,3,Millenials
+580,35,No,Sales,8,4,Life Sciences,1,Female,72,3,Sales Representative,4,Married,2572,1,No,16,2,80,1,3,1,2,3,2,0,2,Millenials
+581,30,No,Research & Development,1,3,Life Sciences,4,Male,38,1,Laboratory Technician,3,Married,3833,3,No,21,3,80,2,7,2,3,2,2,0,2,Millenials
+582,40,No,Research & Development,2,2,Medical,3,Female,38,4,Healthcare Representative,2,Married,4244,1,No,24,4,80,1,8,2,3,8,7,3,7,Millenials
+583,34,No,Sales,8,2,Life Sciences,3,Female,93,3,Sales Executive,1,Married,6500,5,No,17,2,80,1,6,1,3,3,2,1,2,Millenials
+584,42,No,Research & Development,8,3,Life Sciences,2,Male,66,3,Manager,4,Divorced,18430,1,No,13,2,80,1,24,4,2,24,7,14,9,Gen X
+585,23,Yes,Research & Development,6,3,Life Sciences,3,Male,63,4,Laboratory Technician,1,Married,1601,1,Yes,21,3,80,2,1,2,3,0,0,0,0,Gen Z
+586,24,No,Research & Development,9,3,Life Sciences,3,Male,60,2,Laboratory Technician,2,Divorced,2694,1,No,11,3,80,3,1,4,3,1,0,0,0,Gen Z
+587,52,No,Research & Development,11,4,Life Sciences,4,Female,82,3,Laboratory Technician,3,Married,3149,8,No,20,2,80,1,9,3,3,5,2,1,4,Gen X
+588,50,No,Research & Development,2,3,Medical,3,Male,64,3,Research Director,3,Married,17639,5,No,16,4,80,0,30,3,3,4,3,0,3,Gen X
+589,29,Yes,Research & Development,1,2,Life Sciences,2,Female,36,2,Laboratory Technician,1,Married,2319,1,Yes,11,4,80,1,1,1,3,1,0,0,0,Millenials
+590,33,No,Research & Development,7,3,Medical,3,Male,49,3,Research Director,3,Married,11691,0,No,11,4,80,0,14,3,4,13,9,3,7,Millenials
+591,33,Yes,Sales,16,3,Marketing,1,Female,69,3,Sales Executive,1,Single,5324,5,No,15,3,80,0,6,3,3,3,2,0,2,Millenials
+592,47,No,Research & Development,2,2,Other,3,Female,33,3,Manager,4,Married,16752,1,Yes,11,3,80,1,26,3,2,26,14,3,0,Gen X
+593,36,No,Research & Development,1,3,Other,3,Female,35,3,Manufacturing Director,2,Married,5228,0,No,15,1,80,1,10,2,3,9,7,0,5,Millenials
+594,29,No,Research & Development,23,2,Life Sciences,3,Male,81,4,Research Scientist,3,Married,2700,1,No,24,3,80,1,10,3,3,10,7,0,7,Millenials
+595,58,Yes,Research & Development,2,4,Life Sciences,4,Male,31,3,Research Director,2,Single,19246,7,Yes,12,4,80,0,40,2,3,31,15,13,8,Baby Boomers
+596,35,No,Research & Development,1,4,Life Sciences,4,Female,40,4,Research Scientist,3,Single,2506,3,No,13,3,80,0,7,0,3,2,2,2,2,Millenials
+597,42,No,Research & Development,1,2,Life Sciences,4,Female,43,2,Manufacturing Director,4,Married,6062,9,Yes,13,4,80,1,8,4,3,4,3,0,2,Gen X
+598,28,Yes,Research & Development,2,4,Medical,3,Male,46,3,Research Scientist,3,Single,4382,6,No,17,4,80,0,5,3,2,2,2,2,1,Millenials
+599,36,No,Human Resources,13,3,Human Resources,3,Male,36,3,Human Resources,2,Married,2143,4,No,13,2,80,1,8,2,3,5,2,0,4,Millenials
+600,32,No,Research & Development,4,3,Life Sciences,3,Female,98,2,Manufacturing Director,3,Married,6162,1,No,12,3,80,1,14,3,3,14,13,6,8,Millenials
+601,40,No,Research & Development,16,4,Medical,1,Male,51,2,Laboratory Technician,3,Single,5094,6,No,14,4,80,0,10,6,3,1,0,0,0,Millenials
+602,30,No,Research & Development,2,3,Medical,3,Female,52,2,Manufacturing Director,4,Single,6877,5,Yes,24,2,80,0,12,4,2,0,0,0,0,Millenials
+603,45,No,Research & Development,2,3,Life Sciences,2,Female,95,2,Research Scientist,3,Single,2274,1,No,14,4,80,0,1,3,3,1,0,0,0,Gen X
+604,42,No,Research & Development,29,3,Life Sciences,2,Male,98,3,Manufacturing Director,2,Married,4434,1,No,13,4,80,1,10,3,2,9,8,7,8,Gen X
+605,38,No,Research & Development,12,3,Life Sciences,1,Male,45,2,Healthcare Representative,1,Divorced,6288,2,No,15,3,80,1,13,3,2,4,3,1,2,Millenials
+606,34,No,Research & Development,16,4,Life Sciences,3,Female,100,2,Research Scientist,4,Single,2553,1,No,16,3,80,0,6,3,3,5,2,1,3,Millenials
+607,49,Yes,Sales,11,3,Marketing,3,Female,43,3,Sales Executive,4,Married,7654,1,No,18,1,80,2,9,3,4,9,8,7,7,Gen X
+608,55,Yes,Sales,2,1,Medical,3,Male,37,3,Sales Executive,4,Single,5160,4,No,16,3,80,0,12,3,2,9,7,7,3,Gen X
+609,43,No,Research & Development,14,2,Life Sciences,2,Male,94,3,Research Director,1,Married,17159,6,No,24,3,80,1,22,3,3,4,1,1,0,Gen X
+610,27,No,Research & Development,5,1,Technical Degree,3,Male,42,2,Research Director,4,Divorced,12808,1,Yes,16,2,80,1,9,3,3,9,8,0,8,Millenials
+611,35,No,Research & Development,7,3,Other,3,Male,59,3,Manufacturing Director,3,Single,10221,3,No,21,2,80,0,17,3,4,8,5,1,6,Millenials
+612,28,No,Sales,2,4,Marketing,2,Female,81,3,Sales Executive,2,Married,4779,1,Yes,20,1,80,0,8,2,3,8,7,7,5,Millenials
+613,34,No,Human Resources,3,2,Human Resources,3,Male,88,3,Human Resources,4,Married,3737,0,No,19,3,80,1,4,1,1,3,2,0,2,Millenials
+614,26,Yes,Research & Development,5,2,Medical,3,Female,88,2,Research Scientist,3,Married,2366,1,Yes,14,1,80,1,8,2,3,8,7,1,7,Millenials
+615,27,No,Research & Development,3,3,Medical,4,Male,50,3,Research Scientist,4,Married,1706,1,No,11,3,80,3,0,6,2,0,0,0,0,Millenials
+616,51,No,Sales,26,4,Marketing,1,Female,66,3,Manager,3,Married,16307,2,No,14,3,80,1,29,2,2,20,6,4,17,Gen X
+617,44,No,Research & Development,4,3,Medical,4,Male,50,3,Healthcare Representative,2,Single,5933,9,No,12,4,80,0,10,2,2,5,2,2,3,Gen X
+618,25,No,Research & Development,2,1,Medical,1,Male,65,4,Research Scientist,1,Single,3424,7,No,13,3,80,0,6,3,2,4,3,0,1,Gen Z
+619,33,No,Sales,1,3,Medical,1,Male,48,4,Sales Executive,1,Divorced,4037,1,No,22,1,80,1,9,5,3,9,8,0,8,Millenials
+620,35,No,Research & Development,27,1,Medical,3,Female,53,2,Research Scientist,1,Single,2559,1,No,11,4,80,0,6,3,2,6,5,1,1,Millenials
+621,36,No,Sales,1,2,Life Sciences,2,Male,56,3,Sales Executive,4,Married,6201,1,Yes,14,4,80,1,18,1,2,18,14,4,11,Millenials
+622,32,No,Sales,13,4,Life Sciences,2,Male,73,3,Sales Executive,4,Divorced,4403,2,No,11,3,80,1,8,3,2,5,2,0,3,Millenials
+623,30,No,Research & Development,5,4,Life Sciences,2,Male,75,2,Research Scientist,4,Divorced,3761,9,No,12,2,80,1,10,3,2,5,4,0,3,Millenials
+624,53,No,Sales,7,2,Marketing,1,Female,78,2,Sales Executive,4,Married,10934,7,Yes,18,4,80,1,35,3,3,5,2,0,4,Gen X
+625,45,No,Sales,9,3,Marketing,4,Male,74,3,Sales Executive,1,Divorced,10761,4,Yes,12,3,80,1,18,2,3,5,4,0,2,Gen X
+626,32,No,Research & Development,8,2,Medical,3,Female,91,4,Research Scientist,3,Married,5175,5,No,12,3,80,1,9,3,2,5,3,1,3,Millenials
+627,52,No,Research & Development,25,4,Medical,3,Female,81,2,Manufacturing Director,4,Married,13826,3,No,22,3,80,0,31,3,3,9,8,0,0,Gen X
+628,37,No,Sales,16,4,Marketing,4,Male,66,2,Sales Executive,3,Divorced,6334,4,No,19,4,80,2,9,2,3,1,0,0,0,Millenials
+629,28,No,Human Resources,8,2,Medical,2,Male,63,2,Human Resources,4,Divorced,4936,1,No,13,4,80,1,6,6,3,5,1,0,4,Millenials
+630,22,No,Research & Development,1,2,Life Sciences,4,Male,33,2,Manufacturing Director,4,Married,4775,6,No,22,1,80,2,4,2,1,2,2,2,2,Gen Z
+631,44,No,Research & Development,8,4,Life Sciences,1,Male,62,4,Laboratory Technician,4,Married,2818,2,Yes,24,3,80,1,10,2,2,3,2,0,2,Gen X
+632,42,No,Research & Development,2,1,Medical,2,Male,35,3,Research Scientist,4,Single,2515,5,Yes,14,4,80,0,8,2,3,2,1,2,2,Gen X
+633,36,No,Human Resources,8,3,Life Sciences,1,Male,77,2,Human Resources,1,Married,2342,0,No,21,3,80,0,6,3,3,5,4,0,3,Millenials
+634,25,No,Sales,3,1,Other,3,Male,98,3,Sales Executive,1,Married,4194,1,Yes,18,4,80,0,5,3,3,5,3,0,3,Gen Z
+635,35,No,Research & Development,9,3,Life Sciences,4,Female,66,2,Manufacturing Director,3,Married,10685,1,Yes,20,2,80,1,17,2,3,17,14,5,15,Millenials
+636,35,Yes,Research & Development,25,4,Life Sciences,4,Female,96,3,Research Scientist,2,Divorced,2022,1,Yes,19,1,80,1,10,3,2,10,2,7,8,Millenials
+637,32,No,Research & Development,1,3,Life Sciences,4,Male,61,3,Laboratory Technician,4,Divorced,2314,0,No,12,2,80,1,4,2,3,3,0,0,2,Millenials
+638,25,No,Sales,4,1,Marketing,3,Male,87,2,Sales Executive,1,Married,4256,1,No,12,1,80,0,5,1,4,5,2,0,3,Gen Z
+639,49,No,Research & Development,1,3,Technical Degree,3,Female,36,3,Research Scientist,1,Married,3580,2,No,16,2,80,1,7,2,3,4,2,0,2,Gen X
+640,24,No,Research & Development,4,1,Life Sciences,1,Male,46,2,Laboratory Technician,4,Married,3162,0,No,17,4,80,0,6,2,2,5,2,3,4,Gen Z
+641,32,No,Sales,5,2,Life Sciences,2,Male,48,3,Sales Executive,2,Married,6524,1,No,14,4,80,1,10,3,3,10,8,5,3,Millenials
+642,38,No,Sales,9,3,Marketing,2,Male,98,2,Sales Representative,2,Married,2899,0,No,19,4,80,1,3,3,3,2,2,1,2,Millenials
+643,42,No,Research & Development,3,3,Life Sciences,3,Female,95,4,Laboratory Technician,4,Married,5231,2,Yes,13,2,80,1,17,1,2,5,3,1,3,Gen X
+644,31,No,Research & Development,11,4,Life Sciences,4,Male,48,3,Research Scientist,4,Married,2356,3,Yes,19,2,80,1,8,2,3,6,4,0,2,Millenials
+645,29,Yes,Sales,1,3,Medical,2,Female,48,2,Sales Representative,3,Divorced,2800,6,Yes,19,3,80,3,5,3,3,3,2,0,2,Millenials
+646,53,No,Sales,8,3,Marketing,1,Male,73,3,Sales Executive,4,Married,11836,5,No,14,3,80,1,28,3,3,2,0,2,2,Gen X
+647,35,No,Research & Development,25,3,Technical Degree,4,Male,78,2,Manufacturing Director,2,Married,10903,3,No,16,1,80,0,16,2,3,13,10,4,8,Millenials
+648,37,No,Sales,21,2,Medical,3,Female,54,3,Sales Representative,4,Married,2973,5,No,15,2,80,1,10,3,3,5,4,0,0,Millenials
+649,53,No,Research & Development,23,4,Life Sciences,4,Female,72,3,Research Director,4,Single,14275,6,No,18,3,80,0,33,0,3,12,9,3,8,Gen X
+650,43,No,Research & Development,1,3,Life Sciences,4,Female,33,3,Healthcare Representative,4,Married,5562,4,No,13,2,80,1,12,2,2,5,2,2,2,Gen X
+651,47,No,Sales,2,2,Marketing,3,Female,35,3,Sales Executive,4,Married,4537,0,Yes,22,1,80,1,8,2,3,7,6,7,7,Gen X
+652,37,No,Sales,19,2,Medical,1,Male,32,3,Sales Executive,2,Single,7642,1,Yes,13,4,80,0,10,2,3,10,0,0,9,Millenials
+653,50,No,Research & Development,2,4,Life Sciences,1,Male,98,3,Manager,1,Divorced,17924,1,No,11,4,80,1,31,3,3,31,6,14,7,Gen X
+654,39,No,Human Resources,2,3,Life Sciences,4,Female,42,2,Human Resources,4,Married,5204,8,No,11,3,80,2,13,2,3,5,4,0,4,Millenials
+655,33,No,Human Resources,3,2,Human Resources,4,Male,57,3,Human Resources,2,Divorced,2277,3,Yes,11,3,80,1,7,4,4,4,3,0,3,Millenials
+656,32,Yes,Research & Development,25,4,Life Sciences,1,Male,87,3,Laboratory Technician,4,Single,2795,1,Yes,24,3,80,0,1,2,1,1,0,0,1,Millenials
+657,29,No,Research & Development,7,1,Medical,1,Female,62,2,Laboratory Technician,4,Divorced,2532,6,No,14,3,80,3,8,5,3,4,3,0,3,Millenials
+658,44,No,Research & Development,9,2,Life Sciences,2,Male,61,3,Research Scientist,1,Married,2559,1,Yes,13,4,80,0,8,0,3,8,7,7,1,Gen X
+659,28,No,Sales,5,4,Medical,1,Male,98,3,Sales Executive,4,Single,4908,1,No,14,2,80,0,4,3,3,4,2,0,2,Millenials
+660,58,Yes,Research & Development,2,1,Life Sciences,4,Male,57,2,Laboratory Technician,4,Divorced,2380,9,Yes,14,4,80,1,3,3,2,1,0,0,0,Baby Boomers
+661,43,No,Research & Development,8,3,Life Sciences,1,Female,55,3,Manufacturing Director,2,Divorced,4765,4,No,21,3,80,1,4,2,4,1,0,0,0,Gen X
+662,20,Yes,Sales,2,3,Medical,3,Female,49,2,Sales Representative,3,Single,2044,1,No,13,4,80,0,2,3,2,2,2,0,2,Gen Z
+663,21,Yes,Research & Development,18,1,Other,4,Female,65,3,Research Scientist,4,Single,2693,1,No,19,1,80,0,1,3,2,1,0,0,0,Gen Z
+664,36,No,Research & Development,14,1,Life Sciences,3,Male,68,3,Healthcare Representative,4,Married,6586,0,Yes,17,1,80,1,17,2,2,16,8,4,11,Millenials
+665,47,No,Sales,2,4,Life Sciences,4,Female,65,2,Sales Representative,4,Single,3294,1,Yes,18,1,80,0,3,3,2,3,2,1,2,Gen X
+666,22,Yes,Research & Development,3,1,Life Sciences,2,Female,34,3,Manufacturing Director,3,Married,4171,0,Yes,19,1,80,1,4,3,4,3,2,0,2,Gen Z
+667,41,Yes,Research & Development,2,4,Life Sciences,2,Female,57,1,Laboratory Technician,4,Divorced,2778,4,Yes,13,3,80,1,10,1,2,7,7,1,0,Gen X
+668,28,No,Research & Development,9,3,Medical,3,Female,77,3,Research Scientist,3,Divorced,2377,5,No,18,2,80,1,6,2,3,2,2,2,2,Millenials
+669,39,Yes,Research & Development,6,3,Medical,4,Male,70,3,Laboratory Technician,1,Married,2404,7,Yes,21,4,80,0,8,2,1,2,2,2,2,Millenials
+670,27,No,Research & Development,4,3,Life Sciences,2,Female,76,3,Research Scientist,3,Single,2318,1,No,19,3,80,0,1,2,3,1,1,0,0,Millenials
+671,34,No,Research & Development,10,3,Life Sciences,2,Male,83,3,Laboratory Technician,2,Divorced,2008,1,No,14,2,80,2,1,3,3,1,0,1,0,Millenials
+672,42,No,Sales,14,2,Medical,3,Female,68,2,Sales Executive,3,Single,6244,7,No,17,1,80,0,10,6,3,5,4,0,3,Gen X
+673,33,No,Research & Development,1,4,Other,3,Male,100,2,Research Scientist,1,Single,2799,3,Yes,11,2,80,0,6,1,3,3,2,0,2,Millenials
+674,58,No,Research & Development,5,3,Technical Degree,3,Female,37,2,Healthcare Representative,2,Divorced,10552,2,Yes,13,4,80,1,24,3,3,6,0,0,4,Baby Boomers
+675,31,No,Sales,7,4,Life Sciences,2,Male,41,2,Sales Representative,3,Married,2329,3,No,15,2,80,0,13,2,4,7,7,5,2,Millenials
+676,35,No,Research & Development,21,1,Life Sciences,4,Female,51,3,Healthcare Representative,4,Married,4014,1,Yes,25,4,80,1,10,2,1,10,6,0,7,Millenials
+677,49,No,Research & Development,8,2,Other,1,Female,51,3,Laboratory Technician,2,Married,7403,4,No,11,3,80,1,29,3,2,26,9,1,7,Gen X
+678,48,No,Research & Development,20,4,Medical,4,Male,51,3,Research Scientist,3,Married,2259,4,No,17,1,80,2,13,2,2,0,0,0,0,Gen X
+679,31,No,Sales,20,2,Marketing,4,Female,45,3,Sales Executive,3,Married,6932,1,No,13,4,80,1,9,2,2,9,8,0,0,Millenials
+680,36,No,Research & Development,7,4,Other,2,Male,65,3,Research Scientist,4,Single,4678,2,No,18,3,80,0,8,6,3,6,2,0,1,Millenials
+681,38,No,Research & Development,1,3,Technical Degree,4,Female,80,3,Research Director,1,Married,13582,1,No,13,2,80,1,15,3,3,15,12,5,11,Millenials
+682,32,No,Research & Development,1,3,Life Sciences,3,Female,70,2,Laboratory Technician,2,Married,2332,6,No,20,3,80,0,5,3,3,3,0,0,2,Millenials
+683,25,Yes,Sales,19,2,Marketing,3,Male,36,2,Sales Representative,2,Married,2413,1,Yes,18,3,80,3,1,2,3,1,0,0,0,Gen Z
+684,40,No,Sales,10,4,Marketing,1,Male,67,2,Sales Executive,2,Divorced,9705,2,No,12,2,80,1,11,2,2,1,0,0,0,Millenials
+685,26,No,Sales,1,3,Medical,3,Male,52,2,Sales Executive,1,Single,4294,1,No,12,2,80,0,7,2,3,7,7,0,7,Millenials
+686,41,No,Research & Development,6,3,Medical,4,Male,59,3,Laboratory Technician,1,Single,4721,2,Yes,13,3,80,0,20,3,3,18,13,2,17,Gen X
+687,36,No,Research & Development,2,4,Medical,3,Male,79,3,Laboratory Technician,3,Single,2519,4,No,21,3,80,0,16,6,3,11,8,3,9,Millenials
+688,19,Yes,Sales,21,3,Other,4,Male,37,2,Sales Representative,2,Single,2121,1,Yes,13,2,80,0,1,3,4,1,0,0,0,Gen Z
+689,20,Yes,Research & Development,4,3,Technical Degree,1,Male,84,3,Laboratory Technician,1,Single,2973,1,No,19,2,80,0,1,2,3,1,0,0,0,Gen Z
+690,31,No,Research & Development,12,3,Medical,4,Female,41,3,Healthcare Representative,4,Married,5855,0,Yes,11,3,80,2,10,2,1,9,7,8,5,Millenials
+691,40,No,Research & Development,9,4,Medical,4,Male,35,3,Research Scientist,2,Divorced,3617,8,Yes,14,4,80,1,3,2,3,1,1,0,0,Millenials
+692,32,No,Research & Development,3,4,Medical,3,Female,93,3,Manufacturing Director,1,Married,6725,1,No,12,3,80,1,8,2,4,8,7,6,3,Millenials
+693,36,Yes,Sales,3,1,Life Sciences,3,Male,51,2,Sales Executive,4,Married,10325,1,Yes,11,1,80,1,16,6,3,16,7,3,7,Millenials
+694,33,No,Research & Development,1,3,Life Sciences,2,Female,42,2,Healthcare Representative,4,Single,6949,0,No,14,1,80,0,6,3,3,5,0,1,4,Millenials
+695,37,Yes,Sales,1,4,Life Sciences,1,Male,46,2,Sales Executive,3,Married,10609,5,No,11,3,80,0,17,2,1,14,1,11,7,Millenials
+696,45,No,Research & Development,4,2,Life Sciences,3,Male,57,3,Laboratory Technician,2,Married,4447,1,No,12,2,80,0,9,5,2,9,7,0,8,Gen X
+697,29,No,Sales,20,3,Technical Degree,3,Female,84,3,Sales Representative,4,Married,2157,1,No,15,2,80,1,3,5,3,3,1,0,2,Millenials
+698,35,No,Sales,18,3,Medical,3,Female,86,3,Sales Executive,3,Married,4601,1,No,16,2,80,0,5,3,3,5,2,1,0,Millenials
+699,52,No,Research & Development,1,2,Life Sciences,4,Male,70,3,Manager,4,Married,17099,2,No,15,2,80,1,26,2,2,9,8,7,8,Gen X
+700,58,Yes,Research & Development,2,3,Technical Degree,4,Male,51,3,Research Scientist,3,Single,2479,4,No,24,1,80,0,7,4,3,1,0,0,0,Baby Boomers
+701,53,No,Sales,2,2,Medical,3,Male,45,3,Manager,3,Divorced,14852,6,No,13,3,80,1,22,3,4,17,13,15,2,Gen X
+702,30,No,Sales,8,2,Other,3,Male,62,3,Sales Executive,3,Divorced,7264,5,No,11,1,80,1,10,2,4,8,4,7,7,Millenials
+703,38,No,Sales,10,3,Technical Degree,3,Female,85,3,Sales Executive,4,Single,5666,1,Yes,13,2,80,0,6,1,3,5,3,1,3,Millenials
+704,35,No,Sales,3,4,Life Sciences,4,Male,92,3,Sales Executive,4,Divorced,7823,6,No,13,2,80,1,12,2,3,10,9,0,8,Millenials
+705,39,No,Sales,2,5,Life Sciences,1,Male,41,4,Sales Executive,3,Single,7880,0,No,18,4,80,0,9,3,3,8,7,0,7,Millenials
+706,40,Yes,Sales,24,3,Life Sciences,2,Female,100,4,Sales Executive,2,Single,13194,4,Yes,16,4,80,0,22,2,2,1,0,0,0,Millenials
+707,47,No,Research & Development,16,4,Medical,3,Male,64,4,Manufacturing Director,3,Divorced,5067,1,Yes,19,3,80,0,20,3,4,19,10,2,7,Gen X
+708,36,No,Sales,8,4,Technical Degree,1,Male,84,3,Sales Executive,4,Divorced,5079,4,No,13,4,80,2,12,3,3,7,7,0,7,Millenials
+709,31,Yes,Research & Development,9,2,Medical,3,Male,46,2,Research Scientist,1,Single,2321,0,Yes,22,1,80,0,4,0,3,3,2,1,2,Millenials
+710,33,No,Sales,17,3,Life Sciences,4,Male,38,3,Manager,3,Single,17444,1,No,11,4,80,0,10,2,3,10,8,6,0,Millenials
+711,29,Yes,Research & Development,10,3,Life Sciences,4,Female,92,2,Research Scientist,1,Single,2404,6,Yes,20,3,80,0,3,5,3,0,0,0,0,Millenials
+712,33,No,Research & Development,13,1,Life Sciences,2,Female,53,3,Research Scientist,4,Single,3452,3,No,18,1,80,0,5,4,3,3,2,0,2,Millenials
+713,45,No,Research & Development,1,4,Medical,4,Female,91,3,Laboratory Technician,4,Divorced,2270,3,No,14,4,80,2,8,2,3,5,3,0,2,Gen X
+714,50,No,Research & Development,1,2,Medical,4,Male,66,3,Research Director,4,Divorced,17399,9,No,22,3,80,1,32,1,2,5,4,1,3,Gen X
+715,33,No,Research & Development,1,4,Other,3,Female,84,4,Healthcare Representative,2,Married,5488,1,Yes,13,1,80,1,6,2,3,6,5,1,2,Millenials
+716,41,No,Research & Development,9,3,Medical,1,Male,64,3,Research Director,3,Divorced,19419,2,No,17,2,80,1,21,2,4,18,16,0,11,Gen X
+717,27,No,Research & Development,16,4,Technical Degree,3,Female,37,3,Laboratory Technician,2,Married,2811,9,No,14,2,80,1,4,2,3,2,2,2,2,Millenials
+718,45,No,Research & Development,23,2,Life Sciences,4,Male,42,3,Laboratory Technician,1,Married,3633,1,Yes,15,3,80,1,9,2,3,9,8,0,8,Gen X
+719,47,No,Sales,4,2,Life Sciences,4,Female,83,3,Sales Executive,4,Single,4163,1,Yes,17,3,80,0,9,0,3,9,0,0,7,Gen X
+720,30,Yes,Research & Development,22,3,Life Sciences,1,Female,48,3,Research Scientist,3,Married,2132,4,Yes,11,2,80,0,7,2,3,5,2,0,1,Millenials
+721,50,No,Research & Development,24,3,Life Sciences,4,Male,95,3,Manufacturing Director,3,Married,13973,3,Yes,18,4,80,1,22,2,3,12,11,1,5,Gen X
+722,38,No,Research & Development,10,1,Medical,3,Male,66,3,Research Scientist,3,Married,2684,0,No,17,2,80,1,3,0,2,2,1,0,2,Millenials
+723,46,No,Research & Development,7,2,Medical,4,Male,75,3,Manufacturing Director,3,Divorced,10845,6,No,13,2,80,1,13,3,3,8,7,0,7,Gen X
+724,24,No,Research & Development,17,1,Medical,4,Female,41,2,Manufacturing Director,3,Divorced,4377,1,No,15,2,80,2,5,6,3,4,2,3,2,Gen Z
+725,35,Yes,Research & Development,14,4,Other,3,Male,39,2,Laboratory Technician,2,Divorced,3743,1,Yes,24,4,80,1,5,2,1,4,2,0,2,Millenials
+726,31,No,Research & Development,1,1,Life Sciences,3,Female,96,3,Manufacturing Director,1,Married,4148,1,No,12,3,80,1,4,1,3,4,3,0,3,Millenials
+727,18,No,Research & Development,5,2,Life Sciences,2,Male,73,3,Research Scientist,4,Single,1051,1,No,15,4,80,0,0,2,3,0,0,0,0,Gen Z
+728,54,No,Research & Development,17,3,Technical Degree,3,Female,56,3,Manufacturing Director,3,Married,10739,8,No,11,3,80,1,22,2,3,10,7,0,8,Gen X
+729,35,No,Research & Development,25,4,Medical,3,Female,57,3,Healthcare Representative,3,Divorced,10388,1,Yes,11,3,80,1,16,3,2,16,10,10,1,Millenials
+730,30,No,Research & Development,8,2,Life Sciences,2,Female,73,4,Research Director,1,Married,11416,0,Yes,12,3,80,3,9,4,2,8,7,1,7,Millenials
+731,20,Yes,Research & Development,11,3,Medical,4,Female,98,2,Research Scientist,1,Single,2600,1,Yes,15,1,80,0,1,2,3,1,0,0,0,Gen Z
+732,30,Yes,Research & Development,5,3,Medical,2,Female,60,3,Laboratory Technician,2,Single,2422,0,No,17,1,80,0,4,3,3,3,2,1,2,Millenials
+733,26,No,Research & Development,2,2,Medical,4,Male,32,4,Manufacturing Director,4,Married,5472,1,No,12,2,80,0,8,2,3,8,7,1,3,Millenials
+734,22,No,Research & Development,8,1,Life Sciences,2,Male,94,1,Laboratory Technician,1,Married,2451,1,No,15,1,80,1,4,3,2,4,3,1,1,Gen Z
+735,48,No,Research & Development,6,3,Life Sciences,1,Male,97,2,Healthcare Representative,3,Single,4240,2,No,13,4,80,0,19,0,3,2,2,2,2,Gen X
+736,48,No,Research & Development,4,4,Life Sciences,3,Male,78,2,Healthcare Representative,3,Single,10999,7,No,14,2,80,0,27,3,3,15,11,4,8,Gen X
+737,41,No,Research & Development,7,2,Medical,4,Female,42,3,Manufacturing Director,3,Single,5003,6,No,14,2,80,0,8,6,3,2,2,2,1,Gen X
+738,39,No,Research & Development,1,1,Life Sciences,4,Female,65,2,Manufacturing Director,4,Married,12742,1,No,16,3,80,1,21,3,3,21,6,11,8,Millenials
+739,27,No,Research & Development,2,4,Life Sciences,1,Female,47,3,Manufacturing Director,4,Married,4227,0,No,18,2,80,1,4,2,3,3,2,2,2,Millenials
+740,35,No,Research & Development,10,3,Other,2,Male,45,3,Laboratory Technician,4,Divorced,3917,1,No,20,1,80,1,3,4,2,3,2,1,2,Millenials
+741,42,No,Sales,5,2,Marketing,4,Male,90,3,Manager,3,Married,18303,6,No,13,2,80,0,21,3,4,1,0,0,0,Gen X
+742,50,No,Research & Development,9,3,Life Sciences,1,Male,64,3,Laboratory Technician,4,Married,2380,4,No,18,2,80,0,8,5,3,1,0,0,0,Gen X
+743,59,No,Research & Development,2,3,Life Sciences,3,Female,69,2,Manufacturing Director,4,Single,13726,3,Yes,13,1,80,0,30,4,3,5,3,4,3,Baby Boomers
+744,37,Yes,Research & Development,11,2,Medical,1,Female,61,1,Healthcare Representative,2,Married,4777,5,No,15,1,80,0,15,2,1,1,0,0,0,Millenials
+745,55,No,Research & Development,18,4,Medical,3,Male,62,3,Healthcare Representative,2,Married,6385,3,Yes,14,4,80,2,17,3,3,8,7,6,7,Gen X
+746,41,No,Research & Development,7,1,Life Sciences,2,Female,55,1,Research Director,3,Divorced,19973,1,No,22,2,80,2,21,3,3,21,16,5,10,Gen X
+747,38,No,Sales,3,4,Life Sciences,2,Male,42,3,Sales Executive,4,Single,6861,8,Yes,12,3,80,0,19,1,3,1,0,0,0,Millenials
+748,26,Yes,Sales,29,2,Medical,2,Male,79,1,Sales Executive,1,Single,4969,8,No,18,4,80,0,7,6,3,2,2,2,2,Millenials
+749,52,Yes,Sales,2,1,Marketing,1,Female,57,1,Manager,4,Married,19845,1,No,15,4,80,1,33,3,3,32,14,6,9,Gen X
+750,44,No,Sales,28,3,Medical,4,Female,53,4,Sales Executive,4,Married,13320,3,Yes,18,3,80,1,23,2,3,12,11,11,11,Gen X
+751,50,No,Sales,1,3,Life Sciences,4,Female,95,3,Sales Executive,3,Married,6347,0,No,12,1,80,1,19,3,3,18,7,0,13,Gen X
+752,36,Yes,Research & Development,16,4,Life Sciences,3,Female,43,4,Laboratory Technician,1,Single,2743,1,No,16,3,80,0,18,1,3,17,13,15,14,Millenials
+753,39,No,Research & Development,22,3,Medical,4,Female,82,3,Manufacturing Director,1,Single,10880,1,Yes,13,3,80,0,21,2,3,21,6,2,8,Millenials
+754,33,No,Sales,8,1,Life Sciences,2,Female,88,2,Sales Representative,4,Single,2342,0,No,19,4,80,0,3,2,2,2,2,2,2,Millenials
+755,45,No,Sales,11,2,Life Sciences,4,Female,90,3,Manager,4,Married,17650,3,No,13,2,80,1,26,4,4,9,3,1,1,Gen X
+756,32,No,Research & Development,29,4,Medical,4,Female,69,3,Laboratory Technician,3,Single,4025,9,No,12,2,80,0,10,2,3,8,7,7,7,Millenials
+757,34,No,Sales,1,4,Marketing,2,Male,75,4,Sales Executive,4,Divorced,9725,0,No,11,4,80,1,16,2,2,15,1,0,9,Millenials
+758,59,No,Sales,1,2,Technical Degree,2,Male,66,3,Manager,4,Married,11904,3,Yes,14,3,80,1,14,1,1,6,4,0,4,Baby Boomers
+759,45,No,Human Resources,24,4,Medical,2,Male,36,3,Human Resources,2,Single,2177,1,No,16,1,80,0,6,3,3,6,3,0,4,Gen X
+760,53,No,Sales,2,3,Marketing,3,Female,38,2,Sales Executive,2,Married,7525,2,No,12,1,80,1,30,2,3,15,7,6,12,Gen X
+761,36,Yes,Research & Development,15,3,Other,1,Male,81,3,Laboratory Technician,3,Divorced,4834,7,No,14,2,80,1,9,3,2,1,0,0,0,Millenials
+762,26,Yes,Research & Development,2,3,Life Sciences,1,Male,57,3,Research Scientist,1,Married,2042,6,Yes,14,2,80,1,6,2,3,3,2,1,2,Millenials
+763,34,No,Sales,10,4,Life Sciences,3,Female,87,3,Sales Representative,3,Married,2220,1,Yes,19,4,80,1,1,2,3,1,1,0,0,Millenials
+764,28,No,Sales,10,1,Medical,4,Male,74,3,Sales Representative,2,Married,1052,1,No,22,2,80,0,1,5,3,1,0,0,0,Millenials
+765,38,No,Research & Development,3,4,Other,3,Male,44,3,Research Scientist,3,Married,2821,3,No,16,1,80,1,8,2,3,2,2,2,2,Millenials
+766,50,No,Research & Development,2,4,Medical,2,Male,62,3,Research Director,3,Married,19237,2,Yes,11,4,80,1,29,2,2,8,1,7,7,Gen X
+767,37,No,Research & Development,3,3,Other,4,Female,35,3,Healthcare Representative,2,Single,4107,3,No,15,1,80,0,8,3,2,4,3,0,1,Millenials
+768,40,No,Sales,26,3,Marketing,3,Male,74,3,Sales Executive,1,Married,8396,1,No,14,2,80,1,8,3,2,7,7,7,5,Millenials
+769,26,No,Research & Development,1,1,Medical,1,Female,66,2,Research Scientist,3,Divorced,2007,1,No,13,3,80,2,5,5,3,5,3,1,3,Millenials
+770,46,No,Research & Development,1,4,Medical,4,Male,40,3,Research Director,4,Divorced,19627,9,No,17,4,80,2,23,0,3,2,2,2,2,Gen X
+771,54,No,Sales,2,4,Life Sciences,3,Female,41,2,Sales Executive,3,Married,10686,6,No,11,2,80,1,13,4,3,9,4,7,0,Gen X
+772,56,No,Research & Development,9,3,Medical,1,Female,63,3,Research Scientist,3,Married,2942,2,No,19,2,80,1,18,4,3,5,4,0,3,Baby Boomers
+773,36,No,Research & Development,12,5,Medical,4,Female,51,2,Manufacturing Director,4,Single,8858,0,No,11,2,80,0,15,2,2,14,8,7,8,Millenials
+774,55,No,Research & Development,2,1,Medical,3,Male,40,2,Manager,1,Single,16756,7,No,15,2,80,0,31,3,4,9,7,6,2,Gen X
+775,43,No,Sales,25,3,Medical,3,Male,79,2,Sales Executive,4,Divorced,10798,5,No,13,3,80,1,18,5,3,1,0,0,0,Gen X
+776,20,Yes,Sales,9,3,Marketing,4,Female,54,3,Sales Representative,4,Single,2323,1,Yes,14,2,80,0,2,3,3,2,2,0,2,Gen Z
+777,21,Yes,Research & Development,10,3,Life Sciences,3,Female,36,2,Laboratory Technician,1,Single,1416,1,No,13,1,80,0,1,6,2,1,0,1,0,Gen Z
+778,46,No,Research & Development,8,4,Life Sciences,4,Female,74,2,Research Scientist,1,Divorced,4615,8,Yes,23,1,80,3,19,2,3,16,13,1,7,Gen X
+779,51,Yes,Research & Development,4,4,Life Sciences,1,Male,34,3,Research Scientist,3,Married,2461,9,Yes,12,3,80,3,18,2,4,10,0,2,7,Gen X
+780,28,Yes,Research & Development,24,2,Technical Degree,2,Male,72,2,Healthcare Representative,1,Single,8722,1,No,12,1,80,0,10,2,2,10,7,1,9,Millenials
+781,26,No,Research & Development,1,2,Medical,1,Male,59,2,Laboratory Technician,1,Married,3955,1,No,16,1,80,2,6,2,3,5,3,1,3,Millenials
+782,30,No,Research & Development,20,3,Other,3,Male,85,3,Manufacturing Director,1,Married,9957,0,No,15,3,80,1,7,1,2,6,2,0,2,Millenials
+783,41,No,Research & Development,7,2,Technical Degree,2,Female,43,4,Research Scientist,3,Married,3376,1,No,13,3,80,0,10,3,3,10,6,0,8,Gen X
+784,38,No,Research & Development,17,1,Life Sciences,3,Female,65,2,Healthcare Representative,3,Married,8823,0,No,18,1,80,1,20,4,2,19,9,1,9,Millenials
+785,40,No,Research & Development,20,4,Technical Degree,1,Male,61,3,Healthcare Representative,4,Married,10322,4,No,20,4,80,1,14,6,3,11,10,11,1,Millenials
+786,27,No,Research & Development,8,5,Life Sciences,1,Male,87,1,Laboratory Technician,3,Married,4621,1,No,19,4,80,3,3,4,3,3,2,1,2,Millenials
+787,55,No,Research & Development,2,1,Life Sciences,4,Male,65,3,Manufacturing Director,2,Married,10976,3,No,18,2,80,1,23,4,3,3,2,1,2,Gen X
+788,28,No,Research & Development,10,3,Other,3,Female,59,3,Research Scientist,3,Single,3660,3,No,13,4,80,0,10,4,4,8,7,1,7,Millenials
+789,44,Yes,Human Resources,1,2,Medical,2,Male,91,2,Human Resources,1,Married,10482,9,No,14,4,80,1,24,1,3,20,6,3,6,Gen X
+790,33,No,Research & Development,5,3,Life Sciences,4,Male,34,2,Healthcare Representative,4,Divorced,7119,4,No,15,3,80,1,9,2,3,3,2,1,2,Millenials
+791,35,Yes,Sales,4,3,Technical Degree,4,Male,86,3,Sales Executive,1,Single,9582,0,Yes,22,1,80,0,9,2,3,8,7,4,7,Millenials
+792,33,Yes,Research & Development,29,4,Medical,1,Female,54,2,Research Scientist,3,Single,4508,1,No,22,2,80,0,14,4,3,13,7,3,8,Millenials
+793,28,No,Research & Development,15,2,Life Sciences,1,Male,50,3,Laboratory Technician,3,Divorced,2207,1,No,16,4,80,1,4,5,2,4,2,2,2,Millenials
+794,34,No,Research & Development,3,1,Life Sciences,1,Male,45,3,Healthcare Representative,4,Single,7756,0,No,17,3,80,0,7,1,2,6,2,0,4,Millenials
+795,37,No,Sales,10,4,Life Sciences,4,Female,88,2,Sales Executive,4,Divorced,6694,2,Yes,14,3,80,3,8,5,3,1,0,0,0,Millenials
+796,25,Yes,Research & Development,4,1,Technical Degree,4,Male,32,3,Laboratory Technician,4,Married,3691,1,Yes,15,2,80,1,7,3,4,7,7,5,6,Gen Z
+797,26,Yes,Research & Development,21,3,Medical,1,Male,37,3,Laboratory Technician,3,Divorced,2377,1,No,20,3,80,1,1,0,2,1,1,0,0,Millenials
+798,33,Yes,Research & Development,25,3,Medical,1,Male,55,2,Research Scientist,2,Single,2313,4,Yes,20,2,80,0,5,0,3,2,2,2,2,Millenials
+799,42,No,Research & Development,2,2,Medical,4,Male,35,3,Manager,1,Married,17665,0,No,17,4,80,1,23,3,3,22,6,13,7,Gen X
+800,28,Yes,Research & Development,1,3,Medical,1,Male,45,2,Laboratory Technician,2,Divorced,2596,1,No,15,1,80,2,1,2,3,1,0,0,0,Millenials
+801,50,Yes,Sales,1,4,Other,4,Male,81,3,Sales Executive,3,Single,4728,3,Yes,14,4,80,0,5,4,3,0,0,0,0,Gen X
+802,33,No,Sales,7,3,Life Sciences,4,Female,30,3,Sales Executive,2,Married,4302,0,No,17,3,80,1,4,3,3,3,2,0,2,Millenials
+803,34,No,Research & Development,3,4,Life Sciences,3,Male,40,2,Research Scientist,4,Married,2979,3,No,17,4,80,3,6,2,3,0,0,0,0,Millenials
+804,48,No,Research & Development,1,4,Medical,1,Male,35,4,Manager,4,Single,16885,2,No,22,3,80,0,27,3,2,5,4,2,1,Gen X
+805,45,No,Sales,9,4,Life Sciences,2,Female,65,2,Sales Executive,3,Married,5593,1,No,13,4,80,1,15,2,3,15,10,4,12,Gen X
+806,52,No,Research & Development,7,4,Life Sciences,2,Male,87,3,Healthcare Representative,2,Single,10445,7,No,19,4,80,0,18,4,3,8,6,4,0,Gen X
+807,38,No,Sales,10,4,Marketing,3,Male,73,2,Sales Executive,3,Divorced,8740,0,Yes,14,2,80,2,9,2,3,8,7,2,7,Millenials
+808,29,No,Research & Development,28,4,Life Sciences,3,Female,93,3,Research Scientist,4,Divorced,2514,4,No,22,1,80,1,11,1,3,7,5,1,7,Millenials
+809,28,No,Research & Development,3,3,Medical,4,Female,93,3,Manufacturing Director,2,Divorced,7655,0,No,17,2,80,3,10,3,2,9,7,1,7,Millenials
+810,46,No,Sales,3,1,Marketing,1,Male,52,3,Manager,3,Married,17465,3,No,12,4,80,1,23,3,3,12,9,4,9,Gen X
+811,38,No,Sales,2,2,Marketing,4,Male,32,3,Sales Executive,2,Single,7351,7,No,16,3,80,0,10,2,3,1,0,0,0,Millenials
+812,43,No,Research & Development,27,3,Life Sciences,3,Female,83,3,Manufacturing Director,1,Married,10820,8,No,11,3,80,1,18,1,3,8,7,0,1,Gen X
+813,39,Yes,Research & Development,2,3,Life Sciences,1,Male,84,3,Healthcare Representative,4,Divorced,12169,7,No,11,4,80,3,21,4,3,18,7,11,5,Millenials
+814,40,No,Research & Development,14,3,Medical,3,Male,44,2,Research Director,3,Single,19626,1,No,14,1,80,0,21,2,4,20,7,4,9,Millenials
+815,21,No,Research & Development,1,1,Technical Degree,4,Female,70,2,Research Scientist,2,Single,2070,1,Yes,11,3,80,0,2,6,4,2,2,2,2,Gen Z
+816,39,No,Research & Development,9,3,Life Sciences,3,Male,70,3,Laboratory Technician,2,Single,6782,9,No,15,3,80,0,9,2,2,5,4,0,3,Millenials
+817,36,No,Research & Development,18,4,Life Sciences,1,Male,78,3,Manufacturing Director,4,Single,7779,2,No,20,1,80,0,18,0,3,11,9,0,9,Millenials
+818,31,No,Sales,20,3,Life Sciences,3,Male,67,4,Sales Representative,4,Married,2791,0,No,12,1,80,1,3,4,3,2,2,2,2,Millenials
+819,28,No,Research & Development,2,1,Life Sciences,1,Male,67,2,Research Scientist,2,Married,3201,0,No,17,1,80,0,6,2,1,5,3,0,4,Millenials
+820,35,No,Sales,11,2,Marketing,4,Male,54,3,Sales Executive,4,Divorced,4968,1,No,11,4,80,1,5,3,3,5,2,0,2,Millenials
+821,49,No,Sales,8,4,Technical Degree,4,Male,56,2,Sales Executive,2,Married,13120,6,No,17,2,80,1,22,3,3,9,8,2,3,Gen X
+822,34,No,Research & Development,2,2,Life Sciences,4,Male,95,3,Manufacturing Director,3,Single,4033,2,No,11,4,80,0,5,3,2,3,2,0,2,Millenials
+823,29,No,Research & Development,10,3,Life Sciences,4,Female,61,3,Research Scientist,2,Divorced,3291,0,No,14,4,80,2,8,2,2,7,5,1,1,Millenials
+824,42,No,Research & Development,29,3,Medical,2,Male,56,1,Laboratory Technician,4,Single,4272,4,No,19,1,80,0,16,3,3,1,0,0,0,Gen X
+825,29,No,Research & Development,8,1,Medical,2,Male,79,2,Manufacturing Director,4,Married,5056,1,Yes,15,3,80,1,10,2,2,10,7,1,2,Millenials
+826,38,No,Human Resources,1,3,Human Resources,3,Male,37,4,Human Resources,3,Married,2844,1,No,13,4,80,1,7,2,4,7,6,5,0,Millenials
+827,28,No,Research & Development,6,3,Life Sciences,3,Male,39,2,Research Scientist,3,Divorced,2703,1,Yes,14,4,80,1,3,2,3,3,1,0,2,Millenials
+828,18,Yes,Research & Development,8,1,Medical,3,Male,80,3,Laboratory Technician,3,Single,1904,1,No,12,4,80,0,0,0,3,0,0,0,0,Gen Z
+829,33,Yes,Sales,9,4,Marketing,1,Female,77,3,Sales Executive,1,Single,8224,0,Yes,17,1,80,0,6,3,3,5,2,0,3,Millenials
+830,41,No,Research & Development,12,4,Life Sciences,2,Male,46,3,Laboratory Technician,4,Married,4766,3,Yes,11,1,80,1,6,4,3,1,0,0,0,Gen X
+831,31,Yes,Research & Development,15,3,Medical,3,Male,72,3,Laboratory Technician,3,Married,2610,1,No,12,3,80,1,2,5,2,2,2,2,2,Millenials
+832,37,No,Research & Development,25,2,Medical,3,Female,52,2,Healthcare Representative,4,Divorced,5731,7,No,13,3,80,2,9,2,3,6,2,1,3,Millenials
+833,27,No,Research & Development,6,3,Life Sciences,4,Male,55,2,Research Scientist,3,Married,2539,1,No,13,3,80,1,4,0,3,4,2,2,2,Millenials
+834,34,No,Sales,9,1,Life Sciences,2,Female,70,3,Sales Executive,3,Married,5714,1,No,20,1,80,0,6,3,2,6,5,1,3,Millenials
+835,35,No,Human Resources,8,4,Technical Degree,3,Male,100,3,Human Resources,3,Single,4323,1,No,17,2,80,0,6,2,1,5,4,1,4,Millenials
+836,29,Yes,Sales,23,1,Life Sciences,4,Female,45,2,Sales Executive,1,Married,7336,1,No,13,1,80,1,11,3,1,11,8,3,10,Millenials
+837,40,No,Research & Development,9,4,Medical,2,Female,88,3,Research Director,3,Single,13499,9,No,17,3,80,0,20,3,2,18,7,2,13,Millenials
+838,42,Yes,Sales,12,3,Life Sciences,3,Male,44,3,Sales Executive,1,Single,13758,0,Yes,12,2,80,0,22,2,2,21,9,13,14,Gen X
+839,42,No,Sales,4,4,Marketing,2,Male,45,3,Sales Executive,1,Single,5155,7,No,13,4,80,0,9,3,4,6,4,1,5,Gen X
+840,35,No,Research & Development,1,4,Medical,4,Male,58,2,Laboratory Technician,3,Married,2258,6,No,12,2,80,1,10,2,3,8,0,1,7,Millenials
+841,24,No,Research & Development,24,3,Medical,4,Male,49,3,Laboratory Technician,2,Single,3597,8,No,22,4,80,0,6,2,3,4,3,1,2,Gen Z
+842,28,Yes,Research & Development,12,1,Life Sciences,3,Female,79,3,Laboratory Technician,4,Married,2515,1,Yes,11,4,80,0,1,4,2,1,1,0,0,Millenials
+843,26,No,Research & Development,3,4,Medical,1,Male,82,4,Laboratory Technician,4,Married,4420,1,No,22,2,80,1,8,2,3,8,7,0,7,Millenials
+844,30,No,Sales,10,3,Marketing,3,Male,72,2,Sales Executive,3,Married,6578,1,No,18,1,80,1,10,3,3,10,3,1,4,Millenials
+845,40,No,Research & Development,26,2,Medical,3,Female,92,2,Research Scientist,4,Married,4422,3,Yes,13,4,80,1,16,3,1,1,1,0,0,Millenials
+846,35,No,Research & Development,2,3,Life Sciences,3,Male,44,2,Manufacturing Director,2,Divorced,10274,2,No,18,2,80,1,15,2,4,7,7,6,4,Millenials
+847,34,No,Research & Development,1,3,Medical,4,Male,97,2,Healthcare Representative,1,Single,5343,0,No,20,3,80,0,14,3,3,13,9,4,9,Millenials
+848,35,No,Research & Development,4,4,Other,4,Male,47,2,Laboratory Technician,4,Married,2376,1,No,13,2,80,1,2,2,4,2,2,2,2,Millenials
+849,43,Yes,Sales,9,3,Marketing,1,Female,85,1,Sales Executive,3,Single,5346,8,No,13,2,80,0,7,2,2,4,3,1,3,Gen X
+850,32,No,Sales,2,1,Life Sciences,3,Female,76,3,Sales Representative,1,Divorced,2827,1,No,12,3,80,3,1,3,3,1,0,0,0,Millenials
+851,56,No,Research & Development,4,4,Technical Degree,4,Female,92,3,Manager,1,Divorced,19943,4,No,13,4,80,1,28,2,3,5,2,4,2,Baby Boomers
+852,29,No,Research & Development,6,1,Medical,2,Female,54,3,Laboratory Technician,4,Married,3131,1,No,13,1,80,1,10,5,3,10,8,0,8,Millenials
+853,19,No,Research & Development,9,2,Life Sciences,3,Male,54,3,Research Scientist,1,Single,2552,1,No,25,3,80,0,1,4,3,1,1,0,0,Gen Z
+854,45,No,Research & Development,7,3,Medical,1,Female,83,3,Research Scientist,3,Married,4477,4,Yes,19,3,80,1,7,2,2,3,2,0,2,Gen X
+855,37,No,Research & Development,1,3,Life Sciences,4,Female,56,2,Manufacturing Director,4,Married,6474,1,No,13,2,80,1,14,2,2,14,8,3,11,Millenials
+856,20,No,Research & Development,3,3,Life Sciences,1,Male,87,2,Laboratory Technician,3,Single,3033,1,No,12,1,80,0,2,2,2,2,2,1,2,Gen Z
+857,44,Yes,Research & Development,10,4,Life Sciences,3,Male,96,3,Research Scientist,3,Single,2936,1,Yes,11,3,80,0,6,4,3,6,4,0,2,Gen X
+858,53,No,Research & Development,7,2,Medical,4,Female,50,3,Manager,3,Divorced,18606,3,No,18,2,80,1,26,6,3,7,7,4,7,Gen X
+859,29,No,Research & Development,15,1,Life Sciences,2,Female,69,1,Research Scientist,4,Married,2168,0,Yes,18,1,80,1,6,2,2,5,4,1,3,Millenials
+860,22,Yes,Research & Development,3,4,Life Sciences,3,Male,48,2,Research Scientist,4,Married,2853,0,Yes,11,2,80,1,1,5,3,0,0,0,0,Gen Z
+861,46,No,Sales,2,3,Marketing,3,Female,69,3,Manager,1,Married,17048,8,No,23,1,80,0,28,2,3,26,15,15,9,Gen X
+862,44,No,Research & Development,17,3,Life Sciences,4,Male,74,1,Research Scientist,3,Single,2290,2,No,13,4,80,0,6,3,3,0,0,0,0,Gen X
+863,33,No,Human Resources,2,3,Human Resources,2,Male,99,3,Human Resources,3,Married,3600,1,No,13,4,80,1,5,2,3,5,4,1,4,Millenials
+864,41,Yes,Research & Development,5,2,Life Sciences,1,Male,95,2,Research Scientist,1,Divorced,2107,6,No,17,1,80,1,5,2,1,1,0,0,0,Gen X
+865,30,No,Sales,29,4,Life Sciences,3,Male,61,3,Sales Executive,1,Divorced,4115,8,No,19,3,80,3,8,3,3,4,3,0,3,Millenials
+866,40,No,Sales,2,4,Medical,2,Male,62,3,Sales Executive,2,Married,4327,5,No,12,4,80,3,5,2,3,0,0,0,0,Millenials
+867,50,No,Research & Development,2,3,Medical,4,Female,30,3,Manager,1,Married,17856,2,No,22,3,80,1,32,3,3,2,2,2,2,Gen X
+868,28,No,Research & Development,19,4,Medical,4,Male,78,2,Laboratory Technician,1,Married,3196,1,No,12,3,80,3,6,2,3,6,5,3,3,Millenials
+869,46,No,Research & Development,15,2,Life Sciences,4,Male,52,3,Research Director,2,Married,19081,5,No,11,1,80,1,25,2,3,4,2,0,3,Gen X
+870,35,No,Sales,17,4,Life Sciences,3,Male,94,3,Sales Executive,1,Married,8966,3,Yes,15,4,80,3,15,2,3,7,7,1,7,Millenials
+871,24,Yes,Research & Development,17,2,Life Sciences,4,Female,97,3,Laboratory Technician,2,Married,2210,1,No,13,1,80,1,1,3,1,1,0,0,0,Gen Z
+872,33,No,Sales,25,3,Medical,2,Female,82,3,Sales Executive,3,Married,4539,1,No,12,1,80,1,10,3,2,10,7,0,1,Millenials
+873,36,No,Research & Development,6,4,Life Sciences,3,Male,60,1,Laboratory Technician,3,Divorced,2741,1,No,14,3,80,1,7,4,3,7,7,1,7,Millenials
+874,30,No,Research & Development,7,4,Life Sciences,3,Male,49,3,Laboratory Technician,3,Divorced,3491,1,No,13,1,80,3,10,4,2,10,7,8,9,Millenials
+875,44,No,Research & Development,29,4,Other,4,Male,32,3,Research Scientist,4,Single,4541,1,No,25,2,80,0,20,3,3,20,11,13,17,Gen X
+876,20,No,Sales,21,3,Marketing,3,Male,43,4,Sales Representative,4,Single,2678,1,No,17,4,80,0,2,2,3,2,1,2,2,Gen Z
+877,46,No,Research & Development,2,4,Technical Degree,4,Male,60,3,Manufacturing Director,4,Divorced,7379,2,No,11,3,80,1,12,3,2,6,3,1,4,Gen X
+878,42,No,Human Resources,2,5,Medical,4,Male,79,4,Human Resources,1,Married,6272,7,No,16,1,80,1,10,3,4,4,3,0,3,Gen X
+879,60,No,Sales,7,4,Marketing,2,Male,52,4,Sales Executive,4,Divorced,5220,0,Yes,18,2,80,1,12,3,3,11,7,1,9,Baby Boomers
+880,32,No,Research & Development,13,3,Other,3,Female,77,2,Laboratory Technician,2,Married,2743,1,No,20,3,80,1,2,2,3,2,2,2,2,Millenials
+881,32,No,Research & Development,2,2,Life Sciences,4,Female,38,3,Research Scientist,3,Single,4998,4,Yes,14,4,80,0,10,2,3,8,7,0,7,Millenials
+882,36,No,Research & Development,1,3,Technical Degree,3,Female,77,1,Manufacturing Director,1,Divorced,10252,2,Yes,21,3,80,1,17,2,3,7,7,7,7,Millenials
+883,33,No,Research & Development,9,3,Medical,1,Male,60,3,Research Scientist,4,Married,2781,0,No,13,2,80,1,15,5,3,14,10,4,10,Millenials
+884,40,No,Sales,10,3,Technical Degree,2,Female,84,2,Sales Executive,2,Divorced,6852,7,No,12,2,80,1,7,2,4,5,1,1,3,Millenials
+885,25,No,Sales,10,4,Life Sciences,3,Male,57,3,Sales Executive,4,Single,4950,0,No,14,2,80,0,5,4,3,4,3,1,1,Gen Z
+886,30,No,Research & Development,1,3,Medical,4,Male,63,3,Research Scientist,2,Married,3579,0,Yes,21,1,80,1,12,2,3,11,9,5,7,Millenials
+887,42,No,Research & Development,26,5,Medical,1,Female,60,3,Research Director,1,Married,13191,3,Yes,17,3,80,0,20,6,3,1,0,0,0,Gen X
+888,35,No,Sales,8,2,Marketing,3,Female,78,2,Sales Executive,4,Married,10377,4,Yes,11,2,80,1,16,6,2,13,2,4,12,Millenials
+889,27,No,Research & Development,14,3,Life Sciences,1,Male,42,3,Research Scientist,1,Married,2235,1,Yes,14,4,80,2,9,3,2,9,7,6,8,Millenials
+890,54,No,Research & Development,1,4,Life Sciences,4,Female,53,3,Manufacturing Director,3,Divorced,10502,7,No,17,1,80,1,33,2,1,5,4,1,4,Gen X
+891,44,No,Research & Development,2,1,Life Sciences,1,Female,72,4,Research Scientist,4,Married,2011,1,No,13,4,80,1,10,5,3,10,5,7,7,Gen X
+892,19,Yes,Research & Development,10,3,Medical,1,Female,96,2,Research Scientist,2,Single,1859,1,Yes,25,2,80,0,1,2,4,1,1,0,0,Gen Z
+893,29,No,Research & Development,1,3,Life Sciences,1,Female,97,3,Research Scientist,4,Divorced,3760,1,No,15,1,80,3,3,5,3,3,2,1,2,Millenials
+894,54,No,Research & Development,3,3,Life Sciences,4,Male,85,3,Research Director,4,Married,17779,3,No,14,1,80,0,36,2,3,10,9,0,9,Gen X
+895,31,No,Research & Development,11,2,Medical,3,Male,80,3,Healthcare Representative,1,Married,6833,1,Yes,12,4,80,0,6,2,2,6,5,0,1,Millenials
+896,31,No,Research & Development,24,3,Medical,3,Female,96,2,Healthcare Representative,1,Single,6812,1,No,19,2,80,0,10,2,3,10,9,1,8,Millenials
+897,59,No,Sales,3,3,Life Sciences,3,Female,48,2,Sales Executive,4,Single,5171,5,No,17,4,80,0,13,2,3,6,1,0,5,Baby Boomers
+898,43,No,Research & Development,3,3,Life Sciences,3,Male,96,1,Research Director,4,Married,19740,3,No,14,2,80,1,25,2,3,8,7,0,7,Gen X
+899,49,No,Research & Development,4,2,Medical,1,Male,85,2,Manager,3,Married,18711,2,No,13,3,80,1,23,2,4,1,0,0,0,Gen X
+900,36,No,Research & Development,3,3,Technical Degree,3,Male,46,3,Research Scientist,2,Married,3692,1,No,12,3,80,0,12,2,2,11,10,0,7,Millenials
+901,48,No,Research & Development,2,2,Technical Degree,4,Male,76,4,Laboratory Technician,2,Single,2559,5,No,11,3,80,0,7,4,2,1,0,0,0,Gen X
+902,27,No,Research & Development,4,2,Life Sciences,1,Male,76,3,Research Scientist,3,Divorced,2517,1,No,11,2,80,3,5,2,3,5,3,0,3,Millenials
+903,29,No,Research & Development,7,3,Life Sciences,3,Male,82,3,Healthcare Representative,4,Divorced,6623,1,Yes,11,2,80,2,6,2,3,6,0,1,0,Millenials
+904,48,No,Research & Development,1,3,Life Sciences,4,Male,76,2,Research Director,4,Single,18265,6,No,12,3,80,0,25,3,4,1,0,0,0,Gen X
+905,29,No,Research & Development,1,3,Life Sciences,4,Female,87,2,Research Director,4,Divorced,16124,3,No,14,2,80,2,9,2,2,7,7,1,7,Millenials
+906,34,No,Research & Development,20,3,Technical Degree,3,Female,89,4,Research Scientist,3,Married,2585,0,No,17,4,80,0,2,5,2,1,0,0,0,Millenials
+907,44,No,Sales,5,3,Marketing,2,Male,88,3,Manager,2,Married,18213,7,No,11,3,80,1,26,5,3,22,9,3,10,Gen X
+908,33,No,Sales,10,5,Marketing,4,Male,82,4,Sales Executive,3,Divorced,8380,0,Yes,14,4,80,2,10,3,3,9,8,0,8,Millenials
+909,19,No,Research & Development,25,3,Life Sciences,2,Female,57,4,Research Scientist,4,Single,2994,1,Yes,12,4,80,0,1,2,3,1,0,0,1,Gen Z
+910,23,No,Research & Development,1,2,Life Sciences,4,Male,47,3,Research Scientist,3,Married,1223,1,No,22,4,80,1,1,2,3,1,0,0,1,Gen Z
+911,25,Yes,Sales,24,1,Life Sciences,3,Male,73,1,Sales Representative,4,Single,1118,1,Yes,14,4,80,0,1,4,3,1,0,1,0,Gen Z
+912,26,No,Research & Development,4,2,Life Sciences,3,Male,53,3,Research Scientist,4,Single,2875,1,Yes,20,2,80,0,8,2,2,8,5,2,2,Millenials
+913,45,Yes,Sales,2,3,Marketing,1,Female,94,1,Manager,2,Single,18824,2,Yes,16,1,80,0,26,2,3,24,10,1,11,Gen X
+914,55,No,Research & Development,8,1,Medical,4,Male,37,2,Healthcare Representative,2,Divorced,13577,1,Yes,15,4,80,1,34,3,3,33,9,15,0,Gen X
+915,21,Yes,Research & Development,10,2,Life Sciences,1,Female,45,2,Laboratory Technician,3,Single,2625,1,No,20,3,80,0,2,2,1,2,2,2,2,Gen Z
+916,46,No,Sales,4,2,Marketing,4,Female,33,2,Manager,2,Married,18789,2,No,14,3,80,1,26,2,3,11,4,0,8,Gen X
+917,34,No,Sales,2,3,Marketing,3,Female,86,3,Sales Executive,1,Single,4538,0,Yes,12,4,80,0,4,3,3,3,2,0,2,Millenials
+918,51,No,Sales,9,3,Life Sciences,4,Male,83,3,Manager,2,Divorced,19847,4,Yes,24,1,80,1,31,5,2,29,10,11,10,Gen X
+919,59,No,Research & Development,18,4,Medical,4,Male,67,3,Manufacturing Director,4,Single,10512,6,No,12,4,80,0,25,6,2,9,7,5,4,Baby Boomers
+920,34,No,Research & Development,19,3,Medical,3,Female,46,3,Laboratory Technician,2,Divorced,4444,4,No,13,3,80,2,15,2,4,11,8,5,10,Millenials
+921,28,No,Research & Development,1,4,Medical,4,Male,44,3,Laboratory Technician,3,Single,2154,0,Yes,11,3,80,0,5,2,2,4,2,0,2,Millenials
+922,44,No,Research & Development,4,2,Life Sciences,3,Male,92,4,Manager,1,Divorced,19190,1,No,14,4,80,2,26,4,2,25,9,14,13,Gen X
+923,34,No,Human Resources,11,3,Life Sciences,3,Male,56,2,Human Resources,2,Married,4490,4,No,11,4,80,2,14,5,4,10,9,1,8,Millenials
+924,35,No,Research & Development,6,1,Life Sciences,3,Male,66,3,Research Scientist,3,Married,3506,0,Yes,14,4,80,0,4,3,3,3,2,2,2,Millenials
+925,42,No,Research & Development,7,4,Medical,2,Female,78,4,Research Scientist,2,Married,2372,6,Yes,16,4,80,0,18,2,3,1,0,0,0,Gen X
+926,43,No,Sales,4,4,Marketing,4,Female,56,2,Sales Executive,4,Single,10231,3,No,14,4,80,0,23,3,4,21,7,15,17,Gen X
+927,36,No,Research & Development,2,4,Life Sciences,3,Female,53,3,Manufacturing Director,2,Single,5410,9,Yes,11,4,80,0,18,2,3,16,14,5,12,Millenials
+928,44,Yes,Research & Development,15,3,Medical,1,Female,73,3,Healthcare Representative,4,Married,7978,1,No,11,4,80,1,10,2,3,10,7,0,5,Gen X
+929,28,No,Research & Development,2,3,Life Sciences,4,Male,52,2,Laboratory Technician,4,Married,3867,1,Yes,12,2,80,1,2,2,3,2,2,2,2,Millenials
+930,51,No,Research & Development,6,2,Medical,2,Female,40,2,Laboratory Technician,3,Single,2838,0,No,14,2,80,0,8,6,2,7,0,7,7,Gen X
+931,30,No,Research & Development,9,2,Medical,3,Female,72,3,Manufacturing Director,3,Single,4695,7,Yes,18,3,80,0,10,3,3,8,4,1,7,Millenials
+932,29,Yes,Research & Development,7,3,Technical Degree,2,Female,39,3,Laboratory Technician,3,Divorced,3339,3,Yes,13,1,80,2,10,2,3,7,7,7,7,Millenials
+933,28,No,Research & Development,1,3,Technical Degree,4,Male,84,3,Research Scientist,1,Single,2080,2,No,11,2,80,0,5,2,2,3,2,1,2,Millenials
+934,25,No,Research & Development,1,3,Medical,4,Female,40,3,Research Scientist,2,Single,2096,1,No,18,4,80,0,2,3,2,2,2,2,1,Gen Z
+935,32,No,Sales,8,3,Medical,3,Male,56,4,Sales Executive,4,Married,6209,1,No,15,3,80,2,10,4,4,10,7,0,8,Millenials
+936,45,No,Research & Development,25,3,Medical,2,Female,83,3,Manager,2,Single,18061,3,No,22,3,80,0,22,4,3,0,0,0,0,Gen X
+937,39,No,Research & Development,13,4,Medical,3,Female,94,2,Manager,2,Divorced,17123,6,Yes,13,4,80,2,21,4,3,19,9,15,2,Millenials
+938,58,No,Research & Development,23,4,Life Sciences,1,Male,88,3,Research Scientist,3,Divorced,2372,1,No,12,4,80,2,2,3,3,2,2,2,2,Baby Boomers
+939,32,Yes,Research & Development,7,2,Life Sciences,4,Male,79,3,Laboratory Technician,3,Married,4883,1,No,18,1,80,1,10,3,3,10,4,1,1,Millenials
+940,39,Yes,Research & Development,23,3,Medical,3,Male,93,3,Research Scientist,1,Single,3904,0,No,13,1,80,0,6,2,3,5,2,0,3,Millenials
+941,30,No,Research & Development,6,3,Technical Degree,1,Female,48,2,Laboratory Technician,4,Married,4627,0,No,12,1,80,1,10,6,3,9,2,6,7,Millenials
+942,36,No,Research & Development,10,4,Technical Degree,4,Female,63,3,Healthcare Representative,3,Married,7094,3,No,12,1,80,0,10,0,3,7,7,1,7,Millenials
+943,46,No,Human Resources,1,2,Life Sciences,4,Female,44,3,Human Resources,1,Single,3423,6,No,12,3,80,0,10,3,4,7,6,5,7,Gen X
+944,28,No,Research & Development,1,3,Life Sciences,3,Female,55,1,Laboratory Technician,4,Married,6674,0,No,11,1,80,3,10,6,3,9,8,7,5,Millenials
+945,50,No,Research & Development,28,3,Life Sciences,4,Female,43,3,Research Director,1,Married,16880,4,Yes,11,2,80,0,25,2,3,3,2,1,2,Gen X
+946,40,Yes,Sales,25,4,Marketing,4,Male,57,2,Sales Executive,2,Single,9094,2,Yes,12,3,80,0,9,2,3,5,4,1,0,Millenials
+947,52,Yes,Sales,5,3,Life Sciences,2,Male,64,3,Sales Executive,2,Single,8446,9,Yes,19,3,80,0,10,2,2,8,7,7,7,Gen X
+948,30,No,Research & Development,17,4,Medical,2,Female,95,3,Manager,1,Married,11916,1,Yes,23,4,80,2,9,2,3,9,1,0,8,Millenials
+949,39,No,Research & Development,18,2,Life Sciences,1,Male,32,3,Manufacturing Director,3,Single,4534,0,No,11,1,80,0,9,6,3,8,7,1,7,Millenials
+950,31,No,Sales,2,4,Life Sciences,4,Female,57,3,Sales Executive,3,Divorced,9852,1,Yes,19,1,80,1,10,5,2,10,8,9,6,Millenials
+951,41,No,Sales,10,2,Medical,3,Male,40,1,Sales Executive,2,Single,6151,1,No,13,1,80,0,19,4,3,19,2,11,9,Gen X
+952,31,Yes,Sales,1,3,Life Sciences,4,Female,54,3,Sales Representative,2,Single,2302,1,Yes,11,1,80,0,3,2,4,3,2,2,2,Millenials
+953,44,Yes,Research & Development,3,3,Life Sciences,1,Male,89,3,Laboratory Technician,1,Married,2362,4,No,12,3,80,0,10,4,4,3,2,1,2,Gen X
+954,42,No,Research & Development,2,1,Life Sciences,3,Male,37,3,Manager,3,Married,17861,0,Yes,13,4,80,0,21,3,2,20,8,2,10,Gen X
+955,55,No,Research & Development,2,2,Medical,4,Female,58,1,Manager,3,Married,19187,4,No,14,4,80,1,23,5,3,19,9,9,11,Gen X
+956,56,No,Human Resources,8,4,Life Sciences,4,Male,99,3,Manager,2,Single,19717,6,No,14,1,80,0,36,4,3,7,3,7,7,Baby Boomers
+957,40,No,Research & Development,16,2,Life Sciences,3,Male,74,3,Research Scientist,3,Divorced,3544,9,No,16,2,80,1,6,0,3,4,2,0,0,Millenials
+958,34,No,Research & Development,9,3,Life Sciences,4,Male,86,3,Healthcare Representative,4,Divorced,8500,0,No,11,4,80,1,10,0,2,9,7,1,6,Millenials
+959,40,No,Research & Development,2,3,Life Sciences,3,Male,98,3,Research Scientist,4,Single,4661,1,No,13,3,80,0,9,4,3,9,8,8,8,Millenials
+960,41,No,Sales,1,3,Marketing,3,Female,66,3,Sales Executive,1,Divorced,4103,0,No,17,4,80,1,10,2,3,9,3,1,7,Gen X
+961,35,No,Research & Development,4,4,Life Sciences,3,Male,87,3,Research Scientist,3,Single,4249,1,Yes,11,2,80,0,9,3,3,9,6,1,1,Millenials
+962,51,No,Human Resources,5,3,Life Sciences,3,Male,84,3,Manager,2,Divorced,14026,1,Yes,11,2,80,1,33,2,3,33,9,0,10,Gen X
+963,38,No,Sales,2,2,Life Sciences,2,Female,31,3,Sales Executive,1,Divorced,6893,3,No,15,4,80,1,11,3,3,7,7,1,7,Millenials
+964,34,No,Sales,15,2,Medical,3,Female,66,3,Sales Executive,1,Single,6125,1,No,12,4,80,0,10,6,4,10,8,9,6,Millenials
+965,25,No,Research & Development,19,1,Medical,4,Male,67,3,Laboratory Technician,4,Married,3669,3,No,11,3,80,3,7,6,2,3,2,1,2,Gen Z
+966,58,Yes,Research & Development,7,4,Medical,3,Female,53,2,Manufacturing Director,1,Married,10008,7,Yes,14,4,80,0,31,0,2,10,9,5,9,Baby Boomers
+967,40,No,Research & Development,1,4,Life Sciences,2,Male,88,3,Laboratory Technician,2,Married,2387,3,No,22,3,80,1,7,3,3,4,2,0,3,Millenials
+968,36,No,Sales,7,3,Marketing,1,Female,83,4,Sales Executive,1,Married,4639,2,No,16,4,80,1,17,2,2,15,7,6,13,Millenials
+969,48,No,Research & Development,4,3,Life Sciences,4,Male,54,3,Manufacturing Director,4,Single,7898,1,No,11,3,80,0,11,2,3,10,9,0,8,Gen X
+970,27,No,Sales,11,3,Medical,3,Female,98,4,Sales Representative,4,Married,2534,8,No,14,2,80,1,5,4,3,1,0,0,0,Millenials
+971,51,No,Research & Development,11,2,Technical Degree,4,Female,82,2,Manufacturing Director,2,Single,13142,3,No,16,2,80,0,29,1,2,5,2,0,3,Gen X
+972,18,No,Research & Development,1,3,Life Sciences,4,Female,97,3,Laboratory Technician,4,Single,1611,1,No,15,3,80,0,0,5,4,0,0,0,0,Gen Z
+973,35,No,Research & Development,1,3,Medical,4,Female,60,2,Laboratory Technician,4,Married,5363,0,No,12,2,80,1,10,0,3,9,7,0,0,Millenials
+974,27,No,Sales,2,1,Life Sciences,4,Male,43,1,Sales Executive,4,Single,5071,3,No,20,2,80,0,8,3,3,6,2,0,0,Millenials
+975,55,Yes,Sales,13,4,Marketing,1,Male,85,4,Sales Executive,3,Single,13695,6,Yes,17,3,80,0,24,2,2,19,7,3,8,Gen X
+976,56,No,Research & Development,23,3,Life Sciences,4,Male,68,3,Manufacturing Director,2,Married,13402,4,Yes,12,1,80,1,33,0,3,19,16,15,9,Baby Boomers
+977,34,No,Research & Development,26,1,Technical Degree,1,Female,92,2,Research Scientist,3,Divorced,2029,1,No,20,3,80,3,5,2,3,5,4,0,0,Millenials
+978,40,No,Research & Development,2,1,Medical,2,Female,89,4,Healthcare Representative,3,Divorced,6377,5,No,20,2,80,3,15,0,3,12,11,11,8,Millenials
+979,34,No,Research & Development,29,3,Medical,2,Male,86,3,Laboratory Technician,3,Married,5429,4,No,13,1,80,2,10,1,3,8,7,7,7,Millenials
+980,31,Yes,Sales,2,3,Life Sciences,3,Female,90,2,Sales Representative,4,Single,2785,7,No,14,3,80,0,3,3,4,1,0,0,0,Millenials
+981,35,Yes,Sales,18,4,Marketing,4,Female,67,3,Sales Executive,3,Married,4614,0,Yes,18,3,80,1,5,0,2,4,2,3,2,Millenials
+982,38,No,Research & Development,7,3,Life Sciences,4,Male,57,4,Research Scientist,3,Divorced,2610,1,No,11,4,80,3,4,2,3,4,2,0,3,Millenials
+983,34,No,Research & Development,2,4,Technical Degree,3,Female,98,3,Healthcare Representative,4,Single,6687,1,No,11,4,80,0,14,2,4,14,11,4,11,Millenials
+984,28,No,Sales,26,3,Life Sciences,3,Male,48,2,Sales Executive,1,Married,4724,1,No,11,3,80,1,5,0,3,5,3,0,4,Millenials
+985,31,Yes,Research & Development,22,4,Medical,4,Male,98,3,Manufacturing Director,3,Married,6179,1,Yes,15,4,80,2,10,3,2,10,2,6,7,Millenials
+986,39,No,Sales,21,4,Life Sciences,1,Male,44,2,Sales Executive,4,Married,6120,3,Yes,12,4,80,2,8,2,4,5,4,1,4,Millenials
+987,51,No,Sales,2,3,Marketing,2,Male,52,3,Sales Executive,2,Married,10596,2,No,11,2,80,0,14,5,3,4,2,3,2,Gen X
+988,41,No,Research & Development,22,3,Life Sciences,4,Female,75,3,Research Scientist,4,Divorced,5467,3,Yes,14,1,80,2,12,4,2,6,2,3,3,Gen X
+989,37,No,Research & Development,4,1,Life Sciences,3,Male,54,3,Research Scientist,3,Married,2996,7,Yes,15,4,80,0,8,2,3,6,4,1,3,Millenials
+990,33,No,Sales,5,1,Life Sciences,2,Male,61,3,Sales Executive,4,Married,9998,6,No,13,1,80,0,8,2,4,5,4,1,2,Millenials
+991,32,No,Sales,2,1,Marketing,3,Male,36,3,Sales Executive,2,Married,4078,0,Yes,13,1,80,3,4,3,2,3,2,1,2,Millenials
+992,39,No,Research & Development,25,2,Life Sciences,3,Male,71,3,Healthcare Representative,3,Married,10920,3,No,21,2,80,1,13,2,3,6,4,0,5,Millenials
+993,25,No,Sales,18,1,Life Sciences,1,Male,93,4,Sales Executive,3,Married,6232,2,No,11,2,80,0,6,3,2,3,2,1,2,Gen Z
+994,52,No,Research & Development,28,2,Medical,4,Female,59,4,Manufacturing Director,3,Married,13247,2,Yes,11,2,80,1,24,3,2,5,3,0,2,Gen X
+995,43,No,Research & Development,6,3,Medical,1,Female,73,2,Research Scientist,3,Single,4081,1,Yes,14,1,80,0,20,3,1,20,7,1,8,Gen X
+996,27,No,Sales,10,3,Marketing,4,Female,98,2,Sales Executive,4,Married,5769,1,Yes,11,4,80,0,6,3,3,6,2,4,4,Millenials
+997,27,Yes,Research & Development,17,4,Life Sciences,4,Female,51,3,Research Scientist,3,Single,2394,1,Yes,13,4,80,0,8,2,3,8,2,7,7,Millenials
+998,26,No,Research & Development,2,1,Medical,1,Male,36,2,Research Scientist,4,Single,3904,0,No,12,4,80,0,5,2,3,4,3,1,1,Millenials
+999,42,No,Human Resources,10,3,Human Resources,3,Female,31,3,Manager,1,Married,16799,0,No,14,3,80,1,21,5,3,20,7,0,9,Gen X
+1000,52,No,Research & Development,8,4,Other,3,Female,54,3,Laboratory Technician,1,Married,2950,9,No,13,3,80,0,12,2,1,5,4,0,4,Gen X
+1001,37,No,Research & Development,11,3,Medical,1,Female,94,3,Laboratory Technician,3,Single,3629,4,No,18,1,80,0,8,6,3,3,2,0,2,Millenials
+1002,35,No,Research & Development,18,2,Life Sciences,3,Male,60,3,Manufacturing Director,4,Single,9362,2,No,11,3,80,0,10,2,3,2,2,2,2,Millenials
+1003,25,No,Research & Development,1,3,Technical Degree,1,Male,81,3,Laboratory Technician,4,Married,3229,4,No,11,2,80,1,7,2,2,3,2,0,2,Gen Z
+1004,26,No,Research & Development,7,3,Other,3,Male,100,4,Laboratory Technician,1,Single,3578,0,No,12,4,80,0,8,2,3,7,7,0,7,Millenials
+1005,29,No,Human Resources,17,3,Other,2,Male,51,2,Human Resources,1,Single,7988,1,No,13,1,80,0,10,3,2,10,9,0,9,Millenials
+1006,49,Yes,Research & Development,28,2,Life Sciences,1,Male,97,2,Laboratory Technician,1,Single,4284,3,No,20,1,80,0,20,2,3,4,3,1,3,Gen X
+1007,29,Yes,Research & Development,14,1,Other,3,Female,84,3,Healthcare Representative,4,Single,7553,0,Yes,12,1,80,0,9,1,3,8,7,7,7,Millenials
+1008,54,No,Research & Development,1,3,Medical,4,Female,54,3,Research Director,4,Single,17328,6,No,19,4,80,0,29,3,2,20,7,12,7,Gen X
+1009,58,No,Research & Development,1,3,Medical,4,Female,76,3,Research Director,1,Married,19701,3,Yes,21,3,80,1,32,3,3,9,8,1,5,Baby Boomers
+1010,55,No,Research & Development,1,4,Medical,2,Male,81,4,Research Director,4,Divorced,14732,2,No,13,4,80,2,31,4,4,7,7,0,0,Gen X
+1011,36,No,Sales,3,4,Marketing,1,Female,99,3,Sales Executive,2,Single,9278,3,Yes,16,4,80,0,15,3,3,5,4,0,1,Millenials
+1012,31,Yes,Sales,1,4,Life Sciences,2,Female,50,1,Sales Representative,3,Single,1359,1,No,12,2,80,0,1,3,3,1,0,0,0,Millenials
+1013,30,No,Sales,7,4,Marketing,4,Female,73,3,Sales Executive,1,Divorced,4779,7,No,14,2,80,2,8,3,3,3,2,0,2,Millenials
+1014,31,No,Research & Development,8,5,Life Sciences,1,Female,93,3,Research Director,2,Single,16422,3,No,11,3,80,0,9,3,4,3,2,1,0,Millenials
+1015,34,No,Research & Development,1,4,Other,4,Male,91,3,Research Scientist,1,Divorced,2996,5,No,14,3,80,2,10,2,3,4,3,1,3,Millenials
+1016,31,Yes,Research & Development,8,3,Life Sciences,1,Female,34,2,Research Scientist,2,Single,1261,1,No,12,3,80,0,1,3,4,1,0,0,0,Millenials
+1017,27,No,Research & Development,11,1,Life Sciences,2,Male,91,3,Laboratory Technician,1,Married,2099,0,No,14,2,80,0,6,3,4,5,0,1,4,Millenials
+1018,36,No,Research & Development,4,4,Life Sciences,1,Male,37,2,Laboratory Technician,4,Single,5810,1,No,16,3,80,0,10,2,2,10,4,1,8,Millenials
+1019,36,No,Sales,16,4,Marketing,3,Female,98,2,Sales Executive,1,Married,5647,4,No,13,1,80,2,11,3,2,3,2,0,2,Millenials
+1020,47,No,Research & Development,1,3,Technical Degree,1,Male,74,3,Research Scientist,4,Married,3420,7,No,12,3,80,1,17,2,2,6,5,1,2,Gen X
+1021,25,Yes,Sales,9,2,Life Sciences,1,Male,68,2,Sales Representative,1,Married,4400,3,No,12,1,80,0,6,2,3,3,2,2,2,Gen Z
+1022,37,No,Research & Development,5,2,Technical Degree,3,Male,84,4,Laboratory Technician,3,Single,3500,0,No,14,1,80,0,7,2,1,6,5,1,3,Millenials
+1023,56,No,Research & Development,1,2,Life Sciences,1,Female,90,3,Research Scientist,1,Married,2066,2,No,22,4,80,1,5,3,4,3,2,1,0,Baby Boomers
+1024,47,No,Research & Development,2,4,Medical,1,Female,82,3,Research Director,3,Married,17169,3,No,19,2,80,2,26,2,4,20,17,5,6,Gen X
+1025,24,No,Sales,4,1,Medical,4,Female,42,3,Sales Executive,3,Married,4162,1,Yes,12,3,80,2,5,3,3,5,4,0,3,Gen Z
+1026,32,No,Sales,7,5,Marketing,4,Male,97,3,Sales Executive,4,Married,9204,4,No,12,3,80,1,7,3,2,4,3,0,3,Millenials
+1027,34,No,Research & Development,1,3,Life Sciences,4,Female,86,2,Laboratory Technician,2,Married,3294,5,No,17,1,80,1,7,2,2,5,4,0,2,Millenials
+1028,41,No,Research & Development,5,5,Medical,2,Male,90,4,Research Scientist,3,Married,2127,2,Yes,12,1,80,0,7,5,2,4,2,0,3,Gen X
+1029,40,No,Research & Development,9,4,Other,3,Male,81,3,Laboratory Technician,3,Divorced,3975,3,No,11,3,80,2,11,2,4,8,7,0,7,Millenials
+1030,31,No,Sales,8,2,Life Sciences,1,Male,31,3,Sales Executive,4,Divorced,10793,1,No,18,1,80,1,13,5,3,13,7,9,9,Millenials
+1031,46,Yes,Sales,9,3,Marketing,1,Male,52,3,Sales Executive,4,Divorced,10096,4,No,11,1,80,1,28,1,4,7,7,4,3,Gen X
+1032,39,Yes,Research & Development,2,3,Life Sciences,1,Female,54,2,Laboratory Technician,1,Single,3646,2,Yes,23,2,80,0,11,2,4,1,0,0,0,Millenials
+1033,31,Yes,Research & Development,1,5,Life Sciences,3,Female,100,4,Manufacturing Director,2,Single,7446,1,No,11,1,80,0,10,2,3,10,8,4,7,Millenials
+1034,45,No,Research & Development,20,3,Medical,2,Male,95,1,Healthcare Representative,1,Divorced,10851,2,Yes,18,2,80,1,24,2,3,7,7,0,7,Gen X
+1035,31,No,Human Resources,8,2,Medical,4,Female,96,4,Human Resources,2,Single,2109,9,No,18,4,80,0,8,3,3,3,2,0,2,Millenials
+1036,31,Yes,Research & Development,2,3,Life Sciences,2,Male,94,3,Laboratory Technician,4,Married,3722,6,Yes,13,3,80,1,7,2,1,2,2,2,2,Millenials
+1037,45,No,Research & Development,29,3,Technical Degree,2,Male,55,3,Manufacturing Director,4,Married,9380,4,Yes,18,4,80,2,10,4,4,3,1,1,2,Gen X
+1038,48,No,Sales,7,3,Marketing,3,Male,96,3,Sales Executive,1,Divorced,5486,4,No,11,1,80,3,15,3,3,2,2,2,2,Gen X
+1039,34,Yes,Human Resources,9,4,Technical Degree,1,Female,52,3,Human Resources,3,Married,2742,1,No,15,4,80,0,2,0,3,2,2,2,2,Millenials
+1040,40,No,Research & Development,8,1,Medical,4,Male,55,2,Research Director,2,Divorced,13757,2,No,11,3,80,1,16,5,3,9,8,4,8,Millenials
+1041,28,No,Sales,5,3,Medical,4,Male,84,3,Sales Executive,1,Single,8463,0,No,18,4,80,0,6,4,3,5,4,1,3,Millenials
+1042,44,No,Research & Development,5,3,Life Sciences,3,Male,90,2,Laboratory Technician,3,Single,3162,3,No,14,4,80,0,7,5,3,5,2,0,3,Gen X
+1043,53,No,Research & Development,2,3,Medical,4,Male,39,4,Research Director,2,Single,16598,4,No,12,2,80,0,35,2,2,9,8,8,8,Gen X
+1044,49,No,Research & Development,5,4,Technical Degree,1,Male,96,3,Healthcare Representative,3,Married,6651,2,No,14,2,80,1,20,0,2,3,2,1,2,Gen X
+1045,40,No,Research & Development,2,3,Medical,3,Male,68,3,Research Scientist,3,Divorced,2345,2,No,14,3,80,1,8,3,4,3,1,1,2,Millenials
+1046,44,No,Research & Development,20,3,Life Sciences,4,Male,49,3,Research Scientist,2,Single,3420,1,No,13,3,80,0,6,3,2,5,2,1,3,Gen X
+1047,33,No,Sales,7,3,Medical,4,Male,54,3,Sales Executive,1,Married,4373,0,No,14,1,80,2,5,2,3,4,3,0,3,Millenials
+1048,34,No,Sales,3,3,Other,4,Male,81,1,Sales Executive,1,Single,4759,3,No,18,4,80,0,15,2,3,13,9,3,12,Millenials
+1049,30,No,Sales,16,1,Life Sciences,4,Male,96,3,Sales Executive,3,Married,5301,8,No,15,3,80,2,4,2,2,2,1,2,2,Millenials
+1050,42,No,Research & Development,9,2,Medical,1,Female,74,3,Laboratory Technician,4,Single,3673,1,No,13,3,80,0,12,3,3,12,9,5,8,Gen X
+1051,44,No,Sales,1,5,Marketing,1,Female,79,3,Sales Executive,3,Married,4768,7,No,12,3,80,1,11,4,2,1,0,0,0,Gen X
+1052,30,No,Research & Development,7,3,Technical Degree,3,Male,64,3,Research Scientist,3,Divorced,1274,1,No,13,2,80,2,1,2,2,1,0,0,0,Millenials
+1053,57,No,Research & Development,1,2,Life Sciences,2,Male,93,4,Research Scientist,3,Married,4900,0,No,24,1,80,1,13,2,2,12,9,2,8,Baby Boomers
+1054,49,No,Research & Development,7,4,Life Sciences,3,Male,35,3,Healthcare Representative,2,Divorced,10466,3,No,14,2,80,2,29,3,3,8,7,0,7,Gen X
+1055,34,No,Research & Development,15,3,Medical,2,Male,71,3,Research Director,1,Divorced,17007,7,No,14,4,80,2,16,3,2,14,8,6,9,Millenials
+1056,28,Yes,Sales,1,3,Technical Degree,1,Male,92,3,Sales Representative,3,Married,2909,3,No,15,4,80,1,5,3,4,3,2,1,2,Millenials
+1057,29,Yes,Sales,13,3,Technical Degree,1,Female,51,3,Sales Executive,2,Single,5765,5,No,11,1,80,0,7,4,1,5,3,0,0,Millenials
+1058,34,Yes,Sales,24,4,Medical,1,Female,40,2,Sales Executive,2,Single,4599,0,Yes,23,3,80,0,16,2,4,15,9,10,10,Millenials
+1059,35,No,Sales,7,1,Life Sciences,4,Male,76,3,Sales Representative,3,Married,2404,1,No,13,1,80,1,1,3,3,1,0,0,0,Millenials
+1060,24,Yes,Research & Development,9,3,Medical,2,Male,89,3,Laboratory Technician,1,Single,3172,2,Yes,11,3,80,0,4,2,2,0,0,0,0,Gen Z
+1061,24,No,Sales,13,2,Life Sciences,4,Female,78,3,Sales Representative,2,Married,2033,1,No,13,3,80,1,1,2,3,1,0,0,0,Gen Z
+1062,44,No,Research & Development,2,1,Medical,2,Male,86,3,Manufacturing Director,3,Single,10209,5,Yes,18,2,80,0,16,2,2,2,2,2,2,Gen X
+1063,29,No,Sales,19,3,Life Sciences,3,Male,77,2,Sales Executive,3,Divorced,8620,1,No,14,3,80,2,10,3,3,10,7,0,4,Millenials
+1064,30,No,Human Resources,1,3,Life Sciences,3,Male,46,3,Human Resources,3,Divorced,2064,0,No,21,1,80,1,6,3,4,5,3,1,3,Millenials
+1065,55,No,Research & Development,4,4,Life Sciences,4,Male,30,3,Healthcare Representative,3,Married,4035,0,Yes,16,2,80,0,4,2,3,3,2,1,2,Gen X
+1066,33,No,Research & Development,4,4,Medical,1,Female,82,2,Laboratory Technician,2,Married,3838,8,No,11,4,80,0,8,5,3,5,4,0,2,Millenials
+1067,47,No,Sales,14,3,Medical,3,Female,78,3,Sales Executive,3,Married,4591,3,Yes,17,3,80,1,11,4,2,5,4,1,2,Gen X
+1068,28,Yes,Research & Development,2,2,Medical,3,Male,38,2,Laboratory Technician,1,Single,2561,7,No,11,3,80,0,8,2,2,0,0,0,0,Millenials
+1069,28,No,Research & Development,1,3,Life Sciences,1,Male,72,2,Research Scientist,3,Divorced,1563,1,No,14,4,80,1,1,2,1,1,0,0,0,Millenials
+1070,28,No,Sales,7,3,Life Sciences,3,Male,55,3,Sales Executive,1,Single,4898,0,No,14,4,80,0,5,5,3,4,2,1,3,Millenials
+1071,49,No,Research & Development,3,2,Medical,3,Female,43,2,Laboratory Technician,1,Married,4789,4,No,25,1,80,1,10,3,3,3,2,1,2,Gen X
+1072,29,No,Research & Development,2,1,Life Sciences,4,Female,97,3,Laboratory Technician,2,Married,3180,0,No,13,3,80,3,4,3,3,3,2,0,2,Millenials
+1073,28,No,Research & Development,29,1,Life Sciences,3,Male,96,1,Manufacturing Director,2,Married,6549,1,No,14,2,80,2,8,2,2,8,6,1,7,Millenials
+1074,33,No,Research & Development,8,5,Life Sciences,4,Male,69,3,Healthcare Representative,3,Single,6388,2,Yes,17,1,80,0,14,6,3,0,0,0,0,Millenials
+1075,32,No,Research & Development,10,3,Medical,3,Male,64,3,Manager,4,Single,11244,2,No,25,2,80,0,10,5,4,5,2,0,0,Millenials
+1076,54,No,Research & Development,11,4,Medical,2,Female,87,3,Manager,4,Divorced,16032,3,No,20,1,80,1,26,2,3,14,9,1,12,Gen X
+1077,29,Yes,Research & Development,1,4,Technical Degree,1,Male,100,2,Research Scientist,1,Single,2362,6,No,13,3,80,0,11,2,1,9,7,0,7,Millenials
+1078,44,No,Research & Development,28,3,Life Sciences,4,Male,32,3,Research Director,1,Married,16328,3,No,13,3,80,1,24,1,4,20,6,14,17,Gen X
+1079,39,No,Research & Development,6,3,Life Sciences,2,Female,32,3,Manufacturing Director,2,Single,8376,4,No,18,4,80,0,9,3,3,2,0,2,2,Millenials
+1080,46,No,Sales,3,3,Life Sciences,3,Female,51,3,Manager,2,Married,16606,8,No,12,4,80,1,23,2,4,13,12,5,1,Gen X
+1081,35,No,Research & Development,16,3,Life Sciences,4,Female,91,2,Healthcare Representative,2,Single,8606,1,No,19,4,80,0,11,3,1,11,8,3,3,Millenials
+1082,23,No,Research & Development,20,1,Life Sciences,1,Male,97,3,Laboratory Technician,3,Single,2272,0,No,14,2,80,0,5,2,3,4,3,1,2,Gen Z
+1083,40,Yes,Research & Development,9,4,Life Sciences,4,Male,86,3,Laboratory Technician,1,Single,2018,3,No,14,2,80,0,15,3,1,5,4,1,0,Millenials
+1084,34,No,Sales,1,3,Technical Degree,4,Male,64,2,Sales Executive,3,Married,7083,1,Yes,14,4,80,0,10,3,3,10,9,8,6,Millenials
+1085,31,Yes,Research & Development,3,3,Life Sciences,4,Female,33,3,Research Scientist,3,Single,4084,1,No,12,1,80,0,7,2,1,7,2,7,7,Millenials
+1086,50,No,Research & Development,22,5,Medical,3,Male,88,1,Research Director,4,Single,14411,1,Yes,13,4,80,0,32,2,3,32,6,13,9,Gen X
+1087,34,No,Sales,7,2,Technical Degree,2,Male,55,3,Sales Representative,3,Married,2308,0,Yes,25,2,80,1,12,4,3,11,10,5,7,Millenials
+1088,42,No,Research & Development,2,3,Medical,3,Male,68,2,Laboratory Technician,2,Married,4841,4,No,14,2,80,1,4,3,3,1,0,0,0,Gen X
+1089,37,No,Research & Development,13,3,Medical,1,Male,47,3,Research Scientist,4,Married,4285,1,No,17,1,80,0,10,2,3,10,8,3,7,Millenials
+1090,29,No,Research & Development,8,1,Other,3,Female,39,1,Healthcare Representative,1,Married,9715,3,No,13,3,80,1,9,3,3,7,7,0,7,Millenials
+1091,33,No,Research & Development,25,3,Life Sciences,4,Male,44,2,Manufacturing Director,2,Single,4320,1,No,13,4,80,0,5,2,3,5,3,0,2,Millenials
+1092,45,No,Research & Development,28,3,Technical Degree,4,Male,97,3,Research Scientist,4,Married,2132,4,No,20,4,80,1,8,3,3,5,4,0,3,Gen X
+1093,42,No,Research & Development,2,3,Life Sciences,4,Male,40,3,Healthcare Representative,4,Married,10124,2,Yes,14,3,80,1,24,3,1,20,8,13,9,Gen X
+1094,40,No,Sales,9,2,Medical,1,Male,47,3,Sales Executive,1,Married,5473,0,No,12,4,80,0,9,5,4,8,4,7,1,Millenials
+1095,33,No,Research & Development,28,4,Life Sciences,2,Male,79,3,Laboratory Technician,3,Married,5207,1,Yes,12,2,80,1,15,3,3,15,14,5,7,Millenials
+1096,40,No,Human Resources,6,2,Medical,3,Male,38,3,Manager,4,Single,16437,1,Yes,21,4,80,0,21,2,3,21,7,7,7,Millenials
+1097,24,No,Research & Development,21,2,Technical Degree,3,Male,57,2,Laboratory Technician,1,Divorced,2296,0,No,14,2,80,3,2,3,3,1,1,0,0,Gen Z
+1098,40,No,Research & Development,8,2,Life Sciences,4,Male,72,3,Healthcare Representative,4,Divorced,4069,3,Yes,18,3,80,0,8,2,3,2,2,2,2,Millenials
+1099,45,No,Research & Development,1,4,Technical Degree,1,Male,66,3,Healthcare Representative,2,Divorced,7441,1,No,12,1,80,3,10,4,3,10,8,7,7,Gen X
+1100,35,No,Sales,28,4,Life Sciences,2,Female,98,2,Sales Representative,3,Married,2430,0,No,23,1,80,2,6,5,3,5,3,4,2,Millenials
+1101,32,No,Research & Development,5,2,Life Sciences,4,Female,67,2,Research Scientist,2,Married,5878,3,No,12,1,80,1,12,2,3,7,1,2,5,Millenials
+1102,36,No,Sales,2,4,Life Sciences,3,Male,70,3,Sales Representative,4,Single,2644,3,Yes,21,4,80,0,7,3,2,3,2,1,2,Millenials
+1103,48,No,Sales,16,4,Life Sciences,3,Female,96,3,Sales Executive,3,Divorced,6439,8,No,14,3,80,1,18,2,3,8,7,7,7,Gen X
+1104,29,No,Research & Development,9,3,Life Sciences,3,Male,91,4,Research Scientist,3,Married,2451,6,No,18,1,80,2,5,2,2,1,0,0,0,Millenials
+1105,33,No,Sales,8,4,Life Sciences,1,Male,46,3,Sales Executive,1,Married,6392,2,No,13,4,80,1,8,6,1,2,2,2,2,Millenials
+1106,30,Yes,Sales,1,3,Life Sciences,2,Male,64,2,Sales Executive,1,Married,9714,1,No,11,4,80,1,10,4,3,10,8,6,7,Millenials
+1107,38,No,Human Resources,10,4,Human Resources,3,Male,71,3,Human Resources,3,Married,6077,3,No,11,3,80,0,10,2,3,6,3,1,2,Millenials
+1108,35,No,Research & Development,1,3,Medical,4,Male,68,2,Laboratory Technician,1,Single,2450,1,No,19,2,80,0,3,3,3,3,0,1,2,Millenials
+1109,30,No,Sales,29,4,Technical Degree,3,Male,33,3,Sales Executive,2,Married,9250,3,No,12,2,80,1,9,3,3,4,2,1,3,Millenials
+1110,35,Yes,Research & Development,2,3,Life Sciences,1,Female,69,3,Laboratory Technician,1,Divorced,2074,1,Yes,12,4,80,1,1,2,3,1,0,0,0,Millenials
+1111,53,Yes,Research & Development,2,5,Technical Degree,3,Female,78,2,Manufacturing Director,4,Married,10169,0,No,16,2,80,1,34,4,3,33,7,1,9,Gen X
+1112,38,Yes,Research & Development,2,3,Medical,3,Male,81,3,Manufacturing Director,2,Married,4855,4,No,11,1,80,2,7,2,3,5,2,1,4,Millenials
+1113,32,No,Research & Development,1,4,Technical Degree,4,Male,62,3,Research Scientist,1,Married,4087,4,No,14,2,80,1,9,3,2,6,5,1,2,Millenials
+1114,48,No,Research & Development,15,4,Other,3,Female,65,3,Research Scientist,1,Married,2367,8,No,12,4,80,1,10,3,2,8,2,7,6,Gen X
+1115,34,No,Research & Development,7,4,Medical,1,Male,35,3,Research Scientist,4,Single,2972,1,No,13,3,80,0,1,4,1,1,0,0,0,Millenials
+1116,55,No,Sales,26,5,Marketing,3,Male,60,2,Manager,4,Married,19586,1,No,21,3,80,1,36,3,3,36,6,2,13,Gen X
+1117,34,No,Research & Development,1,4,Life Sciences,2,Male,45,3,Research Scientist,4,Married,5484,9,No,17,2,80,1,9,3,2,2,2,2,1,Millenials
+1118,26,No,Research & Development,3,3,Life Sciences,1,Female,89,3,Research Scientist,4,Married,2061,1,No,21,1,80,0,1,5,3,1,0,0,0,Millenials
+1119,38,No,Sales,14,3,Life Sciences,3,Male,80,3,Sales Executive,2,Married,9924,0,No,11,4,80,1,10,3,3,9,8,7,7,Millenials
+1120,38,No,Sales,16,3,Life Sciences,2,Female,90,3,Sales Executive,2,Single,4198,2,No,12,2,80,0,8,5,4,3,2,1,2,Millenials
+1121,36,No,Sales,1,4,Life Sciences,2,Female,73,3,Sales Executive,3,Single,6815,6,No,13,1,80,0,15,5,3,1,0,0,0,Millenials
+1122,29,No,Research & Development,3,1,Medical,2,Male,87,3,Laboratory Technician,1,Single,4723,1,Yes,18,4,80,0,10,3,3,10,9,1,5,Millenials
+1123,35,No,Research & Development,10,4,Medical,1,Female,51,3,Healthcare Representative,3,Single,6142,3,Yes,16,3,80,0,10,4,3,5,2,0,4,Millenials
+1124,39,No,Sales,6,3,Medical,4,Male,38,4,Sales Executive,3,Married,8237,2,No,11,1,80,1,11,3,3,7,6,7,6,Millenials
+1125,29,No,Research & Development,2,1,Life Sciences,1,Male,87,3,Healthcare Representative,4,Divorced,8853,1,No,19,4,80,1,6,0,4,6,4,1,3,Millenials
+1126,50,No,Sales,9,3,Marketing,3,Male,59,3,Manager,3,Married,19331,4,Yes,16,3,80,1,27,2,3,1,0,0,0,Gen X
+1127,23,No,Research & Development,10,3,Technical Degree,4,Male,45,4,Research Scientist,3,Married,2073,2,No,16,4,80,1,4,2,3,2,2,2,2,Gen Z
+1128,36,No,Research & Development,6,4,Life Sciences,1,Male,80,4,Laboratory Technician,1,Married,5562,3,Yes,13,4,80,1,9,3,3,3,2,0,2,Millenials
+1129,42,No,Research & Development,9,2,Other,4,Male,93,2,Manager,4,Single,19613,8,No,22,4,80,0,24,2,3,1,0,0,1,Gen X
+1130,35,No,Research & Development,28,3,Life Sciences,2,Male,46,4,Laboratory Technician,3,Married,3407,1,No,17,4,80,2,10,3,2,10,9,6,8,Millenials
+1131,34,No,Research & Development,10,4,Technical Degree,4,Male,92,2,Healthcare Representative,3,Married,5063,1,No,14,2,80,1,8,3,2,8,2,7,7,Millenials
+1132,40,No,Sales,14,2,Life Sciences,4,Female,84,3,Sales Executive,1,Married,4639,1,No,15,3,80,1,5,2,3,5,4,1,2,Millenials
+1133,43,No,Research & Development,27,3,Technical Degree,4,Male,87,4,Laboratory Technician,2,Divorced,4876,5,No,12,3,80,1,8,0,3,6,4,0,2,Gen X
+1134,35,No,Research & Development,7,2,Life Sciences,3,Male,63,2,Laboratory Technician,4,Married,2690,1,No,18,4,80,1,1,5,2,1,0,0,1,Millenials
+1135,46,No,Sales,1,4,Life Sciences,4,Male,56,4,Manager,1,Single,17567,1,No,15,2,80,0,27,5,1,26,0,0,12,Gen X
+1136,28,Yes,Research & Development,24,3,Medical,3,Male,51,3,Laboratory Technician,2,Married,2408,1,Yes,17,3,80,3,1,3,3,1,1,0,0,Millenials
+1137,22,No,Research & Development,26,2,Other,2,Female,85,2,Research Scientist,3,Married,2814,1,Yes,14,2,80,0,4,2,2,4,2,1,3,Gen Z
+1138,50,No,Research & Development,20,5,Medical,2,Male,41,3,Healthcare Representative,3,Married,11245,2,Yes,15,3,80,1,32,3,3,30,8,12,13,Gen X
+1139,32,No,Research & Development,5,4,Other,2,Female,35,4,Research Scientist,4,Married,3312,3,No,17,4,80,2,6,3,3,3,2,0,2,Millenials
+1140,44,No,Research & Development,7,3,Medical,2,Female,31,3,Research Director,4,Divorced,19049,0,Yes,14,4,80,1,23,4,2,22,7,1,10,Gen X
+1141,30,No,Research & Development,7,3,Medical,2,Male,48,2,Research Scientist,2,Married,2141,1,No,12,2,80,1,6,3,2,6,4,1,1,Millenials
+1142,45,No,Research & Development,5,5,Medical,3,Female,50,1,Laboratory Technician,1,Single,5769,1,Yes,14,1,80,0,10,3,3,10,7,1,4,Gen X
+1143,45,No,Sales,26,3,Marketing,1,Male,52,2,Sales Executive,1,Married,4385,1,No,15,1,80,1,10,2,3,10,7,4,5,Gen X
+1144,31,No,Sales,2,4,Other,4,Male,54,3,Sales Executive,1,Single,5332,7,No,13,4,80,0,10,3,3,5,2,0,3,Millenials
+1145,36,No,Research & Development,12,4,Life Sciences,3,Female,76,3,Manufacturing Director,3,Married,4663,9,Yes,12,2,80,2,7,2,3,3,2,1,1,Millenials
+1146,34,No,Research & Development,10,4,Life Sciences,3,Male,42,4,Manufacturing Director,4,Divorced,4724,1,No,13,1,80,1,9,3,3,9,7,7,2,Millenials
+1147,49,No,Research & Development,25,4,Life Sciences,3,Female,84,3,Laboratory Technician,1,Married,3211,1,No,14,4,80,1,10,3,2,9,6,1,4,Gen X
+1148,39,No,Research & Development,10,5,Medical,2,Male,76,3,Manufacturing Director,1,Married,5377,2,No,13,4,80,3,10,3,3,7,7,7,7,Millenials
+1149,27,No,Research & Development,19,3,Other,4,Male,67,2,Laboratory Technician,1,Divorced,4066,1,No,11,1,80,2,7,3,3,7,7,0,7,Millenials
+1150,35,No,Research & Development,18,5,Life Sciences,2,Male,48,4,Research Scientist,1,Married,5208,1,No,11,4,80,0,16,2,3,16,15,1,10,Millenials
+1151,28,No,Research & Development,27,3,Medical,2,Female,39,1,Manufacturing Director,1,Divorced,4877,0,No,21,2,80,1,6,5,2,5,3,0,0,Millenials
+1152,21,No,Research & Development,5,1,Medical,3,Male,97,3,Research Scientist,4,Single,3117,1,No,18,3,80,0,3,2,3,2,2,2,2,Gen Z
+1153,18,Yes,Sales,3,2,Medical,2,Female,70,3,Sales Representative,4,Single,1569,1,Yes,12,3,80,0,0,2,4,0,0,0,0,Gen Z
+1154,47,No,Human Resources,26,4,Life Sciences,4,Female,98,3,Manager,3,Married,19658,3,No,11,3,80,1,27,2,3,5,2,1,0,Gen X
+1155,39,No,Research & Development,3,2,Medical,3,Male,76,2,Laboratory Technician,3,Divorced,3069,0,No,15,4,80,1,11,3,3,10,8,0,7,Millenials
+1156,40,No,Research & Development,15,3,Life Sciences,1,Female,80,2,Manufacturing Director,3,Married,10435,1,No,13,4,80,2,18,2,3,18,15,14,12,Millenials
+1157,35,No,Research & Development,8,4,Life Sciences,3,Female,52,3,Healthcare Representative,3,Married,4148,1,No,12,4,80,1,15,5,3,14,11,2,9,Millenials
+1158,37,No,Research & Development,19,3,Life Sciences,3,Male,85,3,Manufacturing Director,3,Married,5768,3,No,17,1,80,3,9,2,2,4,3,0,2,Millenials
+1159,39,No,Research & Development,4,3,Medical,1,Female,81,3,Manufacturing Director,3,Single,5042,0,No,13,4,80,0,10,2,1,9,2,3,8,Millenials
+1160,45,No,Research & Development,2,2,Other,4,Female,59,2,Manufacturing Director,4,Divorced,5770,1,No,19,1,80,2,10,3,3,10,7,3,9,Gen X
+1161,38,No,Research & Development,2,2,Medical,4,Female,54,2,Manufacturing Director,3,Married,7756,3,Yes,19,4,80,1,10,6,4,5,4,0,2,Millenials
+1162,35,Yes,Sales,10,3,Medical,4,Male,55,2,Sales Executive,1,Married,10306,9,No,17,3,80,0,15,3,3,13,12,6,0,Millenials
+1163,37,No,Research & Development,10,3,Medical,2,Female,71,3,Research Scientist,2,Married,3936,1,No,11,1,80,1,8,2,1,8,4,7,7,Millenials
+1164,40,No,Research & Development,16,3,Life Sciences,3,Female,84,3,Manufacturing Director,4,Single,7945,6,Yes,15,4,80,0,18,2,2,4,2,3,3,Millenials
+1165,44,No,Human Resources,1,5,Human Resources,1,Male,37,3,Human Resources,4,Married,5743,4,Yes,11,3,80,0,14,3,3,10,7,0,2,Gen X
+1166,48,No,Research & Development,4,5,Medical,3,Male,89,2,Manager,4,Married,15202,2,No,25,2,80,1,23,3,3,2,2,2,2,Gen X
+1167,35,Yes,Sales,15,2,Medical,1,Male,59,1,Sales Executive,4,Divorced,5440,6,Yes,14,4,80,2,7,2,2,2,2,2,2,Millenials
+1168,24,No,Research & Development,2,1,Technical Degree,1,Female,32,3,Research Scientist,4,Single,3760,1,Yes,13,3,80,0,6,2,3,6,3,1,3,Gen Z
+1169,27,No,Research & Development,8,3,Medical,2,Female,86,4,Research Scientist,3,Married,3517,7,No,17,1,80,0,5,0,3,3,2,0,2,Millenials
+1170,27,No,Research & Development,2,3,Medical,4,Male,87,3,Research Scientist,4,Single,2580,2,No,13,3,80,0,6,0,2,4,2,1,2,Millenials
+1171,40,Yes,Research & Development,7,3,Life Sciences,1,Male,73,3,Laboratory Technician,1,Single,2166,3,Yes,14,2,80,0,10,3,1,4,2,0,3,Millenials
+1172,29,No,Sales,10,3,Medical,3,Male,42,2,Sales Executive,3,Single,5869,9,No,11,3,80,0,8,2,3,5,2,1,4,Millenials
+1173,36,No,Research & Development,5,4,Life Sciences,2,Female,42,3,Healthcare Representative,1,Married,8008,4,No,12,3,80,2,9,6,3,3,2,0,2,Millenials
+1174,25,No,Research & Development,2,1,Life Sciences,4,Male,77,4,Manufacturing Director,3,Divorced,5206,1,No,17,3,80,2,7,6,3,7,7,0,7,Gen Z
+1175,39,No,Research & Development,12,3,Medical,4,Male,66,3,Manufacturing Director,2,Married,5295,4,No,21,3,80,0,7,3,3,5,4,1,0,Millenials
+1176,49,No,Research & Development,22,4,Other,1,Female,72,3,Research Director,2,Married,16413,3,No,16,2,80,2,27,2,3,4,2,1,2,Gen X
+1177,50,No,Research & Development,17,5,Life Sciences,4,Female,50,2,Research Director,1,Divorced,13269,5,No,15,3,80,3,19,3,3,14,11,1,11,Gen X
+1178,20,No,Sales,2,3,Medical,3,Female,31,3,Sales Representative,3,Single,2783,1,No,19,1,80,0,2,3,3,2,2,2,2,Gen Z
+1179,34,No,Research & Development,3,3,Life Sciences,4,Female,66,3,Research Scientist,2,Divorced,5433,1,No,12,3,80,1,11,2,3,11,8,7,9,Millenials
+1180,36,No,Research & Development,7,3,Life Sciences,1,Male,77,3,Laboratory Technician,2,Single,2013,2,No,11,3,80,0,15,4,3,4,3,1,3,Millenials
+1181,49,No,Research & Development,6,1,Life Sciences,3,Female,41,2,Healthcare Representative,3,Married,13966,2,Yes,19,2,80,1,30,3,3,15,11,2,12,Gen X
+1182,36,No,Research & Development,1,4,Medical,4,Female,33,2,Manufacturing Director,3,Married,4374,0,No,15,3,80,0,4,6,3,3,2,1,2,Millenials
+1183,36,No,Research & Development,3,2,Life Sciences,4,Male,79,4,Healthcare Representative,1,Divorced,6842,6,No,20,1,80,1,13,3,3,5,4,0,4,Millenials
+1184,54,No,Research & Development,22,5,Medical,2,Female,91,3,Manager,3,Married,17426,3,No,25,3,80,1,36,6,3,10,8,4,7,Gen X
+1185,43,No,Research & Development,15,2,Life Sciences,3,Male,65,2,Research Director,3,Married,17603,1,No,24,1,80,1,14,3,3,14,10,6,11,Gen X
+1186,35,Yes,Sales,12,4,Other,4,Male,36,3,Sales Executive,4,Single,4581,3,Yes,24,1,80,0,13,2,4,11,9,6,7,Millenials
+1187,38,No,Research & Development,1,3,Life Sciences,4,Male,90,3,Research Scientist,4,Married,4735,7,No,15,4,80,2,19,4,4,13,11,2,9,Millenials
+1188,29,No,Sales,5,3,Medical,1,Male,43,2,Sales Executive,2,Divorced,4187,1,Yes,13,2,80,1,10,3,2,10,0,0,9,Millenials
+1189,33,No,Sales,2,4,Medical,4,Male,93,3,Sales Executive,4,Divorced,5505,1,No,14,3,80,2,6,5,3,6,2,0,4,Millenials
+1190,32,No,Research & Development,2,3,Medical,4,Male,45,3,Research Scientist,2,Divorced,5470,0,No,13,3,80,2,10,4,2,9,5,1,6,Millenials
+1191,31,No,Sales,5,4,Life Sciences,1,Female,67,3,Sales Executive,4,Married,5476,1,No,11,1,80,2,10,2,3,10,0,0,2,Millenials
+1192,49,No,Research & Development,16,3,Medical,4,Female,74,3,Laboratory Technician,1,Divorced,2587,4,Yes,16,2,80,1,17,2,2,2,2,2,2,Gen X
+1193,38,No,Research & Development,2,3,Medical,4,Female,42,2,Laboratory Technician,2,Single,2440,1,No,22,2,80,0,4,3,3,4,3,3,3,Millenials
+1194,47,No,Sales,2,4,Life Sciences,2,Female,47,4,Manager,2,Divorced,15972,6,No,14,3,80,3,29,2,3,3,2,1,2,Gen X
+1195,49,No,Research & Development,1,3,Life Sciences,3,Male,36,3,Manager,3,Single,15379,4,No,14,1,80,0,23,2,3,8,7,0,0,Gen X
+1196,41,No,Sales,23,2,Life Sciences,4,Male,80,3,Sales Executive,3,Single,7082,3,Yes,16,4,80,0,21,2,3,2,0,0,2,Gen X
+1197,20,No,Sales,9,1,Life Sciences,4,Male,54,3,Sales Representative,1,Single,2728,1,No,11,1,80,0,2,3,3,2,2,0,2,Gen Z
+1198,33,No,Sales,16,3,Life Sciences,3,Female,36,3,Sales Executive,4,Divorced,5368,1,Yes,25,3,80,1,7,2,3,6,5,1,2,Millenials
+1199,36,No,Research & Development,26,4,Life Sciences,1,Male,80,3,Healthcare Representative,3,Married,5347,6,No,14,2,80,2,10,2,2,3,2,0,2,Millenials
+1200,44,No,Human Resources,1,3,Life Sciences,3,Female,44,3,Human Resources,4,Divorced,3195,4,Yes,18,1,80,3,8,2,3,2,2,2,2,Gen X
+1201,23,Yes,Research & Development,8,1,Medical,4,Male,93,2,Laboratory Technician,3,Single,3989,1,Yes,11,1,80,0,5,2,3,5,4,1,2,Gen Z
+1202,38,No,Research & Development,4,2,Medical,4,Female,87,3,Laboratory Technician,3,Married,3306,7,No,19,4,80,1,7,5,2,0,0,0,0,Millenials
+1203,53,No,Research & Development,24,4,Medical,2,Male,48,4,Healthcare Representative,4,Married,7005,3,No,15,3,80,0,11,2,3,4,3,1,2,Gen X
+1204,48,Yes,Sales,7,2,Medical,4,Female,95,3,Sales Representative,3,Married,2655,2,Yes,11,3,80,2,19,3,3,9,7,7,7,Gen X
+1205,32,Yes,Research & Development,2,4,Life Sciences,4,Male,95,3,Laboratory Technician,2,Single,1393,1,No,12,1,80,0,1,2,3,1,0,0,0,Millenials
+1206,26,No,Research & Development,7,3,Medical,4,Male,76,3,Laboratory Technician,4,Single,2570,1,No,20,3,80,0,7,5,3,7,7,5,7,Millenials
+1207,55,No,Research & Development,22,3,Technical Degree,1,Male,94,2,Research Scientist,2,Divorced,3537,5,No,12,4,80,1,8,1,3,4,2,1,2,Gen X
+1208,34,No,Research & Development,5,2,Medical,2,Male,57,2,Laboratory Technician,4,Married,3986,1,No,14,3,80,1,15,3,4,15,10,4,13,Millenials
+1209,60,No,Research & Development,1,4,Medical,3,Male,92,1,Healthcare Representative,4,Divorced,10883,3,No,20,3,80,1,19,2,4,1,0,0,0,Baby Boomers
+1210,33,No,Research & Development,21,3,Medical,2,Male,79,4,Laboratory Technician,2,Married,2028,1,No,18,4,80,3,14,6,3,14,11,2,13,Millenials
+1211,37,No,Sales,1,4,Medical,3,Male,31,1,Sales Executive,4,Divorced,9525,1,No,14,3,80,2,6,2,2,6,3,1,3,Millenials
+1212,34,No,Research & Development,19,3,Life Sciences,2,Female,35,2,Research Scientist,4,Married,2929,1,No,12,2,80,0,10,3,3,10,9,8,7,Millenials
+1213,23,Yes,Sales,7,3,Life Sciences,3,Male,99,3,Sales Representative,4,Divorced,2275,1,Yes,21,2,80,1,3,2,3,3,2,0,2,Gen Z
+1214,44,No,Research & Development,2,3,Life Sciences,3,Female,96,4,Healthcare Representative,4,Married,7879,1,Yes,19,2,80,1,9,2,3,8,7,6,7,Gen X
+1215,35,No,Research & Development,2,4,Medical,1,Male,79,2,Research Scientist,4,Single,4930,0,Yes,14,3,80,0,6,2,4,5,4,1,4,Millenials
+1216,43,No,Sales,2,3,Medical,4,Male,73,3,Sales Executive,4,Married,7847,1,Yes,17,1,80,1,10,3,3,10,9,8,8,Gen X
+1217,24,No,Research & Development,9,3,Medical,3,Male,62,4,Research Scientist,3,Married,4401,1,No,16,4,80,1,5,1,3,5,3,0,4,Gen Z
+1218,41,No,Sales,6,3,Marketing,4,Male,35,3,Sales Executive,3,Single,9241,1,No,12,2,80,0,10,3,3,10,8,8,7,Gen X
+1219,29,No,Research & Development,9,4,Medical,4,Female,43,3,Laboratory Technician,3,Married,2974,9,No,17,3,80,1,9,2,3,5,3,1,2,Millenials
+1220,36,No,Sales,2,4,Life Sciences,3,Female,51,3,Sales Representative,4,Single,4502,3,No,15,3,80,0,17,2,2,13,7,6,7,Millenials
+1221,45,No,Research & Development,1,1,Life Sciences,3,Male,74,2,Healthcare Representative,3,Married,10748,3,No,23,4,80,1,25,3,2,23,15,14,4,Gen X
+1222,24,Yes,Human Resources,22,1,Human Resources,4,Male,58,1,Human Resources,3,Married,1555,1,No,11,3,80,1,1,2,3,1,0,0,0,Gen Z
+1223,47,Yes,Sales,9,3,Life Sciences,3,Male,82,1,Sales Executive,3,Married,12936,7,No,11,3,80,0,25,3,1,23,5,14,10,Gen X
+1224,26,No,Research & Development,17,4,Medical,4,Male,62,1,Laboratory Technician,3,Married,2305,1,No,15,3,80,3,3,3,4,3,2,0,2,Millenials
+1225,45,No,Research & Development,28,2,Technical Degree,4,Female,48,2,Research Director,2,Single,16704,1,No,11,3,80,0,21,2,3,21,6,8,6,Gen X
+1226,32,No,Research & Development,10,3,Life Sciences,1,Male,56,3,Research Scientist,3,Married,3433,6,No,13,1,80,1,10,3,2,5,2,1,3,Millenials
+1227,31,No,Research & Development,2,4,Life Sciences,2,Male,69,3,Laboratory Technician,3,Married,3477,1,No,14,4,80,1,6,2,4,5,2,0,3,Millenials
+1228,41,No,Human Resources,4,3,Human Resources,3,Male,60,1,Human Resources,2,Married,6430,6,No,19,2,80,1,10,4,3,3,2,1,2,Gen X
+1229,40,No,Research & Development,8,2,Life Sciences,2,Female,92,3,Manufacturing Director,1,Married,6516,2,Yes,16,2,80,1,18,3,3,1,0,0,0,Millenials
+1230,24,No,Research & Development,29,1,Medical,2,Male,91,3,Laboratory Technician,1,Divorced,3907,1,No,13,2,80,3,6,2,4,6,2,1,2,Gen Z
+1231,46,No,Research & Development,13,4,Life Sciences,3,Male,34,3,Healthcare Representative,2,Single,5562,6,No,14,4,80,0,19,3,3,10,7,0,9,Gen X
+1232,35,No,Research & Development,27,4,Life Sciences,4,Male,49,3,Manufacturing Director,3,Married,6883,2,No,16,2,80,1,17,3,3,7,7,0,7,Millenials
+1233,30,No,Research & Development,16,1,Life Sciences,2,Male,33,3,Research Scientist,4,Married,2862,1,No,12,2,80,1,10,2,2,10,0,0,8,Millenials
+1234,47,No,Sales,2,4,Marketing,3,Male,87,3,Sales Executive,2,Married,4978,7,No,11,4,80,1,4,3,1,1,0,0,0,Gen X
+1235,46,No,Sales,2,3,Life Sciences,3,Male,74,3,Sales Executive,4,Divorced,10368,4,Yes,12,2,80,1,13,5,2,10,6,0,3,Gen X
+1236,36,Yes,Sales,13,5,Marketing,2,Male,96,2,Sales Executive,1,Divorced,6134,5,Yes,13,2,80,3,16,3,3,2,2,2,2,Millenials
+1237,32,Yes,Sales,1,2,Life Sciences,1,Male,34,1,Sales Executive,2,Single,6735,6,No,15,2,80,0,10,2,3,0,0,0,0,Millenials
+1238,23,No,Research & Development,4,1,Medical,3,Female,51,3,Laboratory Technician,2,Single,3295,1,No,13,3,80,0,3,3,1,3,2,1,2,Gen Z
+1239,31,No,Research & Development,24,1,Technical Degree,4,Female,30,3,Manufacturing Director,4,Single,5238,2,No,20,4,80,0,9,3,2,5,4,1,4,Millenials
+1240,39,No,Research & Development,1,3,Life Sciences,4,Male,77,3,Laboratory Technician,4,Married,6472,1,Yes,15,4,80,1,9,2,3,9,8,5,8,Millenials
+1241,32,No,Sales,19,3,Life Sciences,4,Male,80,1,Sales Executive,3,Married,9610,3,No,13,3,80,1,10,2,1,4,3,0,2,Millenials
+1242,40,No,Sales,7,4,Medical,2,Male,88,3,Manager,2,Single,19833,1,No,14,2,80,0,21,3,2,21,8,12,8,Millenials
+1243,45,No,Human Resources,4,3,Life Sciences,3,Female,56,1,Human Resources,3,Married,9756,4,No,21,3,80,2,9,2,4,5,0,0,3,Gen X
+1244,30,No,Research & Development,2,4,Technical Degree,4,Female,78,2,Research Scientist,1,Single,4968,0,No,16,4,80,0,10,2,3,9,7,0,7,Millenials
+1245,24,No,Human Resources,10,3,Medical,1,Male,59,3,Human Resources,4,Married,2145,0,No,14,4,80,1,3,2,3,2,2,2,1,Gen Z
+1246,30,Yes,Human Resources,8,3,Human Resources,3,Female,66,2,Human Resources,4,Divorced,2180,6,No,11,3,80,1,6,0,2,4,2,1,2,Millenials
+1247,31,No,Sales,5,3,Technical Degree,1,Male,51,3,Sales Executive,3,Married,8346,1,No,19,3,80,1,6,3,3,5,2,0,2,Millenials
+1248,27,No,Research & Development,8,3,Medical,3,Female,67,3,Research Scientist,4,Single,3445,1,No,11,3,80,0,6,5,2,6,2,1,4,Millenials
+1249,29,Yes,Sales,9,3,Marketing,2,Female,52,1,Sales Representative,2,Single,2760,1,No,13,3,80,0,2,3,3,2,2,2,2,Millenials
+1250,29,No,Research & Development,1,3,Life Sciences,4,Male,70,4,Healthcare Representative,3,Single,6294,8,Yes,12,4,80,0,10,5,4,3,2,0,2,Millenials
+1251,30,No,Sales,15,2,Marketing,3,Male,94,2,Sales Executive,1,Divorced,7140,2,No,11,1,80,1,12,2,3,7,7,1,7,Millenials
+1252,34,No,Research & Development,2,4,Medical,4,Male,97,4,Research Scientist,4,Married,2932,0,Yes,14,1,80,3,6,3,3,5,0,1,2,Millenials
+1253,33,No,Sales,2,3,Marketing,4,Female,62,3,Sales Executive,2,Single,5147,8,No,15,4,80,0,13,2,2,11,7,1,7,Millenials
+1254,49,No,Sales,11,4,Marketing,4,Female,80,3,Sales Executive,4,Single,4507,3,No,12,3,80,0,8,1,4,5,1,0,4,Gen X
+1255,33,Yes,Sales,16,3,Life Sciences,1,Female,74,3,Sales Executive,1,Single,8564,2,Yes,20,3,80,0,11,2,2,0,0,0,0,Millenials
+1256,38,No,Research & Development,2,2,Medical,3,Female,75,2,Laboratory Technician,2,Married,2468,4,No,14,2,80,1,9,4,2,6,1,0,5,Millenials
+1257,31,Yes,Sales,16,4,Marketing,1,Male,70,3,Sales Executive,3,Married,8161,2,No,13,1,80,3,10,2,3,1,0,0,0,Millenials
+1258,29,No,Research & Development,4,3,Technical Degree,4,Female,91,2,Research Scientist,1,Divorced,2109,1,No,13,3,80,1,1,2,3,1,0,0,0,Millenials
+1259,30,No,Research & Development,16,3,Life Sciences,3,Male,58,4,Healthcare Representative,3,Married,5294,3,No,16,3,80,1,10,3,3,7,0,1,7,Millenials
+1260,32,No,Research & Development,5,4,Technical Degree,2,Male,65,3,Research Scientist,2,Single,2718,2,No,14,2,80,0,12,3,3,7,7,0,7,Millenials
+1261,38,No,Research & Development,18,3,Medical,2,Male,60,1,Healthcare Representative,4,Married,5811,3,Yes,16,3,80,1,15,2,3,1,0,1,0,Millenials
+1262,43,Yes,Research & Development,17,3,Technical Degree,3,Male,38,2,Research Scientist,3,Married,2437,9,Yes,16,4,80,1,6,4,3,1,0,0,0,Gen X
+1263,42,No,Research & Development,12,3,Medical,2,Male,57,3,Laboratory Technician,2,Divorced,2766,8,No,22,2,80,3,7,6,2,5,3,0,4,Gen X
+1264,55,No,Research & Development,2,3,Medical,3,Male,60,2,Research Director,1,Married,19038,8,No,12,2,80,3,34,2,3,1,0,0,0,Gen X
+1265,33,No,Research & Development,4,3,Technical Degree,4,Male,90,3,Research Scientist,2,Divorced,3055,5,No,15,4,80,2,11,2,2,9,8,1,7,Millenials
+1266,41,No,Research & Development,9,4,Life Sciences,3,Male,94,3,Laboratory Technician,1,Divorced,2289,1,No,20,2,80,2,5,2,3,5,3,0,4,Gen X
+1267,34,No,Sales,10,3,Life Sciences,4,Male,87,3,Sales Executive,3,Divorced,4001,1,Yes,14,3,80,1,15,3,3,15,14,0,7,Millenials
+1268,53,No,Research & Development,1,4,Medical,1,Female,60,2,Manufacturing Director,3,Married,12965,4,Yes,20,4,80,3,27,2,2,3,2,0,2,Gen X
+1269,43,No,Human Resources,2,3,Life Sciences,2,Male,97,3,Human Resources,4,Single,3539,0,No,13,2,80,0,10,5,3,9,7,1,8,Gen X
+1270,34,No,Sales,3,2,Life Sciences,4,Female,32,1,Sales Executive,4,Single,6029,5,No,12,1,80,0,6,3,3,2,2,2,2,Millenials
+1271,21,Yes,Sales,7,1,Marketing,2,Male,31,3,Sales Representative,2,Single,2679,1,No,13,2,80,0,1,3,3,1,0,1,0,Gen Z
+1272,38,No,Research & Development,6,2,Other,4,Female,40,2,Laboratory Technician,3,Married,3702,1,No,11,2,80,1,5,3,3,5,4,0,4,Millenials
+1273,22,Yes,Research & Development,8,1,Medical,3,Female,79,3,Laboratory Technician,1,Married,2398,1,Yes,17,3,80,0,1,6,3,1,0,0,0,Gen Z
+1274,31,No,Sales,29,4,Marketing,1,Female,91,2,Sales Executive,4,Married,5468,1,No,14,1,80,2,13,3,3,12,7,5,7,Millenials
+1275,51,No,Research & Development,3,3,Technical Degree,1,Female,53,3,Manager,3,Married,13116,2,No,11,4,80,0,15,2,3,2,2,2,2,Gen X
+1276,37,No,Sales,9,2,Marketing,2,Male,46,2,Sales Executive,2,Married,4189,1,No,14,1,80,2,5,2,3,5,2,0,3,Millenials
+1277,46,No,Research & Development,2,4,Medical,3,Male,46,3,Research Director,4,Divorced,19328,7,Yes,17,3,80,1,24,3,3,2,1,2,2,Gen X
+1278,36,No,Research & Development,10,3,Life Sciences,4,Male,90,3,Healthcare Representative,1,Married,8321,7,Yes,13,4,80,1,15,1,3,12,8,5,7,Millenials
+1279,44,Yes,Research & Development,1,2,Medical,3,Male,99,3,Research Scientist,2,Divorced,2342,1,Yes,12,3,80,3,6,2,2,5,3,2,3,Gen X
+1280,37,No,Human Resources,8,2,Other,3,Male,89,3,Human Resources,2,Divorced,4071,2,No,13,3,80,0,19,4,2,10,0,4,7,Millenials
+1281,35,Yes,Sales,27,3,Life Sciences,3,Male,84,3,Sales Executive,4,Single,5813,1,Yes,18,4,80,0,10,2,3,10,7,7,7,Millenials
+1282,33,No,Research & Development,8,4,Life Sciences,4,Male,90,4,Research Scientist,1,Married,3143,6,No,19,2,80,1,14,1,3,10,8,7,6,Millenials
+1283,28,No,Research & Development,1,3,Life Sciences,3,Male,82,3,Research Scientist,4,Married,2044,1,No,11,3,80,1,5,6,4,5,3,0,3,Millenials
+1284,39,No,Research & Development,10,1,Medical,3,Male,65,3,Research Director,3,Single,13464,7,No,21,3,80,0,9,3,3,4,3,2,2,Millenials
+1285,46,No,Sales,26,2,Life Sciences,2,Male,98,2,Sales Executive,2,Single,7991,8,No,15,3,80,0,6,3,3,2,2,2,2,Gen X
+1286,40,No,Research & Development,2,2,Life Sciences,3,Female,99,3,Laboratory Technician,1,Married,3377,4,No,17,4,80,1,7,5,2,4,3,0,2,Millenials
+1287,42,No,Research & Development,13,3,Medical,2,Male,95,4,Healthcare Representative,1,Married,5538,5,No,18,3,80,2,10,2,2,0,0,0,0,Gen X
+1288,35,No,Research & Development,2,2,Medical,2,Male,90,3,Manufacturing Director,4,Divorced,5762,2,No,14,3,80,1,15,6,3,7,7,1,7,Millenials
+1289,38,No,Human Resources,2,3,Human Resources,1,Male,100,3,Human Resources,2,Divorced,2592,5,No,13,4,80,3,13,3,3,11,10,3,8,Millenials
+1290,34,Yes,Research & Development,9,4,Life Sciences,4,Male,93,3,Laboratory Technician,1,Married,5346,4,No,17,3,80,1,11,3,2,7,1,0,7,Millenials
+1291,37,Yes,Research & Development,10,4,Medical,4,Male,58,3,Manufacturing Director,1,Single,4213,1,No,15,2,80,0,10,4,1,10,3,0,8,Millenials
+1292,39,No,Sales,20,3,Life Sciences,3,Male,83,3,Sales Executive,4,Divorced,4127,2,No,18,4,80,1,7,6,3,2,1,2,2,Millenials
+1293,43,No,Research & Development,9,3,Life Sciences,1,Male,52,3,Research Scientist,3,Single,2438,4,No,13,3,80,0,7,2,2,3,2,1,2,Gen X
+1294,41,No,Research & Development,5,3,Life Sciences,2,Male,85,4,Healthcare Representative,2,Single,6870,3,No,12,1,80,0,11,3,1,3,2,1,2,Gen X
+1295,41,No,Sales,4,1,Marketing,3,Female,81,3,Sales Executive,3,Divorced,10447,0,Yes,13,4,80,1,23,3,4,22,14,13,5,Gen X
+1296,30,No,Research & Development,10,3,Medical,1,Female,64,3,Manufacturing Director,3,Single,9667,9,No,14,2,80,0,9,3,3,7,7,0,2,Millenials
+1297,26,Yes,Human Resources,20,2,Medical,4,Female,69,3,Human Resources,2,Married,2148,0,Yes,11,3,80,0,6,3,3,5,1,1,4,Millenials
+1298,46,Yes,Research & Development,21,2,Medical,4,Female,66,3,Healthcare Representative,2,Married,8926,4,No,22,4,80,1,13,2,4,9,7,3,7,Gen X
+1299,40,No,Research & Development,1,3,Life Sciences,3,Female,52,3,Healthcare Representative,4,Divorced,6513,4,No,17,4,80,1,12,3,3,5,3,0,3,Millenials
+1300,34,No,Sales,8,2,Technical Degree,2,Male,92,4,Sales Executive,3,Married,6799,1,No,21,3,80,2,10,5,3,10,8,4,8,Millenials
+1301,58,No,Sales,2,3,Medical,2,Male,52,3,Manager,2,Divorced,16291,4,No,22,4,80,1,37,0,2,16,9,14,14,Baby Boomers
+1302,35,No,Research & Development,23,4,Medical,2,Male,91,1,Laboratory Technician,3,Married,2705,0,No,16,2,80,1,6,2,4,5,4,0,3,Millenials
+1303,47,No,Research & Development,4,3,Life Sciences,3,Female,92,2,Manufacturing Director,2,Divorced,10333,8,Yes,12,3,80,1,28,4,3,22,11,14,10,Gen X
+1304,40,No,Research & Development,12,3,Life Sciences,2,Female,47,3,Healthcare Representative,1,Divorced,4448,2,No,12,2,80,1,15,3,3,7,4,7,7,Millenials
+1305,54,No,Research & Development,7,4,Medical,4,Female,68,3,Research Scientist,4,Married,6854,4,No,15,2,80,1,14,2,2,7,1,1,7,Gen X
+1306,31,No,Sales,7,4,Marketing,1,Female,68,3,Sales Executive,1,Married,9637,2,No,14,4,80,2,9,3,3,3,2,2,2,Millenials
+1307,28,No,Research & Development,1,3,Medical,3,Female,67,3,Research Scientist,1,Married,3591,1,No,25,3,80,1,3,3,3,3,2,1,2,Millenials
+1308,38,No,Sales,2,4,Marketing,2,Female,77,1,Sales Representative,4,Married,5405,2,Yes,20,1,80,2,20,4,2,4,2,0,3,Millenials
+1309,26,No,Sales,10,3,Medical,3,Male,46,3,Sales Executive,4,Single,4684,1,No,13,1,80,0,5,4,3,5,3,1,2,Millenials
+1310,58,No,Research & Development,15,4,Life Sciences,1,Male,87,3,Research Director,3,Married,15787,2,Yes,14,2,80,0,23,3,3,2,2,2,2,Baby Boomers
+1311,18,No,Research & Development,14,3,Medical,2,Female,33,3,Research Scientist,3,Single,1514,1,No,16,3,80,0,0,4,1,0,0,0,0,Gen Z
+1312,31,Yes,Human Resources,18,5,Human Resources,4,Male,89,4,Human Resources,1,Married,2956,0,No,17,3,80,0,2,4,3,1,0,0,0,Millenials
+1313,29,Yes,Human Resources,13,3,Human Resources,1,Male,56,2,Human Resources,1,Divorced,2335,4,Yes,15,4,80,3,4,3,3,2,2,2,0,Millenials
+1314,45,No,Sales,2,4,Life Sciences,3,Female,67,3,Sales Executive,3,Married,5154,4,No,22,2,80,2,10,3,4,8,7,5,7,Gen X
+1315,36,No,Research & Development,2,4,Other,4,Female,73,3,Research Scientist,2,Married,6962,4,Yes,22,4,80,1,15,2,3,1,0,0,0,Millenials
+1316,43,No,Sales,2,4,Life Sciences,1,Male,92,3,Sales Executive,4,Married,5675,1,No,20,3,80,1,7,5,3,7,7,7,7,Gen X
+1317,27,No,Research & Development,5,2,Life Sciences,4,Female,53,3,Laboratory Technician,4,Single,2379,0,Yes,14,3,80,0,6,3,2,5,4,0,2,Millenials
+1318,29,No,Research & Development,20,1,Medical,4,Male,40,3,Laboratory Technician,4,Married,3812,1,No,13,2,80,0,11,3,4,11,8,3,10,Millenials
+1319,32,No,Sales,10,4,Marketing,4,Male,79,3,Sales Executive,4,Single,4648,8,No,13,3,80,0,4,2,4,0,0,0,0,Millenials
+1320,42,No,Research & Development,10,4,Technical Degree,3,Male,38,3,Research Scientist,3,Married,2936,3,No,22,2,80,2,10,1,2,6,3,3,3,Gen X
+1321,47,No,Research & Development,9,4,Life Sciences,2,Female,64,3,Laboratory Technician,3,Single,2105,4,No,12,3,80,0,7,2,3,2,2,2,0,Gen X
+1322,46,No,Research & Development,2,2,Life Sciences,4,Male,82,3,Manufacturing Director,4,Divorced,8578,3,No,14,3,80,1,12,4,2,9,8,4,7,Gen X
+1323,28,No,Human Resources,1,2,Life Sciences,3,Male,43,3,Human Resources,4,Divorced,2706,1,No,15,2,80,1,3,2,3,3,2,2,2,Millenials
+1324,29,No,Research & Development,29,1,Life Sciences,4,Male,93,1,Healthcare Representative,3,Divorced,6384,8,No,17,4,80,2,11,3,3,7,0,1,6,Millenials
+1325,42,No,Research & Development,8,3,Life Sciences,4,Male,81,3,Laboratory Technician,3,Single,3968,4,No,13,4,80,0,8,3,3,0,0,0,0,Gen X
+1326,32,Yes,Sales,2,4,Marketing,3,Male,82,2,Sales Executive,2,Single,9907,7,Yes,12,3,80,0,7,3,2,2,2,2,2,Millenials
+1327,46,No,Sales,3,3,Technical Degree,1,Female,45,4,Sales Executive,1,Divorced,13225,2,No,12,4,80,1,25,5,3,19,17,2,8,Gen X
+1328,27,No,Sales,23,1,Medical,2,Female,36,2,Sales Representative,3,Married,3540,1,No,21,4,80,1,9,5,3,9,8,5,8,Millenials
+1329,29,No,Human Resources,6,1,Medical,4,Male,87,2,Human Resources,2,Married,2804,1,No,11,4,80,0,1,3,3,1,0,0,0,Millenials
+1330,43,No,Research & Development,6,3,Medical,1,Female,81,2,Manager,3,Married,19392,7,No,13,4,80,0,21,2,3,16,12,6,14,Gen X
+1331,48,No,Research & Development,10,3,Life Sciences,4,Male,91,2,Research Director,2,Married,19665,4,No,12,4,80,0,29,3,3,22,10,12,9,Gen X
+1332,29,Yes,Research & Development,24,2,Life Sciences,4,Male,73,2,Research Scientist,4,Single,2439,1,Yes,24,2,80,0,1,3,2,1,0,1,0,Millenials
+1333,46,Yes,Sales,10,3,Life Sciences,3,Female,64,3,Sales Executive,2,Married,7314,5,No,21,3,80,3,14,2,3,8,7,0,7,Gen X
+1334,27,No,Research & Development,15,3,Life Sciences,4,Female,77,2,Research Scientist,1,Married,4774,0,No,19,4,80,1,8,2,2,7,6,7,3,Millenials
+1335,39,No,Research & Development,19,4,Other,4,Male,41,3,Research Scientist,4,Divorced,3902,8,No,14,2,80,3,7,2,3,2,2,2,2,Millenials
+1336,55,No,Research & Development,2,4,Technical Degree,2,Male,98,2,Research Scientist,4,Married,2662,8,No,20,2,80,1,19,2,4,5,2,0,4,Gen X
+1337,28,No,Sales,3,3,Medical,2,Female,78,3,Sales Representative,2,Married,2856,1,No,19,4,80,1,1,3,3,1,0,0,0,Millenials
+1338,30,Yes,Sales,9,3,Medical,2,Male,89,3,Sales Representative,4,Single,1081,1,No,13,3,80,0,1,3,2,1,0,0,0,Millenials
+1339,22,Yes,Research & Development,7,1,Life Sciences,4,Male,75,3,Research Scientist,2,Single,2472,1,Yes,23,1,80,0,1,2,3,1,0,0,0,Gen Z
+1340,36,No,Sales,10,4,Technical Degree,2,Female,63,2,Sales Executive,3,Married,5673,1,Yes,13,1,80,1,10,4,3,10,9,1,7,Millenials
+1341,31,No,Research & Development,20,3,Life Sciences,2,Male,89,3,Laboratory Technician,3,Divorced,4197,1,No,11,1,80,1,10,2,3,10,8,0,2,Millenials
+1342,34,No,Sales,4,3,Life Sciences,3,Male,64,3,Sales Executive,4,Married,9713,2,Yes,13,4,80,3,9,3,3,5,3,1,0,Millenials
+1343,29,No,Research & Development,7,3,Life Sciences,4,Male,59,3,Laboratory Technician,1,Single,2062,3,No,14,2,80,0,11,2,3,3,2,1,2,Millenials
+1344,37,No,Research & Development,7,4,Medical,4,Male,78,3,Research Scientist,1,Married,4284,5,Yes,22,3,80,1,16,2,3,5,3,0,4,Millenials
+1345,35,No,Research & Development,16,2,Other,4,Female,44,2,Manufacturing Director,2,Married,4788,0,Yes,11,4,80,0,4,2,3,3,2,0,2,Millenials
+1346,45,No,Research & Development,25,2,Life Sciences,2,Female,93,2,Manufacturing Director,4,Married,5906,0,No,13,4,80,2,10,2,2,9,8,3,8,Gen X
+1347,36,No,Human Resources,2,1,Human Resources,2,Male,94,2,Human Resources,4,Single,3886,1,No,21,4,80,0,10,2,2,10,1,0,8,Millenials
+1348,40,No,Research & Development,1,4,Life Sciences,1,Male,98,3,Manager,1,Divorced,16823,2,No,11,1,80,1,22,3,3,19,7,11,16,Millenials
+1349,26,No,Research & Development,1,2,Life Sciences,2,Female,90,2,Research Scientist,3,Married,2933,1,Yes,13,3,80,1,1,3,2,1,0,1,0,Millenials
+1350,27,No,Sales,2,2,Medical,1,Female,89,4,Sales Executive,3,Single,6500,0,No,14,2,80,0,9,5,2,8,7,0,7,Millenials
+1351,48,No,Research & Development,22,3,Medical,4,Female,58,3,Manager,4,Divorced,17174,3,No,11,2,80,1,24,3,3,22,17,4,7,Gen X
+1352,44,No,Research & Development,1,4,Life Sciences,2,Male,78,4,Healthcare Representative,1,Married,5033,2,No,15,4,80,1,10,5,3,2,0,2,2,Gen X
+1353,34,Yes,Research & Development,16,4,Technical Degree,4,Male,85,1,Research Scientist,1,Married,2307,1,Yes,23,2,80,1,5,2,3,5,2,3,0,Millenials
+1354,56,Yes,Research & Development,24,2,Life Sciences,1,Male,97,3,Laboratory Technician,4,Single,2587,1,No,16,4,80,0,5,3,3,4,2,1,0,Baby Boomers
+1355,36,No,Sales,17,2,Marketing,3,Male,33,2,Sales Executive,2,Married,5507,2,No,16,3,80,2,12,1,1,4,2,1,3,Millenials
+1356,41,No,Sales,8,3,Marketing,3,Female,54,3,Sales Executive,2,Married,4393,5,No,21,3,80,1,14,3,3,5,4,1,4,Gen X
+1357,42,No,Research & Development,6,3,Medical,3,Male,83,3,Research Director,1,Married,13348,9,No,13,2,80,1,18,3,4,13,7,5,7,Gen X
+1358,31,No,Sales,10,2,Medical,3,Female,86,3,Sales Executive,4,Divorced,6583,2,Yes,11,4,80,1,8,2,3,5,2,1,4,Millenials
+1359,34,No,Sales,3,1,Medical,4,Female,75,2,Sales Executive,4,Married,8103,3,Yes,12,3,80,0,9,3,2,4,2,0,1,Millenials
+1360,31,No,Research & Development,4,3,Medical,1,Female,62,4,Laboratory Technician,3,Divorced,3978,8,No,12,2,80,1,4,0,2,2,2,2,2,Millenials
+1361,26,No,Research & Development,6,3,Other,3,Male,61,4,Laboratory Technician,4,Married,2544,0,No,18,1,80,1,8,3,3,7,7,7,7,Millenials
+1362,45,No,Research & Development,1,4,Medical,2,Male,44,3,Healthcare Representative,3,Single,5399,4,No,12,3,80,0,12,3,3,4,2,0,3,Gen X
+1363,33,No,Sales,10,4,Marketing,2,Male,43,3,Sales Executive,3,Single,5487,1,No,14,2,80,0,10,2,2,10,4,0,9,Millenials
+1364,28,No,Sales,1,2,Life Sciences,3,Male,42,2,Sales Executive,4,Married,6834,1,Yes,12,3,80,1,7,2,3,7,7,0,7,Millenials
+1365,29,Yes,Sales,24,3,Technical Degree,3,Male,45,4,Sales Representative,1,Single,1091,1,No,17,4,80,0,1,3,3,1,0,0,0,Millenials
+1366,39,No,Sales,21,4,Life Sciences,1,Female,32,1,Sales Executive,3,Married,5736,6,No,19,3,80,1,10,1,3,3,2,1,2,Millenials
+1367,27,No,Research & Development,2,4,Technical Degree,2,Male,41,3,Research Scientist,2,Married,2226,1,No,11,3,80,1,6,3,2,5,3,1,2,Millenials
+1368,34,No,Research & Development,22,4,Other,3,Male,86,2,Research Scientist,4,Married,5747,1,Yes,15,2,80,0,16,3,3,15,10,6,11,Millenials
+1369,28,Yes,Sales,13,2,Marketing,4,Female,84,3,Sales Executive,3,Single,9854,3,Yes,11,4,80,0,6,0,3,2,0,2,2,Millenials
+1370,47,No,Research & Development,14,4,Technical Degree,3,Male,64,3,Research Scientist,2,Married,5467,8,No,18,3,80,1,16,4,4,8,7,1,7,Gen X
+1371,56,No,Sales,11,5,Marketing,4,Female,89,2,Sales Executive,1,Married,5380,4,No,16,3,80,1,6,3,3,0,0,0,0,Baby Boomers
+1372,39,No,Research & Development,9,2,Medical,1,Male,87,3,Manufacturing Director,1,Married,5151,1,No,25,4,80,1,10,3,3,10,0,7,9,Millenials
+1373,38,No,Research & Development,8,3,Medical,4,Female,58,2,Research Scientist,2,Divorced,2133,1,Yes,16,3,80,1,20,3,3,20,11,0,7,Millenials
+1374,58,No,Sales,21,3,Life Sciences,4,Female,72,3,Manager,4,Married,17875,4,Yes,13,3,80,1,29,2,2,1,0,0,0,Baby Boomers
+1375,32,Yes,Research & Development,5,2,Life Sciences,1,Female,47,4,Research Scientist,3,Single,2432,3,Yes,14,1,80,0,8,2,3,4,1,0,3,Millenials
+1376,38,No,Research & Development,9,2,Life Sciences,2,Male,71,3,Research Scientist,4,Divorced,4771,2,No,19,4,80,2,10,0,4,5,2,0,3,Millenials
+1377,49,No,Research & Development,2,1,Life Sciences,2,Male,42,3,Research Director,4,Married,19161,3,No,15,4,80,0,28,3,3,5,4,4,3,Gen X
+1378,42,No,Sales,12,4,Marketing,2,Male,77,3,Sales Executive,4,Divorced,5087,3,Yes,12,3,80,2,14,4,3,0,0,0,0,Gen X
+1379,27,Yes,Human Resources,22,3,Human Resources,1,Female,58,2,Human Resources,2,Married,2863,1,No,12,1,80,0,1,2,3,1,0,0,0,Millenials
+1380,35,No,Sales,18,4,Medical,2,Male,71,3,Sales Executive,1,Married,5561,0,No,16,4,80,1,6,2,1,5,3,0,4,Millenials
+1381,28,No,Research & Development,16,3,Medical,3,Male,49,3,Research Scientist,3,Single,2144,1,No,14,3,80,0,5,3,2,5,3,1,4,Millenials
+1382,31,No,Research & Development,3,2,Medical,3,Male,48,3,Research Scientist,1,Divorced,3065,1,Yes,13,4,80,1,4,3,4,4,2,2,3,Millenials
+1383,36,No,Research & Development,9,4,Life Sciences,1,Male,66,4,Laboratory Technician,2,Married,2810,1,No,22,2,80,0,5,3,3,5,4,0,2,Millenials
+1384,34,No,Sales,1,3,Marketing,1,Male,32,3,Sales Executive,4,Single,9888,1,No,21,1,80,0,14,3,2,14,8,2,1,Millenials
+1385,34,No,Sales,13,4,Medical,4,Male,39,3,Sales Executive,3,Divorced,8628,1,No,18,3,80,1,9,2,2,8,7,1,1,Millenials
+1386,26,No,Research & Development,1,3,Medical,3,Male,95,3,Laboratory Technician,1,Single,2867,0,No,13,4,80,0,8,6,2,7,7,7,6,Millenials
+1387,29,No,Research & Development,1,3,Life Sciences,1,Male,89,3,Healthcare Representative,1,Married,5373,0,No,12,1,80,1,6,5,2,5,3,0,2,Millenials
+1388,32,No,Research & Development,15,4,Medical,3,Female,34,3,Healthcare Representative,4,Divorced,6667,5,No,18,2,80,1,9,6,3,5,1,1,2,Millenials
+1389,31,No,Research & Development,1,3,Life Sciences,4,Male,48,1,Research Scientist,1,Married,5003,1,No,21,2,80,0,10,6,3,10,8,8,7,Millenials
+1390,28,Yes,Research & Development,17,3,Technical Degree,3,Male,32,2,Laboratory Technician,4,Divorced,2367,5,No,12,1,80,1,6,2,2,4,1,0,3,Millenials
+1391,38,No,Sales,1,3,Life Sciences,1,Male,59,2,Sales Representative,1,Single,2858,4,No,14,1,80,0,20,3,2,1,0,0,0,Millenials
+1392,35,No,Sales,7,4,Life Sciences,3,Female,55,3,Sales Executive,4,Married,5204,1,Yes,11,4,80,0,10,2,3,10,8,0,9,Millenials
+1393,27,No,Sales,9,3,Marketing,4,Male,44,3,Sales Executive,4,Single,4105,1,No,14,1,80,0,7,5,3,7,7,0,7,Millenials
+1394,32,No,Research & Development,5,4,Life Sciences,4,Male,56,2,Manufacturing Director,4,Single,9679,8,No,24,2,80,0,8,1,3,1,0,0,0,Millenials
+1395,31,Yes,Sales,26,4,Marketing,1,Male,63,3,Sales Executive,4,Married,5617,1,Yes,11,3,80,0,10,4,3,10,7,0,8,Millenials
+1396,53,Yes,Sales,24,4,Life Sciences,1,Male,66,3,Sales Executive,1,Single,10448,6,Yes,13,2,80,0,15,2,2,2,2,2,2,Gen X
+1397,54,No,Research & Development,9,2,Life Sciences,1,Female,67,3,Research Scientist,3,Married,2897,3,No,11,3,80,2,9,6,2,4,3,2,3,Gen X
+1398,33,No,Research & Development,7,2,Life Sciences,4,Male,36,3,Healthcare Representative,3,Divorced,5968,1,No,20,3,80,3,9,2,3,9,7,2,8,Millenials
+1399,43,No,Research & Development,11,3,Life Sciences,1,Male,30,3,Healthcare Representative,3,Married,7510,1,No,17,2,80,1,10,1,3,10,9,0,9,Gen X
+1400,38,No,Human Resources,1,4,Other,4,Male,88,3,Human Resources,2,Married,2991,0,Yes,11,2,80,1,7,2,3,6,2,1,2,Millenials
+1401,55,No,Human Resources,26,4,Human Resources,3,Male,71,4,Manager,2,Married,19636,4,Yes,18,1,80,1,35,0,3,10,9,1,4,Gen X
+1402,31,No,Research & Development,2,1,Medical,4,Female,59,1,Laboratory Technician,4,Divorced,1129,1,Yes,11,3,80,3,1,4,3,1,0,0,0,Millenials
+1403,39,No,Sales,15,4,Marketing,2,Male,77,3,Sales Executive,1,Single,13341,0,No,12,1,80,0,21,3,3,20,8,11,10,Millenials
+1404,42,No,Research & Development,23,2,Life Sciences,4,Male,37,2,Research Scientist,3,Single,4332,1,No,12,4,80,0,20,2,3,20,9,3,7,Gen X
+1405,31,No,Research & Development,10,3,Medical,3,Female,40,3,Research Director,3,Married,11031,4,No,20,3,80,1,13,2,4,11,7,4,8,Millenials
+1406,54,No,Research & Development,10,3,Medical,3,Female,77,3,Manufacturing Director,1,Single,4440,6,Yes,19,4,80,0,9,3,3,5,2,1,4,Gen X
+1407,24,No,Research & Development,1,2,Life Sciences,2,Male,45,2,Healthcare Representative,3,Single,4617,1,No,12,2,80,0,4,2,2,4,3,1,2,Gen Z
+1408,23,No,Research & Development,12,2,Other,4,Male,78,3,Laboratory Technician,4,Single,2647,1,No,13,3,80,0,5,6,4,5,2,1,4,Gen Z
+1409,40,No,Research & Development,11,3,Technical Degree,4,Female,73,3,Laboratory Technician,3,Married,6323,1,No,11,1,80,1,10,2,4,10,9,9,4,Millenials
+1410,40,No,Sales,2,2,Marketing,2,Female,92,3,Sales Executive,2,Married,5677,3,No,14,3,80,1,15,4,3,11,8,5,10,Millenials
+1411,25,No,Human Resources,2,3,Human Resources,3,Female,82,3,Human Resources,2,Married,2187,4,No,14,3,80,0,6,3,3,2,0,1,2,Gen Z
+1412,30,No,Research & Development,1,2,Medical,4,Male,76,3,Laboratory Technician,2,Married,3748,1,No,13,3,80,0,12,6,2,12,8,1,7,Millenials
+1413,25,No,Research & Development,2,1,Other,4,Male,57,3,Laboratory Technician,3,Divorced,3977,6,Yes,19,3,80,1,7,2,2,2,2,0,2,Gen Z
+1414,47,No,Research & Development,25,3,Medical,1,Male,84,3,Healthcare Representative,3,Single,8633,2,No,23,2,80,0,25,3,3,17,14,12,11,Gen X
+1415,33,No,Research & Development,1,2,Medical,2,Male,59,2,Laboratory Technician,3,Divorced,2008,1,No,12,3,80,3,1,2,2,1,1,0,0,Millenials
+1416,38,No,Sales,1,4,Life Sciences,4,Male,86,3,Sales Executive,2,Married,4440,0,No,15,1,80,2,16,3,3,15,13,5,8,Millenials
+1417,31,No,Sales,2,2,Life Sciences,1,Male,54,3,Sales Representative,3,Married,3067,0,No,19,3,80,1,3,1,3,2,2,1,2,Millenials
+1418,38,No,Research & Development,6,4,Life Sciences,1,Male,72,2,Manufacturing Director,3,Married,5321,2,No,11,4,80,1,10,1,3,8,3,7,7,Millenials
+1419,42,No,Research & Development,18,4,Life Sciences,4,Male,35,3,Research Scientist,1,Divorced,5410,6,Yes,17,3,80,1,9,3,2,4,3,1,2,Gen X
+1420,41,No,Research & Development,1,3,Life Sciences,4,Male,76,3,Research Scientist,4,Married,2782,3,No,22,1,80,1,12,3,3,5,3,1,0,Gen X
+1421,47,No,Research & Development,1,1,Medical,3,Female,98,3,Research Director,2,Married,11957,0,No,18,1,80,2,14,3,1,13,8,5,12,Gen X
+1422,35,No,Research & Development,11,4,Medical,4,Male,43,3,Laboratory Technician,3,Married,2660,7,Yes,11,3,80,1,5,3,3,2,2,2,2,Millenials
+1423,22,No,Research & Development,1,2,Life Sciences,4,Male,63,3,Research Scientist,3,Single,3375,0,No,12,4,80,0,4,2,4,3,2,1,2,Gen Z
+1424,35,No,Research & Development,9,4,Medical,2,Male,48,3,Research Scientist,3,Single,5098,1,No,19,2,80,0,10,5,3,10,7,0,8,Millenials
+1425,33,No,Research & Development,15,2,Medical,2,Female,95,3,Healthcare Representative,4,Married,4878,0,Yes,13,1,80,1,10,6,3,9,7,8,1,Millenials
+1426,32,No,Research & Development,29,4,Life Sciences,3,Female,49,2,Laboratory Technician,2,Single,2837,1,No,13,3,80,0,6,3,3,6,2,4,1,Millenials
+1427,40,No,Research & Development,1,4,Life Sciences,1,Male,83,3,Laboratory Technician,4,Married,2406,8,No,19,3,80,2,8,3,2,1,0,0,0,Millenials
+1428,32,No,Sales,1,4,Medical,2,Male,68,2,Sales Representative,2,Married,2269,0,No,14,2,80,1,3,2,3,2,2,2,2,Millenials
+1429,39,No,Research & Development,24,1,Life Sciences,1,Male,52,3,Research Scientist,4,Single,4108,7,No,13,1,80,0,18,2,3,7,7,1,7,Millenials
+1430,38,No,Research & Development,10,3,Medical,2,Female,99,1,Research Director,3,Married,13206,3,No,12,1,80,1,20,3,3,18,16,1,11,Millenials
+1431,32,No,Sales,1,4,Marketing,3,Female,48,3,Sales Executive,4,Married,10422,1,No,19,3,80,2,14,3,3,14,10,5,7,Millenials
+1432,37,No,Research & Development,10,3,Life Sciences,3,Female,42,4,Research Director,4,Married,13744,1,Yes,25,1,80,1,16,2,3,16,11,6,8,Millenials
+1433,25,No,Sales,8,2,Other,1,Female,85,3,Sales Executive,3,Divorced,4907,0,Yes,22,2,80,1,6,3,2,5,3,0,4,Gen Z
+1434,52,No,Sales,29,4,Life Sciences,1,Male,40,3,Sales Representative,4,Divorced,3482,2,No,15,2,80,2,16,3,2,9,8,0,0,Gen X
+1435,44,No,Research & Development,1,3,Medical,2,Male,42,3,Research Scientist,4,Single,2436,6,Yes,12,3,80,0,6,2,3,4,3,1,2,Gen X
+1436,21,No,Sales,5,1,Medical,3,Male,58,3,Sales Representative,1,Single,2380,1,Yes,11,4,80,0,2,6,3,2,2,1,2,Gen Z
+1437,39,No,Research & Development,9,3,Life Sciences,4,Male,87,3,Manager,4,Single,19431,2,No,13,3,80,0,21,3,2,6,0,1,3,Millenials
+1438,23,Yes,Sales,9,3,Marketing,4,Male,33,3,Sales Representative,1,Married,1790,1,No,19,1,80,1,1,3,2,1,0,1,0,Gen Z
+1439,36,No,Sales,3,3,Medical,1,Female,94,2,Sales Executive,4,Married,7644,0,No,19,3,80,2,10,2,3,9,7,3,4,Millenials
+1440,36,No,Research & Development,4,2,Life Sciences,4,Female,97,3,Manufacturing Director,2,Divorced,5131,7,No,13,2,80,3,18,3,3,4,2,0,2,Millenials
+1441,56,No,Research & Development,1,4,Life Sciences,3,Male,57,3,Healthcare Representative,3,Divorced,6306,1,No,21,1,80,1,13,2,2,13,12,1,9,Baby Boomers
+1442,29,Yes,Research & Development,1,4,Medical,1,Male,36,3,Research Scientist,4,Married,4787,9,Yes,14,2,80,3,4,3,4,2,2,2,2,Millenials
+1443,42,No,Research & Development,2,3,Life Sciences,1,Male,56,3,Manager,3,Married,18880,5,No,11,1,80,0,24,2,2,22,6,4,14,Gen X
+1444,56,Yes,Research & Development,7,2,Technical Degree,4,Male,72,3,Laboratory Technician,3,Married,2339,8,No,11,4,80,1,14,4,1,10,9,9,8,Baby Boomers
+1445,41,No,Research & Development,28,4,Life Sciences,1,Female,60,2,Manufacturing Director,2,Married,13570,0,No,23,3,80,1,21,3,3,20,7,0,10,Gen X
+1446,34,No,Sales,28,3,Marketing,4,Female,95,2,Sales Executive,3,Married,6712,1,No,21,4,80,2,8,2,3,8,7,1,7,Millenials
+1447,36,No,Sales,15,4,Marketing,4,Male,88,1,Sales Executive,4,Divorced,5406,1,No,24,1,80,1,15,4,2,15,12,11,11,Millenials
+1448,41,No,Sales,3,3,Life Sciences,3,Male,57,2,Sales Executive,2,Divorced,8938,2,No,11,3,80,1,14,5,3,5,4,0,4,Gen X
+1449,32,No,Research & Development,2,3,Technical Degree,4,Male,78,3,Research Scientist,1,Single,2439,1,No,14,4,80,0,4,4,3,4,2,1,2,Millenials
+1450,35,No,Human Resources,26,4,Life Sciences,3,Female,31,3,Human Resources,4,Single,8837,1,Yes,16,3,80,0,9,2,3,9,0,1,7,Millenials
+1451,38,No,Sales,10,2,Life Sciences,1,Female,100,3,Sales Executive,4,Married,5343,1,No,11,3,80,1,10,1,3,10,7,1,9,Millenials
+1452,50,Yes,Sales,1,4,Life Sciences,2,Male,94,3,Sales Executive,3,Divorced,6728,7,No,12,4,80,2,12,3,3,6,3,0,1,Gen X
+1453,36,No,Sales,11,4,Marketing,2,Female,100,2,Sales Executive,4,Married,6652,4,No,13,1,80,1,8,2,2,6,3,0,0,Millenials
+1454,45,No,Sales,20,3,Life Sciences,4,Female,50,3,Sales Executive,3,Single,4850,8,No,15,3,80,0,8,3,3,5,3,0,1,Gen X
+1455,40,No,Research & Development,2,4,Life Sciences,3,Male,52,2,Research Scientist,3,Single,2809,2,No,14,4,80,0,8,2,3,2,2,2,2,Millenials
+1456,35,No,Research & Development,18,4,Life Sciences,3,Male,80,3,Healthcare Representative,3,Married,5689,1,Yes,14,4,80,2,10,2,4,10,2,0,2,Millenials
+1457,40,No,Research & Development,2,4,Medical,3,Female,98,3,Research Scientist,3,Married,2001,2,No,14,2,80,3,20,2,3,5,3,0,2,Millenials
+1458,35,No,Research & Development,1,4,Life Sciences,3,Female,62,1,Research Scientist,4,Married,2977,1,No,12,4,80,1,4,5,3,4,3,1,1,Millenials
+1459,29,No,Research & Development,13,2,Other,4,Male,46,2,Laboratory Technician,2,Married,4025,4,Yes,13,1,80,1,10,2,3,4,3,0,3,Millenials
+1460,29,No,Research & Development,28,4,Medical,4,Female,73,2,Research Scientist,1,Single,3785,1,No,14,2,80,0,5,3,1,5,4,0,4,Millenials
+1461,50,Yes,Sales,28,3,Marketing,4,Male,39,2,Sales Executive,1,Divorced,10854,4,Yes,13,2,80,1,20,3,3,3,2,2,0,Gen X
+1462,39,No,Sales,24,1,Marketing,2,Female,60,2,Sales Executive,4,Married,12031,0,No,11,1,80,1,21,2,2,20,9,9,6,Millenials
+1463,31,No,Research & Development,5,3,Medical,2,Male,74,3,Manufacturing Director,1,Single,9936,0,No,19,2,80,0,10,2,3,9,4,1,7,Millenials
+1464,26,No,Sales,5,3,Other,4,Female,30,2,Sales Representative,3,Single,2966,0,No,18,4,80,0,5,2,3,4,2,0,0,Millenials
+1465,36,No,Research & Development,23,2,Medical,3,Male,41,4,Laboratory Technician,4,Married,2571,4,No,17,3,80,1,17,3,3,5,2,0,3,Millenials
+1466,39,No,Research & Development,6,1,Medical,4,Male,42,2,Healthcare Representative,1,Married,9991,4,No,15,1,80,1,9,5,3,7,7,1,7,Millenials
+1467,27,No,Research & Development,4,3,Life Sciences,2,Male,87,4,Manufacturing Director,2,Married,6142,1,Yes,20,2,80,1,6,0,3,6,2,0,3,Millenials
+1468,49,No,Sales,2,3,Medical,4,Male,63,2,Sales Executive,2,Married,5390,2,No,14,4,80,0,17,3,2,9,6,0,8,Gen X
+1469,34,No,Research & Development,8,3,Medical,2,Male,82,4,Laboratory Technician,3,Married,4404,2,No,12,1,80,0,6,3,4,4,3,1,2,Millenials
