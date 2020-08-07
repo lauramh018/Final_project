@@ -26,7 +26,15 @@ def home():
     print("======================================")
     return render_template("index.html")
 
+@app.route("/dashboard")
+def dashboard():
+    print("======================================")
+    return render_template("Dashboard.html")
 
+@app.route("/model")
+def model():
+    print("======================================")
+    return render_template("Model.html")
 
 @app.route("/api/attrition", methods=["GET", 'POST'])
 def attrition_info():

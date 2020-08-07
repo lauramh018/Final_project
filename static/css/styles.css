@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-image:url('../..Resources/computer.jpg');
+    background-image:url('/static/images/computer.jpg');
     background-repeat: no-repeat;
     background-size:100% 100%;
 }
