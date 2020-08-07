@@ -161,6 +161,22 @@ def turnoverEnvSatisfaction():
         
     return jsonify({"generations": dff})
 
+@app.route("/api/turnover/jobrole", methods=["GET", 'POST'])
+def turnoverJobRole():
+    employees = pd.read_csv('Employee-Attrition.csv')
+    df = employees.loc[:,["JobRole","Attrition"]]
+    df["Total"] = df["JobRole"].count()
+    df["TotalTurnover"] = 0
+    tot = df.groupby("Attrition")["Attrition"].count()
+    df.loc[df["Attrition"] == "Yes", 'TotalTurnover'] = tot[1]
+    df.loc[df["Attrition"] == "No", 'TotalTurnover'] = tot[0]
+    df["TotalTurnover"].value_counts()
+    df1 = df.groupby(["Attrition","JobRole"]).agg({"JobRole":"count","TotalTurnover":"max"})
+    df1.rename(columns={'JobRole': 'JR'},inplace = True)
+    df1["Per"] = round((df1["JR"] / df1["TotalTurnover"])*100,2)
+    df1.reset_index(drop=False, inplace=True)
+    return jsonify({"employees": df1.to_dict()})
+
 
 if __name__ == "__main__":
     app.run(debug=True)
