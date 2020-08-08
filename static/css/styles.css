@@ -21,7 +21,7 @@ th, td {
     text-align: left;
   }
 tr:hover {background-color: #F5F5F5;}
-tr:nth-child(even) {background-color: #F2F2F2;}
+tr {background-color: #F2F2F2;}
 
  
  

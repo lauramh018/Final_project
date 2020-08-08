@@ -36,6 +36,11 @@ def model():
     print("======================================")
     return render_template("Model.html")
 
+@app.route("/att1")
+def table():
+    print("======================================")
+    return render_template("att1.html")
+
 @app.route("/api/attrition", methods=["GET", 'POST'])
 def attrition_info():
     with open('Employee_Attrition.json') as f:
