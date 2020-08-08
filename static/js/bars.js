@@ -22,7 +22,11 @@ d3.json("/api/turnover/generation").then((incomingData) =>{
 
   
   //var uniqueNames = ["Gen Z","Milennials","Gen X","Baby Boomers"];
-  var uniqueNames = ["Baby Boomers","Gen X","Milennials","Gen Z"];
+  var uniqueNames = []
+  console.log(generation/2)
+  for (k=0; k<generation.length/2;k++)
+    uniqueNames.push(generation[k])
+
   var x = ["Yes","No"];
   
   var traces = [];
