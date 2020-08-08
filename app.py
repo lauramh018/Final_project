@@ -110,7 +110,12 @@ def turnoverWorkLifeBalance():
     df["Generation"] = pd.cut(df["Birthdate"],bins=bins, labels=labels)
     df["Total"] = df["Age"].count()
     df.head()
-
+    df["Order"] = -1
+    df.loc[df["Generation"]=="Baby Boomers",["Order"]]=0
+    df.loc[df["Generation"]=="Gen X",["Order"]]=1
+    df.loc[df["Generation"]=="Milennials",["Order"]]=2
+    df.loc[df["Generation"]=="Gen Z",["Order"]]=3
+    df.sort_values(by="Order",inplace=True, ascending=True)
     dff = []
     for element in df["Generation"].unique():
         print(element)
@@ -132,7 +137,12 @@ def turnoverJobSatisfaction():
     labels = ["Baby Boomers","Gen X","Milennials","Gen Z"]
     df["Generation"] = pd.cut(df["Birthdate"],bins=bins, labels=labels)
     df["Total"] = df["Age"].count()
-
+    df["Order"] = -1
+    df.loc[df["Generation"]=="Baby Boomers",["Order"]]=0
+    df.loc[df["Generation"]=="Gen X",["Order"]]=1
+    df.loc[df["Generation"]=="Milennials",["Order"]]=2
+    df.loc[df["Generation"]=="Gen Z",["Order"]]=3
+    df.sort_values(by="Order",inplace=True, ascending=True)
     dff = []
     for element in df["Generation"].unique():
         print(element)
@@ -155,7 +165,12 @@ def turnoverEnvSatisfaction():
     labels = ["Baby Boomers","Gen X","Milennials","Gen Z"]
     df["Generation"] = pd.cut(df["Birthdate"],bins=bins, labels=labels)
     df["Total"] = df["Age"].count()
-
+    df["Order"] = -1
+    df.loc[df["Generation"]=="Baby Boomers",["Order"]]=0
+    df.loc[df["Generation"]=="Gen X",["Order"]]=1
+    df.loc[df["Generation"]=="Milennials",["Order"]]=2
+    df.loc[df["Generation"]=="Gen Z",["Order"]]=3
+    df.sort_values(by="Order",inplace=True, ascending=True)
     dff = []
     for element in df["Generation"].unique():
         print(element)
@@ -179,8 +194,35 @@ def turnoverJobRole():
     df1 = df.groupby(["Attrition","JobRole"]).agg({"JobRole":"count","TotalTurnover":"max"})
     df1.rename(columns={'JobRole': 'JR'},inplace = True)
     df1["Per"] = round((df1["JR"] / df1["TotalTurnover"])*100,2)
+    df1.sort_values(by=["Attrition","Per"], ascending=True, inplace=True)
     df1.reset_index(drop=False, inplace=True)
     return jsonify({"employees": df1.to_dict()})
+
+# Calculate numbers and percetages as json
+@app.route("/api/turnover/distance", methods=["GET", 'POST'])
+def turnoverDistance():
+    # Loading the data
+    employees = pd.read_csv('Employee-Attrition.csv')
+    df = employees.loc[:,["Age","Attrition","DistanceFromHome"]]
+    df["Birthdate"] = 2017 - df["Age"]
+    bins = [0,1964,1979,1995,2021]
+    labels = ["Baby Boomers","Gen X","Milennials","Gen Z"]
+    df["Generation"] = pd.cut(df["Birthdate"],bins=bins, labels=labels)
+    df["Total"] = df["Age"].count()
+    df["Order"] = -1
+    df.loc[df["Generation"]=="Baby Boomers",["Order"]]=0
+    df.loc[df["Generation"]=="Gen X",["Order"]]=1
+    df.loc[df["Generation"]=="Milennials",["Order"]]=2
+    df.loc[df["Generation"]=="Gen Z",["Order"]]=3
+    df.sort_values(by="Order",inplace=True, ascending=True)
+    dff = []
+    for element in df["Generation"].unique():
+        temp = df.loc[df["Generation"] == element,:].groupby(["Attrition"]).agg({"DistanceFromHome":"mean"})
+        temp["Generation"] = element
+        temp["DistanceFromHome"] = temp["DistanceFromHome"].round(2)
+        dff.append(temp.to_dict())
+
+    return jsonify({"generations": dff})
 
 
 if __name__ == "__main__":
