@@ -12,7 +12,7 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="static/css/styles.css">
+    
     
     <title>References</title>
 </head>
@@ -42,8 +42,8 @@
           <li class="nav-item">
             <a class="nav-link" href="/model">Neural Network</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/att1">References</a>
+          <li class="nav-item active">
+            <a class="nav-link" href="/att1">References<span class="sr-only">(current)</span></a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
@@ -52,218 +52,221 @@
       </div>
     </nav>
 
-<h2>Variables Used For The Analysis</h2>
+<div id="First" class="container">
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: center;">
-      <th></th>
-      <th>Column</th>
-      <th>Datatype</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>1</th>
-      <td>GENERATIONS</td>
-      <td>INTEGER</td>
-      <td>0 = BABY BOOMER, 1 = GEN X, 2= MILLENIALS, 3= GEN Z</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>ATTRITION</td>
-      <td>STRING</td>
-      <td>EMPLOYEE LEAVING THE COMPANY 0=NO 1=YES</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>BUSINESS TRAVEL</td>
-      <td>STRING</td>
-      <td>NO TRAVEL, TRAVEL FREQUENTLY, TRAVEL RARELY</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>DAILY RATE</td>
-      <td>INTEGER</td>
-      <td>SALARY LEVEL (USD)</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>DEPARTMENT</td>
-      <td>STRING</td>
-      <td>(HR, Research &amp; Development, Sales)</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>DISTANCE FROM HOME</td>
-      <td>INTEGER</td>
-      <td>THE DISTANCE FROM WORK TO HOME</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>EDUCATION</td>
-      <td>INTEGER</td>
-      <td>1-Below College, 2-College, 3-Bachelor, 4-Master,5-Doctor</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>EDUCATION FIELD</td>
-      <td>STRING</td>
-      <td>1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>EMPLOYEE NUMBER</td>
-      <td>INTEGER</td>
-      <td>EMPLOYEE ID</td>
-    </tr>
-    <tr>
-      <th>10</th>
-      <td>ENVIROMENT SATISFACTION</td>
-      <td>INTEGER</td>
-      <td>SATISFACTION WITH THE ENVIROMENT: 1-Low, 2-Medium, 3-High, 4-Very High</td>
-    </tr>
-    <tr>
-      <th>11</th>
-      <td>GENDER</td>
-      <td>STRING</td>
-      <td>FEMALE, MALE</td>
-    </tr>
-    <tr>
-      <th>12</th>
-      <td>HOURLY RATE</td>
-      <td>INTEGER</td>
-      <td>HOURLY SALARY</td>
-    </tr>
-    <tr>
-      <th>13</th>
-      <td>JOB INVOLVEMENT</td>
-      <td>INTEGER</td>
-      <td>JOB INVOLVEMENT</td>
-    </tr>
-    <tr>
-      <th>14</th>
-      <td>JOB LEVEL</td>
-      <td>INTEGER</td>
-      <td>LEVEL OF JOB</td>
-    </tr>
-    <tr>
-      <th>15</th>
-      <td>JOB ROLE</td>
-      <td>STRING</td>
-      <td>(1=HC REP, 2=HR, 3=LAB TECHNICIAN, 4=MANAGER, 5= MANAGING DIRECTOR, 6= REASEARCH DIRECTOR, 7= RESEARCH SCIENTIST, 8=SALES EXECUTIEVE, 9= SALES REPRESENTATIVE)</td>
-    </tr>
-    <tr>
-      <th>16</th>
-      <td>JOB SATISFACTION</td>
-      <td>INTEGER</td>
-      <td>1-LOW, 2-MEDIUM, 3-HIGH, 4-VERY HIGH</td>
-    </tr>
-    <tr>
-      <th>17</th>
-      <td>MARITAL STATUS</td>
-      <td>STRING</td>
-      <td>DIVORCED, MARRIED, SINGLE</td>
-    </tr>
-    <tr>
-      <th>18</th>
-      <td>MONTHLY INCOME</td>
-      <td>INTEGER</td>
-      <td>MONTHLY SALARY (USD)</td>
-    </tr>
-    <tr>
-      <th>19</th>
-      <td>MONTHY RATE</td>
-      <td>INTEGER</td>
-      <td>MONTHLY RATE (USD)</td>
-    </tr>
-    <tr>
-      <th>20</th>
-      <td>NUMCOMPANIES WORKED</td>
-      <td>INTEGER</td>
-      <td>NO. OF COMPANIES WORKED AT</td>
-    </tr>
-    <tr>
-      <th>21</th>
-      <td>OVERTIME</td>
-      <td>STRING</td>
-      <td>(NO,YES)</td>
-    </tr>
-    <tr>
-      <th>22</th>
-      <td>PERCENT SALARY HIKE</td>
-      <td>INTEGER</td>
-      <td>PERCENTAGE INCREASE IN SALARY</td>
-    </tr>
-    <tr>
-      <th>23</th>
-      <td>PERFORMANCE RATING</td>
-      <td>INTEGER</td>
-      <td>1 LOW, 2 GOOD, 3 EXCELLENT, 4 OUTSTANDING</td>
-    </tr>
-    <tr>
-      <th>24</th>
-      <td>RELATIONS SATISFACTION</td>
-      <td>INTEGER</td>
-      <td>1 LOW, 2 MEDIUM, 3 HIGH, 4 VERY HIGH</td>
-    </tr>
-    <tr>
-      <th>25</th>
-      <td>STANDARD HOURS</td>
-      <td>INTEGER</td>
-      <td>STANDARD HOURS</td>
-    </tr>
-    <tr>
-      <th>26</th>
-      <td>STOCK OPTIONS LEVEL</td>
-      <td>INTEGER</td>
-      <td>STOCK OPTIONS</td>
-    </tr>
-    <tr>
-      <th>27</th>
-      <td>TOTAL WORKING YEARS</td>
-      <td>INTEGER</td>
-      <td>TOTAL YEARS WORKED</td>
-    </tr>
-    <tr>
-      <th>28</th>
-      <td>TRAINING TIMES LAST YEAR</td>
-      <td>INTEGER</td>
-      <td>TOTAL TRAINNING TIMES LAST YEAR</td>
-    </tr>
-    <tr>
-      <th>29</th>
-      <td>WORK LIFE BALANCE</td>
-      <td>INTEGER</td>
-      <td>1 BAD, 2 GOOD, 3 BETTER, 4 BEST</td>
-    </tr>
-    <tr>
-      <th>30</th>
-      <td>YEARS AT COMPANY</td>
-      <td>INTEGER</td>
-      <td>TOTAL NUMBER OF YEARS AT THE COMPANY</td>
-    </tr>
-    <tr>
-      <th>31</th>
-      <td>YEARS IN CURRENT ROLE</td>
-      <td>INTEGER</td>
-      <td>YEARS IN CURRENT ROLE</td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td>YEARS SINCE LAST PROMOTION</td>
-      <td>INTEGER</td>
-      <td>LAST PROMOTION</td>
-    </tr>
-    <tr>
-      <th>33</th>
-      <td>YEARS WITH CURRENT MANAGER</td>
-      <td>INTEGER</td>
-      <td>YEARS SPENT WITH CURRENT MANAGER</td>
-    </tr>
-  </tbody>
-</table>
+  <h2>Variables Used For The Analysis</h2>
+
+  <table border="1" class="dataframe">
+    <thead>
+      <tr style="text-align: center;">
+        <th></th>
+        <th>Column</th>
+        <th>Datatype</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>1</th>
+        <td>GENERATIONS</td>
+        <td>INTEGER</td>
+        <td>0 = BABY BOOMER, 1 = GEN X, 2= MILLENIALS, 3= GEN Z</td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td>ATTRITION</td>
+        <td>STRING</td>
+        <td>EMPLOYEE LEAVING THE COMPANY 0=NO 1=YES</td>
+      </tr>
+      <tr>
+        <th>3</th>
+        <td>BUSINESS TRAVEL</td>
+        <td>STRING</td>
+        <td>NO TRAVEL, TRAVEL FREQUENTLY, TRAVEL RARELY</td>
+      </tr>
+      <tr>
+        <th>4</th>
+        <td>DAILY RATE</td>
+        <td>INTEGER</td>
+        <td>SALARY LEVEL (USD)</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td>DEPARTMENT</td>
+        <td>STRING</td>
+        <td>(HR, Research &amp; Development, Sales)</td>
+      </tr>
+      <tr>
+        <th>6</th>
+        <td>DISTANCE FROM HOME</td>
+        <td>INTEGER</td>
+        <td>THE DISTANCE FROM WORK TO HOME</td>
+      </tr>
+      <tr>
+        <th>7</th>
+        <td>EDUCATION</td>
+        <td>INTEGER</td>
+        <td>1-Below College, 2-College, 3-Bachelor, 4-Master,5-Doctor</td>
+      </tr>
+      <tr>
+        <th>8</th>
+        <td>EDUCATION FIELD</td>
+        <td>STRING</td>
+        <td>1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL</td>
+      </tr>
+      <tr>
+        <th>9</th>
+        <td>EMPLOYEE NUMBER</td>
+        <td>INTEGER</td>
+        <td>EMPLOYEE ID</td>
+      </tr>
+      <tr>
+        <th>10</th>
+        <td>ENVIROMENT SATISFACTION</td>
+        <td>INTEGER</td>
+        <td>SATISFACTION WITH THE ENVIROMENT: 1-Low, 2-Medium, 3-High, 4-Very High</td>
+      </tr>
+      <tr>
+        <th>11</th>
+        <td>GENDER</td>
+        <td>STRING</td>
+        <td>FEMALE, MALE</td>
+      </tr>
+      <tr>
+        <th>12</th>
+        <td>HOURLY RATE</td>
+        <td>INTEGER</td>
+        <td>HOURLY SALARY</td>
+      </tr>
+      <tr>
+        <th>13</th>
+        <td>JOB INVOLVEMENT</td>
+        <td>INTEGER</td>
+        <td>JOB INVOLVEMENT</td>
+      </tr>
+      <tr>
+        <th>14</th>
+        <td>JOB LEVEL</td>
+        <td>INTEGER</td>
+        <td>LEVEL OF JOB</td>
+      </tr>
+      <tr>
+        <th>15</th>
+        <td>JOB ROLE</td>
+        <td>STRING</td>
+        <td>(1=HC REP, 2=HR, 3=LAB TECHNICIAN, 4=MANAGER, 5= MANAGING DIRECTOR, 6= REASEARCH DIRECTOR, 7= RESEARCH SCIENTIST, 8=SALES EXECUTIEVE, 9= SALES REPRESENTATIVE)</td>
+      </tr>
+      <tr>
+        <th>16</th>
+        <td>JOB SATISFACTION</td>
+        <td>INTEGER</td>
+        <td>1-LOW, 2-MEDIUM, 3-HIGH, 4-VERY HIGH</td>
+      </tr>
+      <tr>
+        <th>17</th>
+        <td>MARITAL STATUS</td>
+        <td>STRING</td>
+        <td>DIVORCED, MARRIED, SINGLE</td>
+      </tr>
+      <tr>
+        <th>18</th>
+        <td>MONTHLY INCOME</td>
+        <td>INTEGER</td>
+        <td>MONTHLY SALARY (USD)</td>
+      </tr>
+      <tr>
+        <th>19</th>
+        <td>MONTHY RATE</td>
+        <td>INTEGER</td>
+        <td>MONTHLY RATE (USD)</td>
+      </tr>
+      <tr>
+        <th>20</th>
+        <td>NUMCOMPANIES WORKED</td>
+        <td>INTEGER</td>
+        <td>NO. OF COMPANIES WORKED AT</td>
+      </tr>
+      <tr>
+        <th>21</th>
+        <td>OVERTIME</td>
+        <td>STRING</td>
+        <td>(NO,YES)</td>
+      </tr>
+      <tr>
+        <th>22</th>
+        <td>PERCENT SALARY HIKE</td>
+        <td>INTEGER</td>
+        <td>PERCENTAGE INCREASE IN SALARY</td>
+      </tr>
+      <tr>
+        <th>23</th>
+        <td>PERFORMANCE RATING</td>
+        <td>INTEGER</td>
+        <td>1 LOW, 2 GOOD, 3 EXCELLENT, 4 OUTSTANDING</td>
+      </tr>
+      <tr>
+        <th>24</th>
+        <td>RELATIONS SATISFACTION</td>
+        <td>INTEGER</td>
+        <td>1 LOW, 2 MEDIUM, 3 HIGH, 4 VERY HIGH</td>
+      </tr>
+      <tr>
+        <th>25</th>
+        <td>STANDARD HOURS</td>
+        <td>INTEGER</td>
+        <td>STANDARD HOURS</td>
+      </tr>
+      <tr>
+        <th>26</th>
+        <td>STOCK OPTIONS LEVEL</td>
+        <td>INTEGER</td>
+        <td>STOCK OPTIONS</td>
+      </tr>
+      <tr>
+        <th>27</th>
+        <td>TOTAL WORKING YEARS</td>
+        <td>INTEGER</td>
+        <td>TOTAL YEARS WORKED</td>
+      </tr>
+      <tr>
+        <th>28</th>
+        <td>TRAINING TIMES LAST YEAR</td>
+        <td>INTEGER</td>
+        <td>TOTAL TRAINNING TIMES LAST YEAR</td>
+      </tr>
+      <tr>
+        <th>29</th>
+        <td>WORK LIFE BALANCE</td>
+        <td>INTEGER</td>
+        <td>1 BAD, 2 GOOD, 3 BETTER, 4 BEST</td>
+      </tr>
+      <tr>
+        <th>30</th>
+        <td>YEARS AT COMPANY</td>
+        <td>INTEGER</td>
+        <td>TOTAL NUMBER OF YEARS AT THE COMPANY</td>
+      </tr>
+      <tr>
+        <th>31</th>
+        <td>YEARS IN CURRENT ROLE</td>
+        <td>INTEGER</td>
+        <td>YEARS IN CURRENT ROLE</td>
+      </tr>
+      <tr>
+        <th>32</th>
+        <td>YEARS SINCE LAST PROMOTION</td>
+        <td>INTEGER</td>
+        <td>LAST PROMOTION</td>
+      </tr>
+      <tr>
+        <th>33</th>
+        <td>YEARS WITH CURRENT MANAGER</td>
+        <td>INTEGER</td>
+        <td>YEARS SPENT WITH CURRENT MANAGER</td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>
