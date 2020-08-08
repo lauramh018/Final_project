@@ -23,23 +23,26 @@ d3.json("/api/turnover/ages").then((Attrition) =>{
     count_N.push(employees_No["Count"][key])
     
   });
+  console.log(age_Y)
   
- 
   var trace1 = { 
-    x:age_Y,
-    y: count_Y, 
-    fill: 'tozeroy',
-    type: 'scatter', 
-    name : 'Yes',
-    mode: 'none' };
-
-  var trace2 = { 
     x:age_N ,
     y: count_N,
     fill: 'tonexty', 
     type: 'scatter', 
-    name : 'No',
-    mode: 'none' };
+    mode: 'none',
+    name: "No",
+   };
+ 
+  var trace2 = { 
+    x:age_Y,
+    y: count_Y, 
+    fill: 'tozeroy',
+    type: 'scatter', 
+    mode: 'none',
+    name: "Yes" };
+
+  
 
   var layout = { 
     title: 'Attrition by age ',
@@ -49,8 +52,8 @@ d3.json("/api/turnover/ages").then((Attrition) =>{
     /*width: 500,
     height: 300,*/
     showlegend: true,
-    xaxis:{title:"Age"},
-    yaxis:{title:"# Employees"}
+    xaxis:{title:"Ages"},
+    yaxis:{title:"Attrition"}
     }; 
   
 
@@ -60,7 +63,62 @@ d3.json("/api/turnover/ages").then((Attrition) =>{
 });
 
 
+// select the buttons
+var button1 = d3.select("#case1");
+button1.on("click",case1);
+var button2 = d3.select("#case2");
+button2.on("click",case2);
+var button3 = d3.select("#case3");
+button3.on("click",case3);
+var button4 = d3.select("#case4");
+button4.on("click",case4);
 
 
+function case1(){
+  d3.json(`/api/turnover/prediction`).then((incomingData) =>{
+    var predictions = incomingData.employees;
+    console.log(predictions["P1"][0])
+    var output = d3.select("#result1");
+    var result = output.append("h4");
+    result.text(predictions["P1"][0]);
+  })
 
+}
+
+function case2(){
+  d3.json(`/api/turnover/prediction`).then((incomingData) =>{
+    var predictions = incomingData.employees;
+    console.log(predictions["P2"][0])
+    var output = d3.select("#result2");
+    var result = output.append("h4");
+    result.text(predictions["P2"][0]);
+  })
+
+}
+function case3(){
+  d3.json(`/api/turnover/prediction`).then((incomingData) =>{
+    var predictions = incomingData.employees;
+    console.log(predictions["P3"][0])
+    var output = d3.select("#result3");
+    var result = output.append("h4");
+    result.text(predictions["P3"][0]);
+  })
+
+}
+function case4(){
+  d3.json(`/api/turnover/prediction`).then((incomingData) =>{
+    var predictions = incomingData.employees;
+    console.log(predictions["P4"][0])
+    var output = d3.select("#result4");
+    var result = output.append("h4");
+    result.text(predictions["P4"][0]);
+  })
+
+}
     
+
+
+  
+
+
+
