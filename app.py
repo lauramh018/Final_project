@@ -9,6 +9,8 @@ from flask import jsonify
 from flask import request
 import pandas as pd
 import json
+from tensorflow.keras.models import Sequential, save_model, load_model
+import numpy as np
 
 
 #################################################
@@ -35,6 +37,20 @@ def dashboard():
 def model():
     print("======================================")
     return render_template("Model.html")
+
+@app.route("/predictions")
+def predictions():
+    print("======================================")
+    return render_template("predictions.html")
+
+@app.route("/logistic")
+def logistic():
+    print("======================================")
+    return render_template("logistic.html")
+@app.route("/neural")
+def neural():
+    print("======================================")
+    return render_template("neural.html")
 
 @app.route("/api/attrition", methods=["GET", 'POST'])
 def attrition_info():
@@ -64,7 +80,7 @@ def turnoverGeneration():
     df.reset_index(drop=False, inplace=True)
     return jsonify({"employees": df.to_dict()})
 
-# Create the information to graph the attritin vs age as json
+# Create the information to graph the attrition vs age as json
 @app.route("/api/turnover/ages", methods=["GET", 'POST'])
 def age_turnover():
     # Loading the data
@@ -176,7 +192,34 @@ def turnoverJobRole():
     df1["Per"] = round((df1["JR"] / df1["TotalTurnover"])*100,2)
     df1.reset_index(drop=False, inplace=True)
     return jsonify({"employees": df1.to_dict()})
+# Create the information to graph the attritin vs age as json
+@app.route("/api/turnover/prediction", methods=["GET", 'POST'])
+def prediction():
+     ######  Creating the cases ######
 
+    case_1 = np.array([[22,1,1100,3,300,7,60,18000,10,3,2,3,3,3,4,1,2,1,4,3,2,1,3,0]])
+    case_2 = np.array([[32,0,5593,5,200,25,57,25838,7,22,15,11,2,4,4,1,3,1,3,3,3,4,4,1]])
+    case_3 = np.array([[45,1,1802,2,250,24,65,7067,6,38,15,34,3,2,3,1,3,3,2,1,2,2,5,1]])
+    case_4 = np.array([[26,0,2906,8,380,13,81,15198,13,17,5,6,4,4,4,1,0,2,4,4,3,3,1,1]])
+    ######  Loading the model ######
+    file_path = 'ML_Models/NN_01.hi'
+    model = load_model(file_path,compile=True)
+    ######  Making predictions ######
+    
+    prediction1 = model.predict(case_1)
+    prediction2 = model.predict(case_2)
+    prediction3 = model.predict(case_3)
+    prediction4 = model.predict(case_4)
+
+    # Generate arg maxes for predictions
+
+    classes1 = np.argmax(prediction1, axis = 1).tolist()
+    classes2 = np.argmax(prediction2, axis = 1).tolist()
+    classes3 = np.argmax(prediction3, axis = 1).tolist()
+    classes4 = np.argmax(prediction4, axis = 1).tolist()
+    
+
+    return jsonify({"employees": {"P1": classes1,"P2":classes2,"P3":classes3,"P4":classes4}})
 
 if __name__ == "__main__":
     app.run(debug=True)
