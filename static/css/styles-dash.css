@@ -17,3 +17,42 @@ body {
 #First {
     margin-top: 100px;
 }
+
+
+/* KPIS */
+.kpi {
+    background-color: #eeeeee;
+    height: 80px;
+    width: 80%;
+    text-align: center;
+    margin: 15px 5px;
+}
+
+.kpiNumber{
+    color:#20565C;
+    font-size: 30px;
+}
+
+.kpiBackground{
+    background-color: #eeeeee;
+    padding: 5px;
+    border-bottom: #20565C 2px solid;
+    
+}
+
+.kpiNumber2{
+    color:purple;
+    font-size: 30px;
+}
+
+.kpiBackground2{
+    background-color: #eeeeee;
+    padding: 5px;
+    color:purple;
+    border-bottom:  2px solid;
+}
+
+.kpiText{
+    color:black;
+    font-size: 15px;
+}

@@ -111,7 +111,7 @@ def overviewData():
         "yesPercentage" : round(float(percentages[1]*100),2),
         "yesNumber" : int(numbers[1])
     }
-    return jsonify({"employess": numbers})
+    return jsonify({"employees": numbers})
 
 # Calculate numbers and percetages as json
 @app.route("/api/turnover/worklifebalance", methods=["GET", 'POST'])
@@ -263,6 +263,32 @@ def turnoverDistance():
         temp = df.loc[df["Generation"] == element,:].groupby(["Attrition"]).agg({"DistanceFromHome":"mean"})
         temp["Generation"] = element
         temp["DistanceFromHome"] = temp["DistanceFromHome"].round(2)
+        dff.append(temp.to_dict())
+
+    return jsonify({"generations": dff})
+
+# Calculate numbers and percetages as json
+@app.route("/api/turnover/overtime", methods=["GET", 'POST'])
+def turnoverOverTime():
+    # Loading the data
+    employees = pd.read_csv('Employee-Attrition.csv')
+    df = employees.loc[employees["Attrition"] == "Yes",["Age","OverTime",]]
+    df["Birthdate"] = 2017 - df["Age"]
+    bins = [0,1964,1979,1995,2021]
+    labels = ["Baby Boomers","Gen X","Milennials","Gen Z"]
+    df["Generation"] = pd.cut(df["Birthdate"],bins=bins, labels=labels)
+    df["Total"] = df["Age"].count()
+    df["Order"] = -1
+    df.loc[df["Generation"]=="Baby Boomers",["Order"]]=0
+    df.loc[df["Generation"]=="Gen X",["Order"]]=1
+    df.loc[df["Generation"]=="Milennials",["Order"]]=2
+    df.loc[df["Generation"]=="Gen Z",["Order"]]=3
+    df.sort_values(by="Order",inplace=True, ascending=True)
+    dff = []
+    for element in df["Generation"].unique():
+        temp = df.loc[df["Generation"] == element,:].groupby(["OverTime"]).agg({"Age":"count"})
+        temp["Generation"] = element
+        temp["Total"] = round(temp["Age"] / temp["Age"].sum()*100,2)
         dff.append(temp.to_dict())
 
     return jsonify({"generations": dff})
