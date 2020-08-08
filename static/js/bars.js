@@ -1,5 +1,17 @@
 
 
+
+
+d3.json("/api/overview/data").then((incomingData) =>{
+    
+  var employees = incomingData.employees;
+  
+  $("#noNumber").text(employees["noNumber"].toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+  $("#noPercentage").text(`${employees["noPercentage"]}%`)
+  $("#yesNumber").text(employees["yesNumber"])
+  $("#yesPercentage").text(`${employees["yesPercentage"]}%`)
+});
+
 d3.json("/api/turnover/generation").then((incomingData) =>{
     
   var employees = incomingData.employees;
@@ -135,7 +147,7 @@ var data = traces;
   
 var layout = {
   barmode: 'stack',
-  title: 'Work-Life Balance by Generation for the people who left',
+  title: 'Work-Life Balance',
   font:{
     family: 'Raleway, sans-serif'
   },
@@ -215,7 +227,7 @@ var data = traces;
   
 var layout = {
   barmode: 'stack',
-  title: 'Job Satisfaction by Generation for the people who left',
+  title: 'Job Satisfaction',
   font:{
     family: 'Raleway, sans-serif'
   },
@@ -300,7 +312,7 @@ var data = traces;
   
 var layout = {
   barmode: 'stack',
-  title: 'Environment Satisfaction by Generation for the people who left',
+  title: 'Environment Satisfaction',
   font:{
     family: 'Raleway, sans-serif'
   },
@@ -555,7 +567,84 @@ d3.json("/api/turnover/ages").then((Attrition) =>{
   Plotly.newPlot('stacked', data, layout,{displayModeBar: false}, {responsive: true});
 });
 
-
+d3.json("/api/turnover/overtime").then((incomingData) =>{
+  
+  var generations = incomingData.generations;
+  
+  var values = [];
+  var gen = [];
+  var employees = [];
+  
+  var i = 0;
+  generations.forEach(generation => {
+  
+    var temp = [];
+    Object.keys(generation["Total"]).forEach(function(key){
+        temp.push(generation["Total"][key]);
+    });
+    values.push(temp)
+    
+    var tempGen = [];
+    Object.keys(generation["Generation"]).forEach(function(key){
+      tempGen.push(generation["Generation"][key]);
+    });
+    gen.push(tempGen)
+  
+    var tempEmp = [];
+    Object.keys(generation["Age"]).forEach(function(key){
+      tempEmp.push(generation["Age"][key]);
+    });
+    employees.push(tempEmp)
+  
+    i++
+  
+  });
+  
+  var legends = ["No","Yes"];
+  
+  var x = [];
+  for (k= 0; k < gen.length; k++){
+      x.push(gen[k][0])
+  }
+  
+  var traces = [];
+  var colors = ["FAC379","682542","E3DF8C","F58423"]//["A1B5BD","ECC05F","E4693E","112D4B"]
+  
+  for (i = 0; i < legends.length; i++){
+    var y = [values[0][i],values[1][i],values[2][i],values[3][i]];
+    var text = [employees[0][i],employees[1][i],employees[2][i],employees[3][i]];
+    var trace = {
+      x: x,
+      y: y,
+      text: y.map(String),
+      textposition: 'auto',
+      name: legends[i],
+      type: 'bar',
+      mode: 'markers',
+      marker: {
+        color: colors[i],
+          size: 10
+      }
+    };
+    traces.push(trace)
+  }
+    
+  var data = traces;
+    
+  var layout = {
+    barmode: 'stack',
+    title: 'Over Time',
+    font:{
+      family: 'Raleway, sans-serif'
+    },
+    showlegend: true,
+    xaxis:{title:"Generation"},
+    yaxis:{title:"% Employees"}
+    };
+    
+  Plotly.newPlot('overTime', data, layout,{displayModeBar: false}, {responsive: true});
+  
+  })
 
 
 

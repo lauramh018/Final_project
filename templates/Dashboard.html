@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/styles-dash.css">
 
-
     <title>Dashboard</title>
 </head>
 <body id="dash">
@@ -54,18 +53,54 @@
           </ul>
           <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
           </form>
         </div>
       </nav>
   
     <div id="First" class="container">
       <div class="row">
+        <div class="col-6 kpiBackground">
+          <strong><span class="kpiText">Attrition: NO</span></strong>
+        </div>
+        <div class="col-6 kpiBackground2">
+          <strong><span class="kpiText">Attrition: YES</span></strong>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-3">
+          <div class="kpi">
+            <strong><span class="kpiNumber" id="noNumber"></span></strong> <br>
+            <span class="kpiText">Employees</span>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="kpi">
+            <strong><span class="kpiNumber" id="noPercentage"></span></strong> <br>
+            <span class="kpiText">% </span>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="kpi">
+            <strong><span class="kpiNumber2" id="yesNumber"></span></strong> <br>
+            <span class="kpiText">Employees</span>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="kpi">
+            <strong><span class="kpiNumber2" id="yesPercentage"></span></strong> <br>
+            <span class="kpiText">% </span>
+          </div>
+        </div>
+      </div>
+      <br>
+      <h3>Turnover Analysis</h3>
+      <div class="row">
         <div class="col-6">
           <div id="stacked"></div>
         </div>
         <div class="col-6">
           <iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~lauramh018/11.embed"></iframe>
+          <a class="test-popup-link" target="_blank" href="/static/images/MonthlyDist.png">See distribution detail</a>
         </div>
       </div>
       <br>
@@ -86,7 +121,7 @@
           <div id="myDiv6"></div>
         </div>
       </div>
-      <br>
+      <h3>People who left</h3>
       <div class="row">
         <div class="col-6">
           <div id="myDiv2"></div>
@@ -101,7 +136,7 @@
           <div id="myDiv4"></div>
         </div>
         <div class="col-6">
-          
+          <div id="overTime"></div>
         </div>
       </div>
       
